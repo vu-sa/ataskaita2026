@@ -1,0 +1,54 @@
+{
+  "lt": [
+    {
+      "value": 37,
+      "label": "metai",
+      "description": "Vilniaus universiteto studentų (-čių) atstovavimo",
+      "icon": "Star"
+    },
+    {
+      "value": 15,
+      "label": "VU SA padalinių",
+      "description": "veikiančių 3 miestuose (Vilniuje, Kaune ir Šiauliuose)",
+      "icon": "Building"
+    },
+    {
+      "value": 27,
+      "label": "studentiškos iniciatyvos",
+      "description": "kuriančios studentų gerovę",
+      "icon": "Lightbulb"
+    },
+    {
+      "value": 1487,
+      "label": "nariai",
+      "description": "dėl bendro tikslo veikiantys nariai",
+      "icon": "Users"
+    }
+  ],
+  "en": [
+    {
+      "value": 37,
+      "label": "years",
+      "description": "of representing Vilnius University students",
+      "icon": "Star"
+    },
+    {
+      "value": 15,
+      "label": "VU SR units",
+      "description": "operating in 3 cities (Vilnius, Kaunas, and Šiauliai)",
+      "icon": "Building"
+    },
+    {
+      "value": 27,
+      "label": "student initiatives",
+      "description": "creating student well-being",
+      "icon": "Lightbulb"
+    },
+    {
+      "value": 1487,
+      "label": "members",
+      "description": "working toward a common goal",
+      "icon": "Users"
+    }
+  ]
+}
