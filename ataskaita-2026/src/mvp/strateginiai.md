@@ -1,24 +1,40 @@
 # Strateginiai tikslai
 
+<script setup lang="ts">
+import TimelineItemSection from '@/TimelineItemSection.vue'
+
+const goals = {
+  '1': [
+    { type: 'success', content: '5 % daugiau individualiųjų studijų dalykų vyksta mišriu būdu ir pakoreguojami atsižvelgiant į studentų (-čių) poreikius.' },
+    { type: 'warning', content: '65 % studentų (-čių), turinčių individualiųjų studijų dalykus, yra suteikę (-usios) grįžtamąjį ryšį apie juos.' },
+    { type: 'success', content: 'Bent 100 dėstytojų dalyvauja mokymuose apie darbą dėstant individualiųjų studijų dalykus (modulius).' },
+  ],
+  '2': [
+    { type: 'success', content: 'Bent 50% atstovų (-ių) turi išsikeltus tikslus, taip pat yra vykdomas tikslų įgyvendinimo monitoringas.' },
+    { type: 'success', content: 'Suorganizuotas susitikimas, kurio metu išsigryninti esminiai turimų įrankių trūkumai bei sudarytas prioritetinių trūkumų tvarkymo sąrašas.' },
+    { type: 'warning', content: 'Atstovų (-ių) koordinatorių darbas tampa sistemingesnis, formuojamos aiškios techninės užduotys kasdieniame darbe.' },
+  ],
+  '3': [
+    { type: 'success', content: 'VU bendruomenė turi galimybes įgyti kompetencijas atsparumo srityje pagal VU teikiamas paslaugas ir informaciją.' },
+    { type: 'success', content: 'VU SA bendradarbiaudama su VU, išorės ekspertais bei remdamasi duomenimis identifikuoja ir parengia VU saugumo spragų vertinimo dokumentą.' },
+  ],
+  '4': [
+    { type: 'success', content: 'Įgyvendintos bent 5 iniciatyvos, kuriose sudalyvauja bent 150 Vilniaus universiteto bendruomenės narių.' },
+    { type: 'warning', content: 'Tarp baigiamųjų darbų temų atsiranda bent 1 tema orientuota į darnų vystymąsi 30 proc. studijų programų.' },
+    { type: 'warning', content: 'Yra įgyvendinta bent 45 proc. pokyčių, kurie yra susiję su Vilniaus universiteto bendrabučiuose darnumą skatinančių įpročių formavimusi.' },
+  ],
+}
+</script>
+
 ## Strateginis tikslas nr. 1
 
 Vilniaus universitete individualiųjų studijų pasirinkimui yra pateikiama visa reikalinga informacija, dėstytojai (-os) geba dirbti su grupėje esančia įvairove, o studentai (-ės) dalykus renkasi atsižvelgdami į savo siekius.
 
 **Poveikio rodiklis:** iki 2026 m. liepos 1 d. 70% apklaustųjų studentų (-čių), turinčių individualiuosius studijų dalykus, yra patenkinti(-os) jais.
 
-### 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['1']" />
 
-5 % daugiau individualiųjų studijų dalykų vyksta mišriu būdu ir pakoreguojami atsižvelgiant į studentų (-čių) poreikius.
-
-### 2 uždavinys: įgyvendinamas
-
-65 % studentų (-čių), turinčių individualiųjų studijų dalykus, yra suteikę (-usios) grįžtamąjį ryšį apie juos.
-
-### 3 uždavinys: įgyvendintas
-
-Bent 100 dėstytojų dalyvauja mokymuose apie darbą dėstant individualiųjų studijų dalykus (modulius).
-
-### ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Siekiant visiems (-oms) studentams (-ėms) sudaryti sąlygas tikslingiau ir sklandžiau rinktis individualiųjų studijų dalykus visam studijų laikotarpiui buvo sukurti rekomendacinio pobūdžio individualiųjų studijų dalykų komplektai. Pastarieji individualiųjų studijų komplektai buvo sudaryti pagal tematikas ir konkrečius dalykus. Taip pat prie sudarytų individualiųjų studijų dalykų (modulių) buvo pateikti dėstytojų atsiliepimai apie kai kuriuos komplektuose esančius individualiųjų dalykus (modulius). Su visais individualiųjų studijų komplektais galima susipažinti VU SA svetainėje čia.
 - Parengta atmintinė kuratoriams (-ėms) apie individualiąsias studijas, siekiant užtikrinti kokybišką pirmakursių konsultavimą.
@@ -28,25 +44,17 @@ Bent 100 dėstytojų dalyvauja mokymuose apie darbą dėstant individualiųjų s
 - Taip pat įgyvendintas susitikimas su Universiteto atstovais (-ėmis), kurio metu buvo įvardintos individualiųjų studijų įgyvendinimo problemos kaip tvarkaraščių suderinamumas, pasirinkimo sistema, hibridinių dalykų trūkumas, dalykų aprašų netikslumas. Aptarti galimi sprendimo būdai buvo pristatyti VU kamieninių akademinių padalinių studijų prodekanams (-ėms) bei VU Senato nariams (-ėms).
 - VU Edukacinių kompetencijų centrui buvo pateiktas siūlymas inicijuoti mokymus, orientuotus į dėstytojų kompetencijų apie darbą su individualų pasirengimo lygį turinčiais studentais (-ėmis) kėlimą. Šią temą VU Edukacinių kompetencijų centro atstovai (-ės) planuoja integruoti į visus aktualius mokymus dėstytojams (-oms). Jau balandžio mėnesį vyko mokymai dėstytojams (-oms), kurių metu buvo paliesta ši tematika.
 
+:::
+
 ## Strateginis tikslas nr. 2
 
 VU SA peržiūrėtos ir atnaujintos studentų (-čių) atstovavimo proceso dalys: studentų (-čių) atstovų (-ių) koordinavimas ir kontrolė (atstovų (-ių) koordinatorių veikla), studentų (-čių) atstovų (-ių) darbo organizavimas (studentų (-čių) atstovavimui reikalingų kompetencijų ir įrankių tobulinimas).
 
 **Poveikio rodiklis:** iki 2026 m. kovo 31 d. studentų (-čių) atstovų (-ių) pasitenkinimo koordinavimu ir suteikiamais įrankiais lygis padidėjo 20% bei 60 proc. studentų (-čių) atstovų (-ių) VU dariniuose pasiekia savo išsikeltus tikslus.
 
-### 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['2']" />
 
-Bent 50% atstovų (-ių) turi išsikeltus tikslus, taip pat yra vykdomas tikslų įgyvendinimo monitoringas.
-
-### 2 uždavinys: įgyvendintas
-
-Suorganizuotas susitikimas, kurio metu išsigryninti esminiai turimų įrankių trūkumai bei sudarytas prioritetinių trūkumų tvarkymo sąrašas.
-
-### 3 uždavinys: įgyvendinamas
-
-Atstovų (-ių) koordinatorių darbas tampa sistemingesnis, formuojamos aiškios techninės užduotys kasdieniame darbe.
-
-### ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Atnaujintas kontaktinių asmenų, SPK atstovų (-ių) ir atstovų (-ių) koordinatorių, pareigybiniai aprašai į juos įtraukiant punktą apie kontaktinių asmenų ir atstovų (-ių) tarpusavio bendradarbiavimą studijų ir nuomonės rinkimo klausimais bei panaikintas punktas apie darbą su praktikų klausimu, nusprendus, jog tai įeitų į akademinių procesų reikalų koordinatorių pareigas.
 - 8 iš 15 VU kamieninių akademinių padalinių buvo įgyvendinti įvairaus formato pristatymai apie studentų (-čių) atstovus (-es) bei jų funkcijas. Šiais pristatymais buvo siekiama priminti arba supažinti studentus (-es) su jų galimybėmis kreiptis į studentų (-čių) atstovus (-es) skirtinguose organuose ir gauti jiems (-oms) reikiamą pagalbą.
@@ -65,21 +73,17 @@ Atstovų (-ių) koordinatorių darbas tampa sistemingesnis, formuojamos aiškios
 - Parengta D.U.K. atmintinė su informacija, kaip naudotis ir įgyvendinti studentų (-čių) atstovų (-ių) išsikeltus tikslus, naudojantis atnaujintais įrankiais (Mano VU SA, VU SA archyvo atstovų aplanku bei svetaine atstovavimas.vusa.lt).
 - Balandžio mėn. buvo įgyvendinta apklausa, kurios metu buvo siekiama išsiaiškinti, kokią įtaką atnaujinti procesai padarė VU SA studentų (-čių) veiklai metų eigoje.
 
+:::
+
 ## Strateginis tikslas nr. 3
 
 Vilniaus universiteto bendruomenė yra solidari, pasiruošusi ir gebanti reaguoti į vidaus ir išorės grėsmes.
 
 **Poveikio rodiklis:** iki 2026 m. liepos 1 d. 40% integracijos tyrimą užpildžiusių respondentų (-čių) teigia žinantys (-čios), kur gali gauti informaciją bei įgyti kompetencijas atsparumo tematika VU.
 
-### 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['3']" />
 
-VU bendruomenė turi galimybes įgyti kompetencijas atsparumo srityje pagal VU teikiamas paslaugas ir informaciją.
-
-### 2 uždavinys: įgyvendintas
-
-VU SA bendradarbiaudama su VU, išorės ekspertais bei remdamasi duomenimis identifikuoja ir parengia VU saugumo spragų vertinimo dokumentą.
-
-### ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - VU SA kartu su integracijos tyrimu įvykdė tyrimą, vertinantį VU bendruomenės pilietinio pasipriešinimo ir atsparumo kompetencijas. Šis tyrimas parodė, kad identifikuotas aktualiausias saugumo sritis: sistemingo atsparumo kompetencijų ugdymo pasiūlos (temos) bei sąlygų (formatų) nebuvimas; saugumo koordinavimas ir rizikų vertinimas; kibernetinė sauga ir infrastruktūra; psichologinis atsparumas. Šalia to buvo identifikuotos aktualiausios temos: bazinis pasirengimas ekstremalių situacijų metu; civilinės saugos teorinės bei praktinės žinios; psichologinio atsparumo įgūdžių lavinimas; dezinformacijos atpažinimas; kibernetinis saugumas; neginkluoto pasipriešinimo formos.
 - VU SA bendradarbiaudama su VU administracija parengė savitarpio pagalbos mokymus pagal apklausos duomenimis grįstus poreikius. Buvo suformuotas detalus mokymų aprašas, atsirinktos aktualiausios tematikos ir potemės.
@@ -91,25 +95,17 @@ VU SA bendradarbiaudama su VU, išorės ekspertais bei remdamasi duomenimis iden
 - VU administracijai pateiktas VU SA dokumentas „Pasiūlymai siekiant didinti universiteto bendruomenės atsparumą grėsmėms“, kuriame suformuluotos rekomendacijos ir pasiūlymai dėl atsparumo kompetencijų ugdymo ir lavinimo visai VU bendruomenei. Šis dokumentas parengtas remiantis ankstesnės VU SA Parlamento patvirtintos rezoliucijos dėl Vilniaus Universiteto vaidmens ugdant bendruomenės sąmoningumą ir atsparumą nacionalinio saugumo grėsmėms, nuostatomis.
 - VU SA suorganizavo ir įgyvendino pirmosios pagalbos mokymus, kurie vyko spalio mėn. Juose sudalyvavo virš 70 studentų (-čių) iš skirtingų VU fakultetų. Vasario ir kovo mėnesiais Vilniaus universiteto Studentų atstovybės padaliniai organizavo ir įgyvendino civilinės saugos veiklas, ekskursijas skirtinguose Vilniaus universiteto kamieniniuose akademiniuose padaliniuose (GMC, FsF, KF, EVAF, TSPMI). Šių užsiėmimų metu dalyviai (-ės) turėjo galimybę susipažinti su pasirengimo ekstremalioms situacijoms pagrindais bei kaip elgtis jų metu.
 
+:::
+
 ## Strateginis tikslas nr. 4
 
 Vilniaus universiteto bendruomenė prisideda prie tvarios visuomenės kūrimo taikydama darnaus vystymosi principus studijų procese bei bendruomeninėje veikloje.
 
 **Poveikio rodiklis:** iki 2026 m. balandžio 15 d. įgyvendinta bent 10 veiklų, orientuotų į darnų vystymąsi.
 
-### 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['4']" />
 
-Įgyvendintos bent 5 iniciatyvos, kuriose sudalyvauja bent 150 Vilniaus universiteto bendruomenės narių.
-
-### 2 uždavinys: įgyvendinamas
-
-Tarp baigiamųjų darbų temų atsiranda bent 1 tema orientuota į darnų vystymąsi 30 proc. studijų programų.
-
-### 3 uždavinys: įgyvendinamas
-
-Yra įgyvendinta bent 45 proc. pokyčių, kurie yra susiję su Vilniaus universiteto bendrabučiuose darnumą skatinančių įpročių formavimusi.
-
-### ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Tikslo įgyvendinimo laikotarpiu buvo įgyvendintos šios su darnumu susijusios iniciatyvos: rugsėjo mėn. vykusiame integracijos festivalyje „Ad Astra“ vyko dirbtuvės, vasario mėn. VU bendrabučiuose (Saulėtekio al. 12, 31, 37, M.K. Čiurlionio g. 23, Didlaukio g. 59) buvo pastatytos „DĖK‘ui“ stotelės, kuriose studentai (-ės) gali keistis vienas (-a) kito (-s) daiktais ar drabužiais, laikantis tvarumo principo; kovo mėn. vyko kartu su VU Biblioteka organizuotos tvarios knygryšystės dirbtuvės; balandžio mėn. VU SA prisijungė prie VU aplinkos tvarkymo akcijos „VU Švaru“ ir prisidėjo prie Universitetinių miestelių aplinkos tvarkymo.
 - VU SA kovo ir balandžio mėn. įrašė 2 „Akademinės druskos” tinklalaidės : „Kaip išgyventi paskutinį kursą?” (su VU BGS psichologu Alanu Filatov) (įrašą galima rasti čia) ir „Apie ribas, smurtą ir saugų gyvenimą“ (su Ribologijos vadove Rugile Butkevičiūte) (įrašą galima rasti čia).
@@ -119,3 +115,5 @@ Yra įgyvendinta bent 45 proc. pokyčių, kurie yra susiję su Vilniaus universi
 - 2025 m. pabaigoje buvo iš naujo peržiūrėtas, atnaujintas bei bendrabučiams pritaikytas socialinės aplinkos žemėlapis. Šis įrankis leido įvertinti, kaip bendrabučių aplinka skatina studentus (-es) prisidėti prie darnių įpročių vystymosi. Įvertinus dabartinę bendrabučių būklę ir įgyvendinus susitikimus su VU Bendrabučių administracija, buvo įgyvendinti šie pokyčiai: bendrabučių virtuvėse atsirado rūšiavimui skirtos šiukšliadėžės, tam tikruose bendrabučiuose buvo atnaujintas langų sandarinimas, sukurta vieninga gedimų registravimo ir informavimo sistema, atnaujinta informacija VU Būsto svetainėje apie bendrabučių kainas pagal skirtingus bendrabučius, numatytas virtuvių ir vonios kambarių įrangos atnaujinimas daugiau nei 200 kambarių, numatytos bendrosios erdvės studentų socializacijai bendrabučiuose, įrengtos bendros daiktų dalinimosi erdvės (DĖK'UI stotelės) penkiuose Vilniaus bendrabučiuose.
 - Paruošta atmintinė / gairės dėstytojams (-oms) apie tai, kaip integruoti darnaus vystymosi tikslus į studijų procesą (t. y. organizuojant savo dėstomą studijų dalyką).
 - Kartu su Labdaros ir paramos fondu „Ateičiai” įsteigta stipendija studentams (-ėms), kuri bus skiriama už iniciatyvas, orientuotas į aplinkos apsaugą, atsakingą vartojimą bei klimato kaitos mažinimą.
+
+:::

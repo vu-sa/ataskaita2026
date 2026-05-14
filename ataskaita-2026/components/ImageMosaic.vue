@@ -8,7 +8,7 @@
     <!-- Mosaic grid -->
     <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-8 gap-3 md:gap-4 grid-flow-row-dense">
       <div v-for="(image, index) in images" :key="index"
-        class="last:md:col-span-1 last:max-md:hidden relative group overflow-hidden rounded-lg shadow-md hover:shadow-xl transition-all duration-300 h-full"
+        class="last:md:col-span-1 last:max-md:hidden relative group overflow-hidden notch-corner transition-all duration-300 h-full"
         :class="getLayoutClass(index)" @click="openLightbox(index)">
         <div class="relative h-full w-full">
           <!-- Image -->

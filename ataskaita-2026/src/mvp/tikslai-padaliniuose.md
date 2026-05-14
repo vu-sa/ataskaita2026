@@ -1,20 +1,90 @@
 # VU SA P tikslai
 
+<script setup lang="ts">
+import TimelineItemSection from '@/TimelineItemSection.vue'
+
+const goals = {
+  '1': [
+    { type: 'success', content: 'Parengtos studijų dalykų aprašų tobulinimo rekomendacijos (remiantis problemos analize ir Vilniaus universiteto studijų programų reglamentu) ir iškomunikuotos VU CHGF sprendimų priėmėjams (-oms) (prodekanams (-ėms) ir studijų kolegijai), kurie (-ios) skatins dėstytojus (-as) peržiūrėti savo dėstomų dalykų aprašus ir juos pataisyti.' },
+    { type: 'warning', content: 'Kiekviename SPK patvirtinti patobulinti po 2 studijų dalykų aprašai iš kiekvienos studijų programos.' },
+    { type: 'error', content: 'Bent po 2 iš kiekvienos studijų programos VU CHGF studijų dalykų aprašai yra vientiso formato ir atitinka šabloną pagal Vilniaus universiteto studijų programų reglamentą.' },
+  ],
+  '2': [
+    { type: 'success', content: 'Sudarytas studentų (-čių) pasirinktų mokymo metodų, kuriuos studentai norėtų matyti labiausiai, sąrašas.' },
+    { type: 'success', content: 'Bent 5 dėstytojai (-os) į savo dėstomo dalyko metodikas įtraukia studentų (-čių) pasirinktus mokymo metodus.' },
+    { type: 'warning', content: 'Parengta įgyvendintų mokymo metodų rezultatų ataskaita, kurioje pateiktas studentų (-čių) ir dėstytojų grįžtamasis ryšys.' },
+  ],
+  '3': [
+    { type: 'error', content: 'Mokymosi platformoje yra pasiekiami 75 proc. aukštosios matematikos I ir II bei termodinamikos ir mechanikos paskaitų įrašai.' },
+    { type: 'success', content: 'Įvyksta 4 studentų (-čių) mokymosi sesijos, kuriose bendrai sudalyvauja bent 100 studentų (-čių).' },
+    { type: 'not-planned', content: 'Bent 75 proc. veiklose dalyvavusių studentų (-čių) veiklą vertina teigiamai.' },
+  ],
+  '4': [
+    { type: 'warning', content: 'Patvirtinta darbo grupė ir atstovai (-ės), parengtas peržiūrų darbų sąrašas (šablonas, kalba, ECTS ± 10 proc.), aiškios rolės ir kontaktai.' },
+    { type: 'not-planned', content: 'Parengtas duomenimis grįstas atviro dalykų aprašų talpinimo pasiūlymas ir rekomendacijų paketas.' },
+    { type: 'not-planned', content: 'VU FilF Tarybos posėdžio metu patvirtintas sutarimas pasiūlymo siekiniams suderinti įgyvendinimo grafiką (šablonas, terminas, publikavimas), įsipareigojimus ir atsakingus asmenis.' },
+    { type: 'not-planned', content: 'VMA yra naujas polapis, kurio naujinimo progresas su įkeliamais dalykų aprašais yra stebimas bent 5 žmonių.' },
+  ],
+  '5': [
+    { type: 'success', content: 'VU FsF yra parengtos DI naudojimo gairės.' },
+    { type: 'warning', content: 'Patvirtintos DI naudojimo gairės VU FsF Taryboje.' },
+    { type: 'warning', content: 'VU FsF studentai (-ės) ir dėstytojai (-os) yra informuoti apie DI naudojimo galimybes ir patvirtintas DI naudojimo gaires bent 4 komunikacijos kanalais.' },
+  ],
+  '6': [
+    { type: 'warning', content: 'Studentai (-ės) iš 10 modulių įvardina, kad VMA yra pagrindinė dėstytojų ir studentų (-čių) komunikacijos platforma ir ja naudojamasi nuosekliai.' },
+    { type: 'warning', content: 'Apklausą apie iš dėstytojų gaunamą grįžtamąjį ryšį užpildo 40 proc. VU IF studentų (-čių).' },
+  ],
+  '7': [
+    { type: 'warning', content: 'Bent 50 proc. rudens semestre dėstomų studijų dalykų studentai (-ės) gavo grįžtamąjį ryšį ne per ilgesnį kaip dviejų savaičių laikotarpį po atsiskaitymo.' },
+    { type: 'warning', content: 'Kiekvienos studijų programos grupės studentai (-ės) yra informuoti (-os) apie grįžtamojo ryšio svarbą, jo formas ir žino, kad turi jį gauti numatytu dviejų savaičių laikotarpiu.' },
+    { type: 'not-planned', content: 'Dėstytojai (-os) supažindinti su grįžtamojo ryšio reikšme studentų (-čių) mokymosi procesui, jiems (-oms) pateikti aiškūs siūlymai dėl tinkamų grįžtamojo ryšio formų bei rekomenduotas teikimo dažnis – per dvi savaites po atsiskaitymo.' },
+    { type: 'warning', content: 'VU KF sprendimų priėmėjai (-os) priima VU SA KF pateiktus siūlymus ir taiko juos siekiant gerinti grįžtamojo ryšio teikimo kokybę studijų procese.' },
+  ],
+  '8': [
+    { type: 'warning', content: 'VU SA KnF paviešinta kokybiško grįžtamojo ryšio teikimo metodika.' },
+    { type: 'warning', content: 'Informacija apie su grįžtamuoju ryšiu susijusias iniciatyvas ar akcijas patalpinta bent 3 skirtinguose komunikacijos kanaluose (Facebook, Instagram, laiškai).' },
+    { type: 'warning', content: 'Visose VU KnF SPK yra priimamas bent 1 pokytis, susijęs su grįžtamojo ryšio teikimu.' },
+    { type: 'warning', content: 'Apklausoje daugiau nei 60 proc. dalyvavusių studentų (-čių) yra suteikę (-usios) ar sulaukę (-usios) kokybiško grįžtamojo ryšio.' },
+  ],
+  '9': [
+    { type: 'success', content: 'Is.vu.lt 2025–2026 m. rudens semestro apklausos pildymas pirmos ir antros studijų programų pakopų padidėjo 3 proc., lyginant su 2024–2025 m. rudens semestro apklausomis.' },
+    { type: 'warning', content: 'Atsižvelgiant į VU SA MF siūlymus, įvyksta bent trys pedagoginės kvalifikacijos kėlimo iniciatyvos.' },
+    { type: 'warning', content: 'Bent 6 studijų moduliuose įvyksta arba suplanuoti studentams (-ėms) palankūs pokyčiai.' },
+  ],
+  '10': [
+    { type: 'success', content: 'Ne mažiau kaip 70 proc. studentų (-čių) atstovų (-ių) SPK posėdžių metu pateikia bent vieną argumentuotą pasiūlymą ar komentarą dėl studijų kokybės gerinimo.' },
+    { type: 'warning', content: 'Ne mažiau kaip 35 proc. SPK aptartų studentų (-čių) grįžtamojo ryšio atvejų turi įgyvendintas rekomendacijas dėl dėstymo kokybės gerinimo.' },
+    { type: 'warning', content: 'Įgyvendintos ne mažiau kaip 3 skirtingos komunikacijos iniciatyvos (renginiai, mokymai, publikacijos, vaizdo įrašai ir kt.), skirtos kokybiško grįžtamojo ryšio svarbai pristatyti.' },
+  ],
+  '11': [
+    { type: 'success', content: '80 procentų apklausos apie VU ŠA vykdomų renginių ir iniciatyvų bendruomeninių poreikių patenkinimą respondentų teigia, kad yra atliepiami jų bendruomeniniai poreikiai.' },
+    { type: 'success', content: 'Kartu su kitomis švietimo institucijomis vykdytuose renginiuose, iniciatyvose ir karjeros planavimo veiklose sudalyvavo bent 150 studentų (-čių).' },
+  ],
+  '12': [
+    { type: 'warning', content: '20 proc. VU IS apklausose atsakiusių studentų (-čių) teigia, kad VU TF dėstytojai (-os) ir seminarų vedėjai (-os) teikia grįžtamąjį ryšį.' },
+    { type: 'success', content: 'VU SA TF sukurtoje apklausoje grįžtamąjį ryšį apie dėstytojus per metus pateikė bent 100 VU TF studentų (-čių).' },
+    { type: 'success', content: 'VU TF studentai (-ės), dėstytojai (-os) ir seminarų vedėjai (-os) yra supažindinti (-os) su grįžtamojo ryšio teikimo sistema.' },
+  ],
+  '13': [
+    { type: 'warning', content: 'VU TSPMI puslapyje atnaujinta informacija apie mainų galimybes.' },
+    { type: 'warning', content: 'Bent 50 proc. studentų (-čių), dalyvavusių mainų programoje, pasinaudojo mentorių tinklu.' },
+    { type: 'warning', content: 'Sukurta bendradarbiavimo partnerystė su mažiausiai 15 tarptautinių institucijų.' },
+  ],
+  '14': [
+    { type: 'error', content: 'Problemų analizės dokumentas yra įkeliamas į VU SA VM archyvą.' },
+    { type: 'error', content: 'Daugiau nei 30 proc. apklaustųjų, dalyvavusių moduliuose, kuriuos vedė konstruktyvų grįžtamąjį ryšį teikiantys dėstytojai (-os), teigia, kad gauto grįžtamojo ryšio kokybė pagerėjo.' },
+    { type: 'error', content: 'Bent vienu VU SA VM komunikacijos kanalu yra paskelbiama ataskaita, kurioje apibendrinami užbaigtų focus grupių, apklausų rezultatai, lektorių pateikti konstruktyvūs atsiliepimai ir priimti pakeitimai.' },
+  ],
+}
+</script>
+
+## VU SA CHGF
+
 VU CHGF studijų dalykų aprašai yra peržiūrėti ir bent 2 kiekvienos studijų programos dalykų aprašai patobulinti, atsižvelgiant į pakitusias dėstymo praktikas, vertinimą, literatūrą, studijų dalyko aprašo šabloną.
 
-## 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['1']" />
 
-Parengtos studijų dalykų aprašų tobulinimo rekomendacijos (remiantis problemos analize ir Vilniaus universiteto studijų programų reglamentu) ir iškomunikuotos VU CHGF sprendimų priėmėjams (-oms) (prodekanams (-ėms) ir studijų kolegijai), kurie (-ios) skatins dėstytojus (-as) peržiūrėti savo dėstomų dalykų aprašus ir juos pataisyti.
-
-## 2 uždavinys: įgyvendinamas
-
-Kiekviename SPK patvirtinti patobulinti po 2 studijų dalykų aprašai iš kiekvienos studijų programos.
-
-## 3 uždavinys: neįgyvendintas
-
-Bent po 2 iš kiekvienos studijų programos VU CHGF studijų dalykų aprašai yra vientiso formato ir atitinka šabloną pagal Vilniaus universiteto studijų programų reglamentą.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Parengtas aiškus ir struktūruotas rekomendacijų pristatymas, atspindintis studentų (-čių) lūkesčius (remiantis problemos analize ir Vilniaus universiteto studijų programų reglamentu) dėl informacijos, kuri turėtų būti pateikiama studijų dalykų aprašuose. Pastarasis aprašymas buvo pristatytas VU CHGF prodekanei doc. dr. Tatjanai Kochanei.
 
@@ -28,21 +98,15 @@ Bent po 2 iš kiekvienos studijų programos VU CHGF studijų dalykų aprašai yr
 
 - Buvo atnaujinti 9 dalykų aprašai.
 
+:::
+
+## VU SA EVAF
+
 VU EVAF dėstytojai (-os) savo studijų dalykuose įdiegia studentų (-čių) pasirinktus mokymo metodus, kuriuos studentai (-ės) laiko naudingais.
 
-## 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['2']" />
 
-Sudarytas studentų (-čių) pasirinktų mokymo metodų, kuriuos studentai norėtų matyti labiausiai, sąrašas.
-
-## 2 uždavinys: įgyvendintas
-
-Bent 5 dėstytojai (-os) į savo dėstomo dalyko metodikas įtraukia studentų (-čių) pasirinktus mokymo metodus.
-
-## 3 uždavinys: įgyvendinamas
-
-Parengta įgyvendintų mokymo metodų rezultatų ataskaita, kurioje pateiktas studentų (-čių) ir dėstytojų grįžtamasis ryšys.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Buvo sukurta ir išplatinta apklausa, kurios metu VU EVAF studentai (-ės) galėjo išreikšti savo nuomonę apie papildomai studijų procese naudojamus mokymosi metodus. Apklausoje savo nuomonę išreiškė 93 studentai (-ės).
 
@@ -54,45 +118,29 @@ Parengta įgyvendintų mokymo metodų rezultatų ataskaita, kurioje pateiktas st
 
 - Buvo sudaryta papildoma apklausa, kurioje studentai (-ės) galėjo nurodyti, ar papildomi mokymosi metodai pagerino jų studijų patirtį.
 
+:::
+
+## VU SA FF
+
 Gerinti VU FF I pakopos I kurso studentų (-čių) studijų aplinką ir prieinamumą, diegiant savarankiško mokymosi kultūrą bei informuojant apie studijų valdymo galimybes.
 
-## 1 uždavinys: neįgyvendintas
+<TimelineItemSection :items="goals['3']" />
 
-Mokymosi platformoje yra pasiekiami 75 proc. aukštosios matematikos I ir II bei termodinamikos ir mechanikos paskaitų įrašai.
-
-## 2 uždavinys: įgyvendintas
-
-Įvyksta 4 studentų (-čių) mokymosi sesijos, kuriose bendrai sudalyvauja bent 100 studentų (-čių).
-
-## 3 uždavinys: atsisakytas
-
-Bent 75 proc. veiklose dalyvavusių studentų (-čių) veiklą vertina teigiamai.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - VU FF sukurtos mokymosi grupelės jaunesnio kurso studentams (-ėms). Įgyvendinant šių mokymosi grupelių veiklą buvo surasti vadovauti galintys 5 vyresnio kurso studentai (-ės).
 
 - VU SA FF vidiniais kanalais buvo išviešintos mokymosi grupelės, kuriose bendrai sudalyvavo apie 100 studentų (-čių).
 
+:::
+
+## VU SA FilF
+
 VU FilF virtualioje mokymosi aplinkoje (skiltyje „Dalykų aprašai“) atvirai paskelbti bent 35 proc. 2025 / 2026 m. m. vykdomų BA ir MA dalykų aprašai, paruošti vieningu šablonu, remiantis VU parengta pagalbine medžiaga dalykų (modulių) aprašams. Kiekvienas aprašas: (a) parengtas programos vykdomąja kalba (LT / EN / PL / RU), (b) atitinka ECTS krūvio skaičiuoklę (± 10 proc. paklaida).
 
-## 1 uždavinys: įgyvendinamas
+<TimelineItemSection :items="goals['4']" />
 
-Patvirtinta darbo grupė ir atstovai (-ės), parengtas peržiūrų darbų sąrašas (šablonas, kalba, ECTS ± 10 proc.), aiškios rolės ir kontaktai.
-
-## 2 uždavinys: atsisakytas
-
-Parengtas duomenimis grįstas atviro dalykų aprašų talpinimo pasiūlymas ir rekomendacijų paketas.
-
-## 3 uždavinys: atsisakytas
-
-VU FilF Tarybos posėdžio metu patvirtintas sutarimas pasiūlymo siekiniams suderinti įgyvendinimo grafiką (šablonas, terminas, publikavimas), įsipareigojimus ir atsakingus asmenis.
-
-## 4 uždavinys: atsisakytas
-
-VMA yra naujas polapis, kurio naujinimo progresas su įkeliamais dalykų aprašais yra stebimas bent 5 žmonių.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Sudaryta VU SA FilF darbo grupė, atsakinga už dalykų aprašų peržiūrą ir atnaujinimą.
 
@@ -108,21 +156,15 @@ VMA yra naujas polapis, kurio naujinimo progresas su įkeliamais dalykų apraša
 
 - Peržiūrėta bent dalis dalykų aprašų bei pateikti komentarai šių studijų programų: Intermedialios literatūros studijos, Lietuvių filologija, Lietuvių filologija: kultūros ir medijų studijos, Lietuvių filologija: redagavimas, Prancūzų filologija, Vertimas (BA).
 
+:::
+
+## VU SA FsF
+
 VU FsF yra parengtos ir patvirtintos DI naudojimo gairės, su kuriomis yra supažindinti (-os) FsF studentai (-ės) ir dėstytojai (-os).
 
-## 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['5']" />
 
-VU FsF yra parengtos DI naudojimo gairės.
-
-## 2 uždavinys: įgyvendinamas
-
-Patvirtintos DI naudojimo gairės VU FsF Taryboje.
-
-## 3 uždavinys: įgyvendinamas
-
-VU FsF studentai (-ės) ir dėstytojai (-os) yra informuoti apie DI naudojimo galimybes ir patvirtintas DI naudojimo gaires bent 4 komunikacijos kanalais.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - VU SA FsF Dekanate pristatytas vykdomas metų tikslas ir jo aktualumas, taip pat vyko atskiras susitikimas su VU FsF Prodekane doc. dr. Jolanta Aleknevičiene. Šių susitikimų metu aptarta, kaip fakultete pritaikyti dirbtinio intelekto (DI) gaires, ir suderinta, kokias aktualias temas į jas įtraukti.
 
@@ -136,17 +178,15 @@ VU FsF studentai (-ės) ir dėstytojai (-os) yra informuoti apie DI naudojimo ga
 
 - Studentams (-ėms) balandžio 16 d. buvo surengtas renginys apie DI naudojimo tematiką ir akademinį raštingumą.
 
+:::
+
+## VU SA IF
+
 Tarp VU IF studentų (-čių) ir dėstytojų vyksta nuosekli komunikacija, pagrįsta grįžtamuoju ryšiu.
 
-## 1 uždavinys: įgyvendinamas
+<TimelineItemSection :items="goals['6']" />
 
-Studentai (-ės) iš 10 modulių įvardina, kad VMA yra pagrindinė dėstytojų ir studentų (-čių) komunikacijos platforma ir ja naudojamasi nuosekliai.
-
-## 2 uždavinys: įgyvendinamas
-
-Apklausą apie iš dėstytojų gaunamą grįžtamąjį ryšį užpildo 40 proc. VU IF studentų (-čių).
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Išanalizuotos naujausios VU IS apklausos, siekiant sudaryti 5 dažniausiai pasikartojančių problemų, kurios būtų susijusios su virtualios mokymosi aplinkos (VMA) naudojimu, sąrašas.
 
@@ -162,25 +202,15 @@ Apklausą apie iš dėstytojų gaunamą grįžtamąjį ryšį užpildo 40 proc. 
 
 - VU SA IF organizavo apklausą apie dėstytojų teikiamą grįžtamąjį ryšį, vėliau atliko šios apklausos analizę ir priėjo prie išvadų, kuriomis remiantis bus papildomai skatinamas grįžtamasis ryšys iš dėstytojų.
 
+:::
+
+## VU SA KF
+
 Ne mažiau nei 50 proc. rudens semestre VU KF dėstomų studijų dalykų studentai (-ės) gauna grįžtamąjį ryšį ne vėliau, kaip po dviejų savaičių po atsiskaitymo.
 
-## 1 uždavinys: įgyvendinamas
+<TimelineItemSection :items="goals['7']" />
 
-Bent 50 proc. rudens semestre dėstomų studijų dalykų studentai (-ės) gavo grįžtamąjį ryšį ne per ilgesnį kaip dviejų savaičių laikotarpį po atsiskaitymo.
-
-## 2 uždavinys: įgyvendinamas
-
-Kiekvienos studijų programos grupės studentai (-ės) yra informuoti (-os) apie grįžtamojo ryšio svarbą, jo formas ir žino, kad turi jį gauti numatytu dviejų savaičių laikotarpiu.
-
-## 3 uždavinys: atsisakytas
-
-Dėstytojai (-os) supažindinti su grįžtamojo ryšio reikšme studentų (-čių) mokymosi procesui, jiems (-oms) pateikti aiškūs siūlymai dėl tinkamų grįžtamojo ryšio formų bei rekomenduotas teikimo dažnis – per dvi savaites po atsiskaitymo.
-
-## 4 uždavinys: įgyvendinamas
-
-VU KF sprendimų priėmėjai (-os) priima VU SA KF pateiktus siūlymus ir taiko juos siekiant gerinti grįžtamojo ryšio teikimo kokybę studijų procese.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - VU SA KF pirmakursių stovyklos metu buvo įgyvendintos veiklos, kurių metu pristatyta grįžtamojo ryšio svarba bei aktualumas studijų procesui.
 
@@ -198,25 +228,15 @@ VU KF sprendimų priėmėjai (-os) priima VU SA KF pateiktus siūlymus ir taiko 
 
 - VU KF administracijai atskiru teikimu buvo pateikti siūlymai nuo VU SA KF dėl grįžtamojo ryšio teikimo kokybės gerinimo studijų procese.
 
+:::
+
+## VU SA KnF
+
 VU KnF dėstytojai (-os) ir studentai (-ės) aktyviai suteikia kokybišką grįžtamąjį ryšį.
 
-## 1 uždavinys: įgyvendinamas
+<TimelineItemSection :items="goals['8']" />
 
-VU SA KnF paviešinta kokybiško grįžtamojo ryšio teikimo metodika.
-
-## 2 uždavinys: įgyvendinamas
-
-Informacija apie su grįžtamuoju ryšiu susijusias iniciatyvas ar akcijas patalpinta bent 3 skirtinguose komunikacijos kanaluose (Facebook, Instagram, laiškai).
-
-## 3 uždavinys: įgyvendinamas
-
-Visose VU KnF SPK yra priimamas bent 1 pokytis, susijęs su grįžtamojo ryšio teikimu.
-
-## 4 uždavinys: įgyvendinamas
-
-Apklausoje daugiau nei 60 proc. dalyvavusių studentų (-čių) yra suteikę (-usios) ar sulaukę (-usios) kokybiško grįžtamojo ryšio.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Siekiant gerinti studentų (-čių) patirtį studijų metu VU KnF buvo parengta kokybiško grįžtamojo ryšio teikimo metodika, paviešinta skirtingais vidiniais kanalais.
 
@@ -226,21 +246,15 @@ Apklausoje daugiau nei 60 proc. dalyvavusių studentų (-čių) yra suteikę (-u
 
 - Sudarytas ir VU KnF studentams (-ėms) vidiniais ir išoriniais kanalais paviešintas grįžtamojo ryšio vadovas. Su vadovu galima susipažinti čia.
 
+:::
+
+## VU SA MF
+
 VU MF veikia vidinė studijų kokybės užtikrinimo sistema, grįsta studentų (-čių) grįžtamuoju ryšiu ir atitinkanti vidinius kokybės kriterijus.
 
-## 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['9']" />
 
-Is.vu.lt 2025–2026 m. rudens semestro apklausos pildymas pirmos ir antros studijų programų pakopų padidėjo 3 proc., lyginant su 2024–2025 m. rudens semestro apklausomis.
-
-## 2 uždavinys: įgyvendinamas
-
-Atsižvelgiant į VU SA MF siūlymus, įvyksta bent trys pedagoginės kvalifikacijos kėlimo iniciatyvos.
-
-## 3 uždavinys: įgyvendinamas
-
-Bent 6 studijų moduliuose įvyksta arba suplanuoti studentams (-ėms) palankūs pokyčiai.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Gruodžio ir balandžio mėn. vykusiuose susitikimuose su kontaktiniais asmenimis aptartos studentams (-ėms) aktualios studijų problemos bei informuota apie VU SA MF inicijuotus sprendimo būdus. Priminta, kad su studijų vykdymu susijusias problemas galima teikti užpildant VU MF Studijų skyriaus specializuotą formą arba informuojant studentų (-čių) atstovus (-es) SPK.
 
@@ -260,21 +274,15 @@ Bent 6 studijų moduliuose įvyksta arba suplanuoti studentams (-ėms) palankūs
 
 - Diskusijų rezultatai perduoti studijų programų kontaktiniams asmenims, taip pat stiprintas tiesioginis ryšys su studentais (-ėmis), užtikrinant informacijos apie vykdomus ir planuojamus pokyčius sklaidą bei nuoseklų studijų kokybės gerinimo proceso tęstinumą.
 
+:::
+
+## VU SA MIF
+
 VU MIF SPK posėdžiuose sistemingai analizuojami studentų (-čių) grįžtamojo ryšio apie dėstymą rezultatai iš studijų programų apklausų, siekiant, kad bent 35 proc. aptartų atvejų būtų imtasi bent vieno pedagoginių kompetencijų tobulinimo veiksmo pagal gautą grįžtamąjį ryšį.
 
-## 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['10']" />
 
-Ne mažiau kaip 70 proc. studentų (-čių) atstovų (-ių) SPK posėdžių metu pateikia bent vieną argumentuotą pasiūlymą ar komentarą dėl studijų kokybės gerinimo.
-
-## 2 uždavinys: įgyvendinamas
-
-Ne mažiau kaip 35 proc. SPK aptartų studentų (-čių) grįžtamojo ryšio atvejų turi įgyvendintas rekomendacijas dėl dėstymo kokybės gerinimo.
-
-## 3 uždavinys: įgyvendinamas
-
-Įgyvendintos ne mažiau kaip 3 skirtingos komunikacijos iniciatyvos (renginiai, mokymai, publikacijos, vaizdo įrašai ir kt.), skirtos kokybiško grįžtamojo ryšio svarbai pristatyti.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Buvo įgyvendinti VU SA MIF atstovų mokymai, kuriuose studentų (-čių) atstovai (-ės) buvo supažindinami (-os) su jų SPK specifika ir metų tinkleliu, išsikeltais lūkesčiais. Kartu su studentų (-čių) atstovais (-ėmis) buvo nagrinėtos studentams (-ėms) aktualios problemos ir pateikti pavyzdžiai, kaip argumentuoti esamas problematikas bei jas spręsti.
 
@@ -300,17 +308,15 @@ Ne mažiau kaip 35 proc. SPK aptartų studentų (-čių) grįžtamojo ryšio atv
 
 - Siekiant didinti bendruomenės informuotumą ir įsitraukimą, per lapkričio mėn. vykusius mokymus buvo organizuota paskaita VU SA MIF nariams, kurios metu pristatyta grįžtamojo ryšio reikšmė studijų kokybei bei aptarta, kaip korektiškai ir konstruktyviai pildyti apklausas. Gruodžio–sausio mėn. įgyvendinta komunikacijos kampanija, kurios metu viešinta informacija apie grįžtamojo ryšio naudą, svarbą bei praktinius jo taikymo pavyzdžius. Taip pat numatytas papildomas komunikacijos etapas gegužės mėn., siekiant užtikrinti tęstinę informacijos sklaidą.
 
+:::
+
+## VU SA ŠA
+
 VU ŠA vykdomi renginiai ir iniciatyvos, kurie skatina (bendra)akademinę jauseną bei nuoseklų karjeros planavimą.
 
-## 1 uždavinys: įgyvendintas
+<TimelineItemSection :items="goals['11']" />
 
-80 procentų apklausos apie VU ŠA vykdomų renginių ir iniciatyvų bendruomeninių poreikių patenkinimą respondentų teigia, kad yra atliepiami jų bendruomeniniai poreikiai.
-
-## 2 uždavinys: įgyvendintas
-
-Kartu su kitomis švietimo institucijomis vykdytuose renginiuose, iniciatyvose ir karjeros planavimo veiklose sudalyvavo bent 150 studentų (-čių).
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Buvo įvykdyta apklausa, kurios tikslas – išsiaiškini studentų (-čių) ir VU ŠA bendruomenės poreikius dėl įvairių renginių organizavimo. Apklausa parodė, kad bendruomenės nariai (-ės) norėtų turėti daugiau renginių neformalioje aplinkoje, daugiau aktyvių ar su sportu susijusių veiklų. Apklausoje dalyvavę dėstytojai (-os) taip pat išreiškė poreikį renginius daryti ne paskaitų metu, o apklausą pildę (-žiusios) studentai (-ės) patys (-čios) išreiškė norą prie tokių renginių prisidėti.
 
@@ -318,21 +324,15 @@ Kartu su kitomis švietimo institucijomis vykdytuose renginiuose, iniciatyvose i
 
 - Įgyvendinant metų tikslą buvo suorganizuoti šie renginiai: Helovino vakarėlis (VU SA ŠA su ŠVK SA); Pyragų diena ŠA(VU SA ŠA su VU ŠA); Tarptautinės studentų dienos minėjimas renginyje „International Dinner“ (VU SA ŠA su VU ŠA); Šventinis filmų vakaras (VU SA ŠA su VU ŠA); Valentino vakaras (VU SA ŠA su ŠVK SA); Tarptautinės moters dienos minėjimas (VU SA ŠA su ŠVK SA).
 
+:::
+
+## VU SA TF
+
 VU TF sukurta ir įdiegta vieninga grįžtamojo ryšio sistema, siekianti gerinti akademinio proceso kokybę.
 
-## 1 uždavinys: įgyvendinama
+<TimelineItemSection :items="goals['12']" />
 
-20 proc. VU IS apklausose atsakiusių studentų (-čių) teigia, kad VU TF dėstytojai (-os) ir seminarų vedėjai (-os) teikia grįžtamąjį ryšį.
-
-## 2 uždavinys: įgyvendintas
-
-VU SA TF sukurtoje apklausoje grįžtamąjį ryšį apie dėstytojus per metus pateikė bent 100 VU TF studentų (-čių).
-
-## 3 uždavinys: įgyvendintas
-
-VU TF studentai (-ės), dėstytojai (-os) ir seminarų vedėjai (-os) yra supažindinti (-os) su grįžtamojo ryšio teikimo sistema.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Siekiant išsiaiškinti VU TF studentų (-čių) poreikius dėl grįžtamojo ryšio buvo suorganizuota 6 asmenų focus grupė su visų kursų kontaktiniais asmenimis ir surinkta studentų (-čių) nuomonė apie dėstytojų teikiamą grįžtamąjį ryšį.
 
@@ -346,21 +346,15 @@ VU TF studentai (-ės), dėstytojai (-os) ir seminarų vedėjai (-os) yra supaž
 
 - VU SA TF socialiniuose tinkluose ir vidiniuose kanaluose buvo skelbiama informacija apie grįžtamąjį ryšį, jo naudą bei aktualumą studijų procesui. Kartu buvo paruošta ir paviešinta visus metus veikianti apklausa, kurioje studentai (-ės) gali teikti grįžtamąjį ryšį apie dėstytojus (-as).
 
+:::
+
+## VU SA TSPMI
+
 VU TSPMI užtikrina veiksmingą mainų procesą išvykstantiems (-čioms) studentams (-ėms), teikdama efektyvią komunikaciją, logistinę ir akademinę paramą bei stiprius tarptautinius partnerystės ryšius.
 
-## 1 uždavinys: įgyvendinamas
+<TimelineItemSection :items="goals['13']" />
 
-VU TSPMI puslapyje atnaujinta informacija apie mainų galimybes.
-
-## 2 uždavinys: įgyvendinamas
-
-Bent 50 proc. studentų (-čių), dalyvavusių mainų programoje, pasinaudojo mentorių tinklu.
-
-## 3 uždavinys: įgyvendinamas
-
-Sukurta bendradarbiavimo partnerystė su mažiausiai 15 tarptautinių institucijų.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Siekiant gerinti į mainus išvykstančių studentų (-čių) patirtį buvo įgyvendintas susitikimas su mainuose buvusiais (-iomis) studentais (-ėmis). Šio susitikimo metu buvo identifikuota, kad studentams (-ėms) trūksta komunikacijos ir pagalbos pildant dokumentus, aiškaus informacijos išdėstymo ir patarimų.
 
@@ -372,20 +366,16 @@ Sukurta bendradarbiavimo partnerystė su mažiausiai 15 tarptautinių institucij
 
 - Susisiekta su 6 užsienio universitetų studentų atstovybėmis Vokietijoje, Lenkijoje, Šveicarijoje, Austrijoje, Švedijoje. Buvo suorganizuoti individualūs pokalbiai ir įvykdyti 3 vebinarai siekiant suprasti ir informuoti studentus apie universitetų socialinę ir akademinę aplinką.
 
+:::
+
+## VU SA VM
+
 VU VM yra sukuriamas dvipusis studentų (-čių) atstovų (-ių) ir dėstytojų susitikimų modelis, kurio metu, remiantis per semestrą surinktais atsiliepimais, yra tobulinami studijų dalykai.
 
-## 1 uždavinys: neįgyvendintas
+<TimelineItemSection :items="goals['14']" />
 
-Problemų analizės dokumentas yra įkeliamas į VU SA VM archyvą.
-
-## 2 uždavinys: neįgyvendintas
-
-Daugiau nei 30 proc. apklaustųjų, dalyvavusių moduliuose, kuriuos vedė konstruktyvų grįžtamąjį ryšį teikiantys dėstytojai (-os), teigia, kad gauto grįžtamojo ryšio kokybė pagerėjo.
-
-## 3 uždavinys: neįgyvendintas
-
-Bent vienu VU SA VM komunikacijos kanalu yra paskelbiama ataskaita, kurioje apibendrinami užbaigtų focus grupių, apklausų rezultatai, lektorių pateikti konstruktyvūs atsiliepimai ir priimti pakeitimai.
-
-## ☑️ Kas įgyvendinta?
+::: tip ☑️ Kas įgyvendinta?
 
 - Siekiant išsiaiškinti VU VM studentams (-ėms) kylančių problemų mąstą ir kiekį buvo surengtos focus grupės, kurių metu apklausti studentai (-ės) pristatė studijų metu kylančiais iššūkiais.
+
+:::

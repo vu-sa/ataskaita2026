@@ -1,21 +1,17 @@
 <template>
-  <div 
-    class="relative group p-6 overflow-hidden rounded-xl bg-white/50 dark:bg-zinc-800/50 backdrop-blur-sm shadow-sm transition-all duration-300 transform hover:-translate-y-1"
-    :class="[
-      {'border-l-4 border-amber-400': highlight},
-      contentClass
-    ]"
-  >
-    <!-- Background gradient -->
-    <div class="absolute top-0 left-0 w-full h-full bg-gradient-to-br opacity-10 from-amber-200 via-transparent to-transparent"></div>
-    
-    <!-- Main content -->
-    <div class="flex flex-col z-10 relative">
-      <slot></slot>
+  <div class="vusa-card-wrap group">
+    <div
+      class="vusa-card notch-corner relative p-6"
+      :class="[
+        { 'vusa-card--highlight': highlight },
+        contentClass
+      ]"
+    >
+      <!-- Main content -->
+      <div class="flex flex-col z-10 relative">
+        <slot></slot>
+      </div>
     </div>
-    
-    <!-- Animate on hover corner accent -->
-    <div class="absolute -bottom-1 -right-1 w-10 h-10 transform rotate-45 translate-x-4 translate-y-4 bg-gradient-to-tr from-amber-500 to-amber-400 opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
   </div>
 </template>
 
@@ -31,3 +27,26 @@ defineProps({
   }
 });
 </script>
+
+<style scoped>
+/* Signature: sharp editorial surface with a cut-out notch corner.
+   The shadow lives on the wrapper via filter:drop-shadow so it traces
+   the notched shape (a box-shadow would be clipped away by clip-path). */
+.vusa-card-wrap {
+  filter: drop-shadow(0 6px 14px rgba(28, 21, 23, 0.10));
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.vusa-card-wrap:hover {
+  transform: translateY(-4px);
+}
+
+.vusa-card {
+  background: var(--vusa-surface);
+  height: 100%;
+}
+
+.vusa-card--highlight {
+  border-left: 4px solid var(--vusa-red);
+}
+</style>

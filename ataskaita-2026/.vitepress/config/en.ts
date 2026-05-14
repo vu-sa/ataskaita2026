@@ -21,7 +21,7 @@ export default {
         sidebar: [
             { text: 'Congratulations', link: '/en/sveikinimai' },
             {
-                text: 'VU SR structure and principles ⭐️',
+                text: 'VU SR structure and principles',
                 items: [
                     { text: 'Strategy', link: '/en/strategija' },
                     { text: 'Parliament', link: '/en/vu-sa/parlamentas' },
@@ -32,14 +32,14 @@ export default {
                 ]
             },
             {
-                text: 'Year plan 📝',
+                text: 'Year plan',
                 items: [
                     { text: 'VU SR goals', link: '/en/mvp/strateginiai' },
                     { text: 'Goals in VU SR units', link: '/en/mvp/tikslai-padaliniuose' },
                 ]
             },
             {
-                text: 'Implementation of strategic directions 🎯',
+                text: 'Implementation of strategic directions',
                 items: [
                     {
                         text: 'High quality studies and their environment',
@@ -74,7 +74,7 @@ export default {
                 ]
             },
             {
-                text: 'We give our thanks 💪',
+                text: 'We give our thanks',
                 items: [
                     { text: 'VU SR community', link: '/en/bendruomene' },
                     { text: 'Report project team', link: '/en/padeka' },

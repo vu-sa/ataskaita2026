@@ -35,6 +35,7 @@
 }
 
 :root {
+  /* VU SA brand — yellow-led, drives VitePress chrome (nav, links, buttons) */
   --vp-c-brand-1: #f3ac1d;
   --vp-c-brand-2: #fbad13;
   --vp-c-brand-3: #efb134;
@@ -42,6 +43,31 @@
   --vp-c-brand-dark: #b86e0d;
   --vp-c-brand-dimm: rgba(255, 224, 100, 0.08);
   --vp-c-brand-alternate: #b5333edd;
+
+  /* Editorial accents — VU SA red + yellow, used together */
+  --vusa-red: #bd2835;
+  --vusa-red-deep: #8c1d27;
+  --vusa-yellow: #fbb01b;
+  --vusa-yellow-deep: #de9503;
+
+  --vusa-ink: #1c1517;
+  --vusa-surface: #ffffff;
+  --vusa-surface-raised: #ffffff;
+  --vusa-band: #fdf2e4;
+  --vusa-hairline: rgba(189, 40, 53, 0.16);
+}
+
+.dark {
+  --vusa-red: #e8505f;
+  --vusa-red-deep: #bd2835;
+  --vusa-yellow: #fcc557;
+  --vusa-yellow-deep: #fbb01b;
+
+  --vusa-ink: #f4ecec;
+  --vusa-surface: #211c1d;
+  --vusa-surface-raised: #33292b;
+  --vusa-band: #241d1a;
+  --vusa-hairline: rgba(232, 80, 95, 0.22);
 }
 
 :root {
@@ -88,106 +114,152 @@
 }
 
 /**
- * Component: Home
+ * Signature motif: dot-grid, notched corners, editorial section rhythm
  * -------------------------------------------------------------------------- */
 
-@keyframes gradient-shift {
-  0% {
-    background-position: 0% 50%;
-  }
-  50% {
-    background-position: 100% 50%;
-  }
-  100% {
-    background-position: 0% 50%;
-  }
+/* CSS dot-grid — used behind the hero and section eyebrows */
+.dot-grid {
+  background-image: radial-gradient(var(--vusa-hairline) 1.4px, transparent 1.4px);
+  background-size: 22px 22px;
 }
 
-@keyframes gradient-spin {
-  0% {
-    background-position: 0% 50%;
-    transform: rotate(0deg);
-  }
-  33% {
-    background-position: 70% 30%;
-    transform: rotate(2deg);
-  }
-  66% {
-    background-position: 30% 70%;
-    transform: rotate(-2deg);
-  }
-  100% {
-    background-position: 0% 50%;
-    transform: rotate(0deg);
-  }
-}
-
-:root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: -webkit-linear-gradient(
-    120deg,
-    var(--vp-c-brand-2) 30%,
-    var(--vp-c-brand-alternate) 70%
+/* Notched / cut-corner — the report's recurring "flare" shape */
+.notch-corner {
+  clip-path: polygon(
+    0 0,
+    calc(100% - 22px) 0,
+    100% 22px,
+    100% 100%,
+    0 100%
   );
+}
 
-  --vp-home-hero-image-background-image: radial-gradient(
-    circle at 30% 40%,
-    var(--vp-c-brand-3) 0%,
-    var(--vp-c-brand-1) 25%,
-    var(--vp-c-brand-alternate) 50%,
-    var(--vp-c-brand-dark) 75%
+.notch-corner-bl {
+  clip-path: polygon(
+    0 0,
+    100% 0,
+    100% 100%,
+    22px 100%,
+    0 calc(100% - 22px)
   );
-  --vp-home-hero-image-filter: blur(44px);
 }
 
-/* Apply animations to hero elements */
-.VPHero .name,
-.VPHero .text {
-  background-size: 200% auto;
-  animation: gradient-shift 8s ease infinite;
-  background-clip: text;
-  -webkit-background-clip: text;
+/* Smaller notch for compact elements (thumbnails, chips) */
+.notch-corner-sm {
+  clip-path: polygon(
+    0 0,
+    calc(100% - 10px) 0,
+    100% 10px,
+    100% 100%,
+    0 100%
+  );
 }
 
-.VPHero .image-bg {
-  background-size: 200% auto;
-  animation: gradient-spin 12s ease-in-out infinite;
-  background-position: 0% 50%;
-  translate: -145px -145px;
+/* Overline / eyebrow label with a red tick */
+.section-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--vusa-red);
 }
 
-@media (max-width: 639px) {
-  .VPHero .image-bg {
-    translate: -95px -95px;
-  }
+.section-eyebrow::before {
+  content: "";
+  width: 2.2rem;
+  height: 3px;
+  background: currentColor;
 }
 
-@media (min-width: 640px) {
-  :root {
-    --vp-home-hero-image-filter: blur(56px);
-  }
+.section-eyebrow .eyebrow-num {
+  font-size: 0.95rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  color: var(--vusa-yellow-deep);
 }
 
-@media (min-width: 960px) {
-  :root {
-    --vp-home-hero-image-filter: blur(68px);
-  }
+/* Alternating, full-bleed background band for section rhythm */
+.section-band {
+  position: relative;
+  background: var(--vusa-band);
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  padding-left: calc(50vw - 50%);
+  padding-right: calc(50vw - 50%);
 }
+
+.section-band::before,
+.section-band::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--vusa-hairline);
+}
+
+.section-band::before { top: 0; }
+.section-band::after { bottom: 0; }
 
 /**
  * Component: Custom Block
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-custom-block-tip-border: var(--vp-c-brand);
-  --vp-custom-block-tip-text: var(--vp-c-brand-darker);
-  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+  --vp-custom-block-tip-border: transparent;
+  --vp-custom-block-tip-text: var(--vp-c-text-1);
+  --vp-custom-block-tip-bg: var(--vusa-band);
 }
 
 .dark {
-  --vp-custom-block-tip-border: var(--vp-c-brand);
-  --vp-custom-block-tip-text: var(--vp-c-brand-lightest);
-  --vp-custom-block-tip-bg: var(--vp-c-brand-dimm);
+  --vp-custom-block-tip-border: transparent;
+  --vp-custom-block-tip-text: var(--vp-c-text-1);
+  --vp-custom-block-tip-bg: var(--vusa-band);
+}
+
+/* Tip blocks ("Kas įgyvendinta?") wear the refreshed motif:
+   warm surface, red accent edge, notched corner */
+.custom-block.tip {
+  position: relative;
+  border: none;
+  border-radius: 0;
+  background: var(--vusa-hairline);
+  clip-path: polygon(0 0, calc(100% - 22px) 0, 100% 22px, 100% 100%, 0 100%);
+}
+
+/* Fill inset by 1px so the parent background reads as a hairline border
+   that follows the notch — a real border would be clipped by clip-path. */
+.custom-block.tip::before {
+  content: "";
+  position: absolute;
+  inset: 1px;
+  z-index: 0;
+  background: var(--vusa-band);
+  clip-path: polygon(0 0, calc(100% - 21px) 0, 100% 21px, 100% 100%, 0 100%);
+  pointer-events: none;
+}
+
+/* Red accent on the (un-notched) left edge */
+.custom-block.tip::after {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 4px;
+  z-index: 1;
+  background: var(--vusa-red);
+  pointer-events: none;
+}
+
+.custom-block.tip > * {
+  position: relative;
+  z-index: 1;
+}
+
+.custom-block.tip .custom-block-title {
+  color: var(--vusa-red);
 }
 
 /**

@@ -1,25 +1,6 @@
 ---
 title: VU SA Metinė ataskaita 2025-2026
 layout: home
-
-hero:
-  name: "VU SA ataskaita"
-  text: "už 2025-2026 metus"
-  tagline: "Vieningai Už Studentų Ateitį!"
-  image:
-    light:
-      src: ./img/logos/vusa-lt-b.png
-      alt: VU SA
-    dark: 
-      src: ./img/logos/vusa-lt-w.png
-      alt: VU SA
-  actions:
-  - theme: brand
-    text: Sužinok apie šių metų veiklą!
-    link: /strategija
-  - theme: alt
-    text: Atsisiųsk PDF ataskaitą
-    link: /VU_SA_Ataskaita_2025_2026.pdf
 ---
 
 <script setup lang="ts">
@@ -33,6 +14,7 @@ import people from "./data/dariniai.csv"
 
 // Import components
 import VPButton from "vitepress/dist/client/theme-default/components/VPButton.vue";
+import ReportHero from "@/ReportHero.vue";
 import NumberStatistic from "@/NumberStatistic.vue";
 import PersonAvatar from "@/PersonAvatar.vue";
 import MultiPersonAvatar from "@/MultiPersonAvatar.vue";
@@ -70,9 +52,11 @@ const iconMap = {
   Turtle
 };
 
-// Primary colors for the site
-const primaryColor = '#fbad13';
-const accentColor = '#b5333e';
+// Hero actions
+const heroActions = [
+  { theme: 'brand', text: 'Sužinok apie šių metų veiklą!', link: '/strategija' },
+  { theme: 'alt', text: 'Atsisiųsk PDF ataskaitą', link: '/VU_SA_Ataskaita_2025_2026.pdf' },
+];
 
 // Import person utility functions
 import { getPersonByName, getPersonsByDepartment } from '@/lib/personUtils';
@@ -100,10 +84,21 @@ const logoSrc = computed(() => {
 
 </script>
 
-<section class="lg:px-2 px-1.5 isolate">
-  <div class="mx-auto relative">
-    <figure class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center rounded-xl p-6">
-      <figcaption class="my-4 px-6 text-left order-2 md:order-1 flex flex-col">
+<ReportHero
+  eyebrow="Vieningai už studentų (-čių) ateitį!"
+  title="METINĖ ATASKAITA"
+  period="2025–2026 m."
+  logo-light="/img/logos/vusa-lt-b.png"
+  logo-dark="/img/logos/vusa-lt-w.png"
+  :actions="heroActions"
+/>
+
+<!-- Introduction -->
+<section class="section-band lg:px-2 px-1.5 isolate py-16">
+  <div class="max-w-6xl mx-auto">
+    <span class="section-eyebrow"><span class="eyebrow-num">01</span> Įžanga</span>
+    <figure class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-8">
+      <figcaption class="text-left order-2 md:order-1 flex flex-col border-l-4 border-[var(--vusa-red)] pl-6">
         <p class="text-md font-medium italic mb-4 leading-6!">„Žengsime į būsimus studijų metus su jau patvirtintais naujais Organizacijos strateginiais projektais, liečiančiais kiekvieną mūsų bendruomenės narį ir narę. Didžiuojuosi Organizacija, mūsų visų įsitraukimu bei stipriomis partnerystėmis.  
         </p>
         <p class="font-bold mb-4 leading-6!">
@@ -114,20 +109,20 @@ const logoSrc = computed(() => {
           <p style="margin: 0" class="opacity-80 text-sm">{{ people[0]['Pareigos'] }}</p>
         </PersonAvatar>
       </figcaption>
-      <video playsinline autoplay controls muted loop class="mx-auto order-1 md:order-2 z-20 shadow-lg rounded-lg aspect-video">
-        <source src="/video/kleja-lt.webm" type="video/webm">
+      <video playsinline autoplay controls muted loop class="mx-auto order-1 md:order-2 z-20 shadow-lg notch-corner aspect-video w-full">
+        <source src="/video/Kleja.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </figure>
   </div>
 </section>
 
-<!-- Enhanced Statistics Section with Icons -->
-<section class="lg:px-2 px-1.5 isolate my-12">
+<!-- Statistics Section with Icons -->
+<section class="lg:px-2 px-1.5 isolate py-16">
   <div class="max-w-6xl mx-auto">
-    <div class="text-center">
-      <h2 style="border: 0; padding: 0" class="font-bold mb-2">VU SA skaičiais</h2>
-      <p class="text-lg font-semibold">VU SA tai:</p>
+    <span class="section-eyebrow"><span class="eyebrow-num">02</span> VU SA skaičiais</span>
+    <div class="mt-4 mb-2">
+      <h2 style="border: 0; padding: 0">VU SA tai:</h2>
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 mt-10">
       <template v-for="stat in stats.lt" :key="stat.label">
@@ -144,8 +139,9 @@ const logoSrc = computed(() => {
 </section>
 
 <!-- Interactive Timeline Section -->
-<section class="lg:px-2 px-1.5 isolate my-8 py-4">
+<section class="section-band lg:px-2 px-1.5 isolate py-16">
   <div class="max-w-6xl mx-auto">
+    <span class="section-eyebrow"><span class="eyebrow-num">03</span> Metų eiga</span>
     <InteractiveTimeline 
       title="VU SA 2025–2026 m. svarbiausios veiklos" 
       :events="timelineEvents" 
@@ -154,8 +150,9 @@ const logoSrc = computed(() => {
 </section>
 
 <!-- Gallery Section -->
-<section class="lg:px-2 px-1.5 isolate my-8 py-4">
+<section class="lg:px-2 px-1.5 isolate py-16">
   <div class="max-w-6xl mx-auto">
+    <span class="section-eyebrow"><span class="eyebrow-num">04</span> Akimirkos</span>
     <ImageMosaic 
       title="VU SA veiklos akimirkos" 
       :images="galleryImages.lt" 
@@ -164,33 +161,38 @@ const logoSrc = computed(() => {
 </section>
 
 <!-- Testimonials Section -->
-<section class="lg:px-2 px-1.5 isolate my-20">
+<section class="section-band lg:px-2 px-1.5 isolate py-16">
   <div class="max-w-6xl mx-auto">
-    <h2 class="text-3xl md:text-4xl font-bold text-center mb-12">Sveikinimai</h2>
+    <span class="section-eyebrow"><span class="eyebrow-num">05</span> Sveikinimai</span>
+    <h2 class="text-center mb-12 mt-4">Sveikinimai</h2>
     <TestimonialCarousel :testimonials="congrats.lt" link="/sveikinimai" button-text="Sveikinimo kalba" />
   </div>
 </section>
 
 <!-- Call to Action -->
 <section class="lg:px-2 px-1.5 isolate my-20">
-  <div class="max-w-5xl mx-auto text-center p-10 bg-gradient-to-br from-amber-500/10 via-white to-amber-500/5 dark:from-amber-900/20 dark:via-gray-800 dark:to-amber-900/10 rounded-2xl shadow-lg backdrop-blur-sm">
-    <h2 class="text-3xl font-bold mb-4">Prisijunk prie VU SA bendruomenės</h2>
-    <p class="text-lg mb-8 px-12">Kiekvienas ir kiekviena VU studentas (-ė) gali prisijungti prie VU SA!</p>
-    <div class="flex flex-wrap justify-center gap-4 mt-8">
-                <VPButton 
-                  href="https://vusa.lt/tapk-nariu" 
-                  text="Tapk nariu (-e)"
-                />
-                <VPButton 
-                  href="/VU_SA_Ataskaita_2025_2026.pdf" 
-                  text="Atsisiųsk ataskaitą" 
-                  theme="brand"
-                />
-                <VPButton 
-                  href="https://vusa.lt/lt/kontaktai/centrinis-biuras" 
-                  text="Susisiek"
-                  theme="alt"
-                />
+  <div class="max-w-5xl mx-auto text-center p-10 md:p-14 notch-corner-bl text-white relative overflow-hidden" style="background: linear-gradient(135deg, var(--vusa-red) 0%, var(--vusa-red-deep) 100%);">
+    <div class="dot-grid absolute inset-0 opacity-30" style="--vusa-hairline: rgba(255,255,255,0.4);"></div>
+    <div class="relative">
+      <span class="section-eyebrow" style="color: var(--vusa-yellow);">Prisijunk</span>
+      <h2 class="mb-4 mt-4" style="border: 0; padding: 0; color: #fff;">Prisijunk prie VU SA bendruomenės</h2>
+      <p class="text-lg mb-8 md:px-12">Kiekvienas ir kiekviena VU studentas (-ė) gali prisijungti prie VU SA!</p>
+      <div class="flex flex-wrap justify-center gap-4 mt-8">
+        <VPButton 
+          href="https://vusa.lt/tapk-nariu" 
+          text="Tapk nariu (-e)"
+        />
+        <VPButton 
+          href="/VU_SA_Ataskaita_2025_2026.pdf" 
+          text="Atsisiųsk ataskaitą" 
+          theme="brand"
+        />
+        <VPButton 
+          href="https://vusa.lt/lt/kontaktai/centrinis-biuras" 
+          text="Susisiek"
+          theme="alt"
+        />
+      </div>
     </div>
   </div>
 </section>

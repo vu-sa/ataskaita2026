@@ -1,58 +1,55 @@
 <template>
   <div class="relative">
     <!-- Section title -->
-    <h2 class="text-3xl md:text-4xl font-bold text-center mb-16">
-      {{ title }}
-    </h2>
+    <h2 class="timeline-title">{{ title }}</h2>
 
     <!-- Timeline container -->
-    <div class="relative max-w-5xl mx-auto mt-12">
-      <!-- Center line -->
-      <div
-        class="absolute left-1/2 transform -translate-x-1/2 h-full w-1 bg-gradient-to-b from-amber-100 via-amber-400 to-amber-100 dark:from-amber-900 dark:via-amber-500 dark:to-amber-900" />
+    <div class="relative max-w-3xl mx-auto mt-12">
+      <!-- Single red rail -->
+      <div class="timeline-rail" />
 
       <!-- Timeline items -->
-      <div v-for="(event, index) in events" :key="index" class="relative mb-12">
-        <div class="flex flex-col md:flex-row items-center group"
-          :class="index % 2 === 0 ? 'md:flex-row' : 'md:flex-row-reverse'">
-          <!-- Date marker -->
-          <div class="flex-1 md:w-1/2 text-center"
-            :class="index % 2 === 0 ? 'md:text-right md:pr-10' : 'md:text-left md:pl-10'">
-            <div :ref="el => { if (el) timelineRefs[index] = el }"
-              class="inline-block px-4 py-2 rounded-lg text-white font-bold text-lg shadow-md bg-gradient-to-r from-amber-500 to-amber-400 transform transition-transform duration-300 group-hover:scale-110">
-              {{ event.date }}
+      <div
+        v-for="(event, index) in events"
+        :key="index"
+        class="relative pl-12 md:pl-16 pb-14 last:pb-0"
+      >
+        <!-- Rail marker -->
+        <div class="timeline-dot">
+          <div class="timeline-dot__pulse" />
+        </div>
+
+        <!-- Date -->
+        <div
+          :ref="el => { if (el) timelineRefs[index] = el }"
+          class="timeline-date"
+        >
+          {{ event.date }}
+        </div>
+
+        <!-- Content card -->
+        <div :ref="el => { if (el) contentRefs[index] = el }">
+          <BaseCard>
+            <h3 class="text-xl font-bold">
+              {{ event.title }}
+            </h3>
+            <p class="text-gray-600 dark:text-gray-300 my-1! leading-6!">
+              {{ event.description }}
+            </p>
+
+            <!-- Optional image -->
+            <img
+              v-if="event.image"
+              :src="event.image"
+              :alt="event.title"
+              class="w-full h-48 object-cover shadow-sm mt-4"
+            >
+
+            <!-- Optional button -->
+            <div v-if="event.link" class="mt-4">
+              <VPButton :href="event.link" text="Sužinoti daugiau" class="transition-all duration-300" />
             </div>
-          </div>
-
-          <!-- Center dot -->
-          <div
-            class="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 rounded-full max-md:-top-8 bg-white dark:bg-gray-800 border-4 border-amber-500 z-10 flex items-center justify-center">
-            <div class="w-2 h-2 rounded-full bg-amber-500 animate-ping opacity-75" />
-          </div>
-
-          <!-- Content -->
-          <div class="flex-1 md:w-1/2 mt-6 md:mt-0 text-center"
-            :class="index % 2 === 0 ? 'md:text-left md:pl-10' : 'md:text-right md:pr-10'">
-            <div :ref="el => { if (el) contentRefs[index] = el }">
-              <BaseCard>
-                <h3 class="text-xl font-bold">
-                  {{ event.title }}
-                </h3>
-                <p class="text-gray-600 dark:text-gray-300 my-1! leading-6!">
-                  {{ event.description }}
-                </p>
-
-                <!-- Optional image -->
-                <img v-if="event.image" :src="event.image" :alt="event.title"
-                  class="w-full h-48 object-cover rounded-md shadow-sm mt-4">
-
-                <!-- Optional button -->
-                <div v-if="event.link" class="mt-4">
-                  <VPButton :href="event.link" text="Sužinoti daugiau" class="transition-all duration-300" />
-                </div>
-              </BaseCard>
-            </div>
-          </div>
+          </BaseCard>
         </div>
       </div>
     </div>
@@ -85,7 +82,6 @@ onMounted(async () => {
   const { default: ScrollTrigger } = await import('gsap/ScrollTrigger');
   gsap.registerPlugin(ScrollTrigger);
 
-  // Add animation for timeline items
   props.events.forEach((_, index) => {
     const timelineEl = timelineRefs.value[index];
     const contentEl = contentRefs.value[index];
@@ -93,22 +89,106 @@ onMounted(async () => {
     if (timelineEl && contentEl) {
       gsap.set([timelineEl, contentEl], {
         opacity: 0,
-        y: index % 2 === 0 ? -30 : 30
+        x: 30
       });
 
       gsap.to([timelineEl, contentEl], {
         opacity: 1,
-        y: 0,
-        duration: 0.8,
+        x: 0,
+        duration: 0.7,
         ease: "power2.out",
         scrollTrigger: {
           trigger: contentEl,
           start: "top bottom-=100",
           toggleActions: "play none none none"
         },
-        stagger: 0.2
+        stagger: 0.15
       });
     }
   });
 });
 </script>
+
+<style scoped>
+.timeline-title {
+  font-weight: 700;
+  font-size: clamp(1.875rem, 4vw, 2.25rem);
+  line-height: 1.2;
+  text-align: center;
+  margin-bottom: 1rem;
+  border-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+.timeline-rail {
+  position: absolute;
+  top: 0.5rem;
+  bottom: 0.5rem;
+  left: 1.25rem;
+  width: 3px;
+  background: linear-gradient(
+    to bottom,
+    transparent,
+    var(--vusa-red) 8%,
+    var(--vusa-yellow) 92%,
+    transparent
+  );
+}
+
+@media (min-width: 768px) {
+  .timeline-rail {
+    left: 1.75rem;
+  }
+}
+
+.timeline-dot {
+  position: absolute;
+  left: 1.25rem;
+  top: 0.35rem;
+  width: 1.05rem;
+  height: 1.05rem;
+  transform: translateX(-50%);
+  background: var(--vusa-surface);
+  border: 3px solid var(--vusa-red);
+  border-radius: 9999px;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .timeline-dot {
+    left: 1.75rem;
+  }
+}
+
+.timeline-dot__pulse {
+  width: 0.4rem;
+  height: 0.4rem;
+  border-radius: 9999px;
+  background: var(--vusa-red);
+  animation: timeline-ping 1.6s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+@keyframes timeline-ping {
+  75%, 100% {
+    transform: scale(2.4);
+    opacity: 0;
+  }
+}
+
+.timeline-date {
+  font-weight: 800;
+  font-size: clamp(1.25rem, 3vw, 1.6rem);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  color: var(--vusa-red);
+  margin-bottom: 0.85rem;
+}
+
+/* Raised surface so cards separate from the section-band behind them */
+:deep(.vusa-card) {
+  background: var(--vusa-surface-raised);
+}
+</style>

@@ -1,24 +1,40 @@
 # Strategic Goals
 
+<script setup lang="ts">
+import TimelineItemSection from '@/TimelineItemSection.vue'
+
+const goals = {
+  '1': [
+    { type: 'success', content: '5% more individualised study subjects are taught using a hybrid format and are adjusted to meet the needs of students.' },
+    { type: 'warning', content: '65% of students who have individualised study subjects have provided feedback on them.' },
+    { type: 'success', content: 'At least 100 lecturers participate in training on teaching individualised study subjects (modules).' },
+  ],
+  '2': [
+    { type: 'success', content: 'At least 50% of representatives have set goals and the implementation of these goals is monitored.' },
+    { type: 'success', content: 'A meeting was organized to identify the main weaknesses of the existing tools and to draw up a list of priority weaknesses to be resolved.' },
+    { type: 'warning', content: 'The work of representatives coordinators is becoming more systematic, and clear technical tasks are being formulated for everyday work.' },
+  ],
+  '3': [
+    { type: 'success', content: 'The VU community has opportunities to gain competencies in the field of resilience through the services and information provided by VU.' },
+    { type: 'success', content: 'VU SR, in cooperation with VU, external experts, and based on data, identifies and prepares an assessment of VU security gaps.' },
+  ],
+  '4': [
+    { type: 'success', content: 'At least 5 initiatives involving at least 150 members of the Vilnius University community have been implemented.' },
+    { type: 'warning', content: 'At least one topic focused on sustainable development appears among the topics of final theses in 30% of study programs.' },
+    { type: 'warning', content: 'At least 45% of the changes related to fostering sustainable habits in Vilnius University dormitories have been implemented.' },
+  ],
+}
+</script>
+
 ## Strategic Goal No. 1
 
 Vilnius University provides all the necessary information for choosing individualised studies, lecturers are able to work with diversity in the group, and students choose subjects according to their ambitions.
 
 **Impact indicator:** By July 1, 2026, 70% of the students with individualised study subjects are satisfied with them according to the survey.
 
-### Objective 1: completed
+<TimelineItemSection :items="goals['1']" :english="true" />
 
-5% more individualised study subjects are taught using a hybrid format and are adjusted to meet the needs of students.
-
-### Objective 2: in progress
-
-65% of students who have individualised study subjects have provided feedback on them.
-
-### Objective 3: completed
-
-At least 100 lecturers participate in training on teaching individualised study subjects (modules).
-
-### ☑️ What has been achieved?
+::: tip ☑️ What has been achieved?
 
 - In order to provide all students with the opportunity to choose individual study courses more purposefully and smoothly throughout their entire period of study, sets of recommended individual study courses were created. These sets of individual study courses were organized by subject area and specific courses. In addition, faculty feedback on certain individual courses (modules) included in the sets was provided alongside the compiled individual study courses (modules). All individual study sets can be viewed on the VU SR website here.
 - A guide for curators on individual studies has been prepared to ensure high-quality counseling for first-year students.
@@ -28,25 +44,17 @@ At least 100 lecturers participate in training on teaching individualised study 
 - A meeting was also held with university representatives, during which issues related to the implementation of individual study programs were identified and possible solutions were discussed.
 - In collaboration with the VU Competence Center, a proposal was submitted to launch training sessions aimed at enhancing faculty lecturers’ competencies in working with students of varying levels of preparation. The training has been planned and is scheduled to take place in April or May.
 
+:::
+
 ## Strategic Goal No. 2
 
 VU SR reviewed and updated parts of the students' representation process: coordination and control of student representatives (activities of representative coordinators), organization of the work of students' representatives (improvement of the competencies and tools necessary for students' representation).
 
 **Impact indicator:** By March 31, 2026, the rate of satisfaction among students‘ representatives with coordination and the tools provided increased by 20%, and 60% of student representatives at VU units achieve their set goals.
 
-### Objective 1: completed
+<TimelineItemSection :items="goals['2']" :english="true" />
 
-At least 50% of representatives have set goals and the implementation of these goals is monitored.
-
-### Objective 2: completed
-
-A meeting was organized to identify the main weaknesses of the existing tools and to draw up a list of priority weaknesses to be resolved.
-
-### Objective 3: in progress
-
-The work of representatives coordinators is becoming more systematic, and clear technical tasks are being formulated for everyday work.
-
-### ☑️ What has been implemented?
+::: tip ☑️ What has been implemented?
 
 - Updated job descriptions for contact persons, SPC representatives and representative coordinators, by adding a clause regarding cooperation between contact persons and representatives on matters of studies and opinion gathering, and the clause regarding work on internship matters was removed, as it was decided that this would fall under the responsibilities of the academic process coordinators.
 - Presentations in various formats about student representatives and their functions were held at 8 of the 15 core academic units of Vilnius University. These presentations aimed to remind or inform students of their opportunities to contact student representatives in various bodies and receive the assistance they need.
@@ -65,21 +73,17 @@ The work of representatives coordinators is becoming more systematic, and clear 
 - A FAQ guide was prepared with information on how to use and achieve the goals set by student representatives using the updated tools (My VU SR, the VU SR archive’s representative folder, and the website atstovavimas.vusa.lt).
 - In April, a survey was conducted to determine the impact that the updated processes had on the activities of VU SR students over the course of the year.
 
+:::
+
 ## Strategic Goal No. 3
 
 The Vilnius University community is united, prepared, and capable of responding to internal and external threats.
 
 **Impact indicator:** By July 1, 2026, 40% of respondents who completed the integration survey say they know where to obtain information and get skills on resilience topics at VU.
 
-### Objective 1: completed
+<TimelineItemSection :items="goals['3']" :english="true" />
 
-The VU community has opportunities to gain competencies in the field of resilience through the services and information provided by VU.
-
-### Objective 2: completed
-
-VU SR, in cooperation with VU, external experts, and based on data, identifies and prepares an assessment of VU security gaps.
-
-### ☑️ What has been implemented?
+::: tip ☑️ What has been implemented?
 
 - VU SR, in collaboration with the integration survey, conducted a study assessing the VU community’s competencies in civil resistance and resilience. This study revealed the most pressing security areas: the lack of offerings (topics) and conditions (formats) for the systematic development of resilience competencies; security coordination and risk assessment; cybersecurity and infrastructure; and psychological resilience. In addition, the most relevant topics were identified: basic preparedness during emergencies; theoretical and practical knowledge of civil protection; development of psychological resilience skills; recognition of disinformation; cybersecurity; forms of unarmed resistance.
 - In collaboration with the Vilnius University administration, VU SR developed mutual aid trainings based on needs identified through a survey. A detailed training outline was developed, and the most relevant topics and subtopics were selected.
@@ -92,25 +96,17 @@ VU SR, in cooperation with VU, external experts, and based on data, identifies a
 - A document titled “Proposals for Increasing the University Community’s Resilience to Threats” has been submitted to the VU administration by VU SR. The document outlines recommendations and proposals for fostering and developing resilience competencies among the entire VU community. This document was prepared based on the provisions of a previous resolution approved by the VU SR Parliament regarding the role of Vilnius University in fostering community awareness and resilience to national security threats.
 - VU SR organized and conducted first aid training sessions, which took place in October. Over 70 students from various VU faculties participated in them. In February and March, branches of the Vilnius University Student Representation organized and carried out civil protection activities and tours at various core academic units of Vilnius University (LSC, FPhilos, FC, FEBA, IIRPS). During these sessions, participants had the opportunity to learn the basics of emergency preparedness and how to respond during such situations.
 
+:::
+
 ## Strategic Goal No. 4
 
 The Vilnius University community contributes to the creation of a sustainable society by applying the principles of sustainable development in the study process and community activities.
 
 **Impact indicator:** By April 15, 2026, at least 10 activities focused on sustainable development have been implemented.
 
-### Objective 1: completed
+<TimelineItemSection :items="goals['4']" :english="true" />
 
-At least 5 initiatives involving at least 150 members of the Vilnius University community have been implemented.
-
-### Objective 2: in progress
-
-At least one topic focused on sustainable development appears among the topics of final theses in 30% of study programs.
-
-### Objective 3: in progress
-
-At least 45% of the changes related to fostering sustainable habits in Vilnius University dormitories have been implemented.
-
-### ☑️ What has been implemented?
+::: tip ☑️ What has been implemented?
 
 - During the target implementation period, the following sustainability-related initiatives were implemented: workshops were held during the “Ad Astra” integration festival in September and in February, “DĖK'ui” stations were installed in VU dormitories (Saulėtekio al. 12, 31, 37, M.K. Čiurlionio St. 23, Didlaukio St. 59), “DĖK'ui” stations were set up where students can exchange items or clothing with one another, adhering to the principle of sustainability; In March, sustainable bookbinding workshops were held in collaboration with the VU Library; in April, VU SR joined the VU environmental cleanup campaign “VU Švaru” and contributed to the cleanup of the university campuses.
 - In March and April, VU SR recorded two “Akademinė druska” podcasts: “How to Survive Your Final Year?” (with VU CWD psychologist Alan) (the recording can be found here) and “On Boundaries, Violence, and Safe Living” (with Ribologija instructor Rugilė) (the recording can be found here).
@@ -120,3 +116,5 @@ At least 45% of the changes related to fostering sustainable habits in Vilnius U
 - At the end of 2025, the social environment map was reviewed, updated, and adapted for use in dormitories. This tool allowed for an assessment of how the dormitory environment encourages students to contribute to the development of sustainable habits. After assessing the current state of the dormitories and holding meetings with the VU Dormitory Administration, the following changes were implemented: recycling bins were installed in dormitory kitchens; window seals were replaced in certain dormitories; a unified system for reporting and addressing issues was created; information on the VU Dormitory website regarding dormitory prices by specific dormitory was updated; Plans are in place to upgrade kitchen and bathroom equipment in more than 200 rooms; common areas for student socialization in dormitories have been planned; and shared item-sharing spaces (DĖK’UI stations) have been set up in five Vilnius dormitories.
 - A guide for lecturers on how to integrate sustainable development goals into the teaching process (i.e., when organizing their courses) has been prepared. The guide has been sent to all University lecturers.
 - In collaboration with the “Ateičiai” Charity and Support Fund, a scholarship for students has been established, which will be awarded for initiatives focused on environmental protection, responsible consumption, and climate change reduction.
+
+:::

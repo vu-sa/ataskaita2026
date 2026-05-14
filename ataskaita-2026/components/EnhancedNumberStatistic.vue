@@ -3,23 +3,26 @@
     <div class="flex flex-col items-center text-center">
       <!-- Icon if provided -->
       <div v-if="icon" class="mb-4">
-        <div class="w-16 h-16 rounded-full bg-gradient-to-tr from-amber-500 to-amber-400 flex items-center justify-center shadow-lg">
-          <component :is="icon" class="w-8 h-8 text-white" />
-        </div>
+        <component :is="icon" class="w-10 h-10" style="color: var(--vusa-red);" />
       </div>
-      
+
       <!-- Number with counter effect -->
-      <div class="text-5xl md:text-6xl font-bold">
-        <span class="bg-gradient-to-tr from-[#ffa900] to-[#fab939] text-transparent bg-clip-text">
-          <NumberCounter :end-number="endNumber" :duration="duration" :suffix="suffix" :prefix="prefix" />
-        </span>
+      <div
+        class="text-5xl md:text-6xl font-extrabold leading-none"
+        style="color: var(--vusa-red);"
+      >
+        <NumberCounter :end-number="endNumber" :duration="duration" :suffix="suffix" :prefix="prefix" />
       </div>
-      
+
       <!-- Title -->
-      <span v-if="title" class="text-xl bg-gradient-to-tr bg-clip-text text-transparent font-bold mb-2 from-[#ffa900] to-[#fab939]">{{ title }}</span>
+      <span
+        v-if="title"
+        class="text-lg font-bold mt-2"
+        style="color: var(--vusa-ink);"
+      >{{ title }}</span>
 
       <!-- Description -->
-      <div class="text-zinc-600 dark:text-zinc-300 mt-3">
+      <div class="text-zinc-600 dark:text-zinc-300 mt-2">
         <slot></slot>
       </div>
     </div>
@@ -57,7 +60,7 @@ defineProps({
   },
   duration: {
     type: Number,
-    default: 2000 
+    default: 2000
   }
 });
 </script>

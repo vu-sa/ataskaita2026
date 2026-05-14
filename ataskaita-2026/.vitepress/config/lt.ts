@@ -37,7 +37,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
             
             { text: 'Sveikinimai', link: '/sveikinimai' },
             {
-                text: 'VU SA struktūra ir veiklos principai ⭐️',
+                text: 'VU SA struktūra ir veiklos principai',
                 items: [
                     { text: 'Strategija', link: '/strategija' },
                     { text: 'Parlamentas', link: '/vu-sa/parlamentas' },
@@ -48,14 +48,14 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                 ]
             },
             {
-                text: 'Metų veiklos plano įgyvendinimas 📝',
+                text: 'Metų veiklos plano įgyvendinimas',
                 items: [
                     { text: 'Strateginiai tikslai', link: '/mvp/strateginiai' },
                     { text: 'Padalinių tikslai', link: '/mvp/tikslai-padaliniuose' },
                 ]
             },
             {
-                text: 'Strateginių krypčių įgyvendinimas 🎯',
+                text: 'Strateginių krypčių įgyvendinimas',
                 items: [
                     {
                         text: 'Kokybiškos studijos ir joms pritaikyta aplinka',
@@ -90,7 +90,7 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                 ]
             },
             {
-                text: 'Dėkojame 💪',
+                text: 'Dėkojame',
                 items: [
                     { text: 'VU SA bendruomenė', link: '/bendruomene' },
                     { text: 'Padalinių ataskaitos', link: '/padaliniu-ataskaitos' },

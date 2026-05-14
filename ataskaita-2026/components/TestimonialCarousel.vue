@@ -171,13 +171,18 @@ watchOnce(emblaMainApi, (api) => {
           @click="onThumbClick(index)"
         >
           <div class="p-1">
-            <img 
-              :alt="`Thumbnail of ${testimonial.name}`" 
-              :src="testimonial.img"
-              :style="testimonial.objectPosition ? { objectPosition: testimonial.objectPosition } : { objectPosition: '50% 30%' }"
-              class="w-full aspect-[1/2.5] h-16! sm:h-20! md:h-30! object-cover rounded-lg transition-all duration-300" 
-              :class="[selectedIndex === index ? 'border-2 border-amber-500 shadow-md' : 'opacity-70 hover:opacity-100']"
+            <div
+              class="notch-corner-sm p-[2px] transition-all duration-300"
+              :class="selectedIndex === index ? 'bg-amber-500' : 'bg-transparent'"
             >
+              <img
+                :alt="`Thumbnail of ${testimonial.name}`"
+                :src="testimonial.img"
+                :style="testimonial.objectPosition ? { objectPosition: testimonial.objectPosition } : { objectPosition: '50% 30%' }"
+                class="block w-full aspect-[1/2.5] h-16! sm:h-20! md:h-30! object-cover notch-corner-sm transition-all duration-300"
+                :class="[selectedIndex === index ? '' : 'opacity-70 hover:opacity-100']"
+              >
+            </div>
           </div>
         </div>
       </div>

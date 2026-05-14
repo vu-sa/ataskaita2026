@@ -1,24 +1,5 @@
 ---
 layout: home
-
-hero:
-  name: "VU SR report"
-  text: "for 2025-2026"
-  tagline: "VU SR report for 2025-2026"
-  image:
-    light:
-      src: /img/logos/vusa-en-b.png
-      alt: VU SR
-    dark:
-      src: /img/logos/vusa-en-w.png
-      alt: VU SR
-  actions:
-    - theme: brand
-      text: Learn about this year!
-      link: /en/mvp/strateginiai
-    - theme: alt
-      text: Download PDF Report
-      link: /VU_SR_Report_2025_2026.pdf
 ---
 
 <script setup lang="ts">
@@ -29,6 +10,7 @@ import timelineData from "../data/timeline.json"
 import people from "../data/dariniai.csv"
 
 import VPButton from "vitepress/dist/client/theme-default/components/VPButton.vue";
+import ReportHero from "@/ReportHero.vue";
 import PersonAvatar from "@/PersonAvatar.vue";
 import EnhancedNumberStatistic from "@/EnhancedNumberStatistic.vue";
 import ImageMosaic from "@/ImageMosaic.vue";
@@ -44,13 +26,29 @@ const iconMap = {
   Turtle,
 };
 
+const heroActions = [
+  { theme: 'brand', text: 'Learn about this year!', link: '/en/mvp/strateginiai' },
+  { theme: 'alt', text: 'Download PDF Report', link: '/VU_SR_Report_2025_2026.pdf' },
+];
+
 const timelineEvents = timelineData.en;
 </script>
 
-<section class="lg:px-2 px-1.5 isolate">
-  <div class="mx-auto relative">
-    <figure class="grid grid-cols-1 md:grid-cols-2 gap-4 items-center rounded-xl p-6">
-      <figcaption class="my-4 px-6 text-left order-2 md:order-1 flex flex-col">
+<ReportHero
+  eyebrow="United for the future of students!"
+  title="ANNUAL REPORT"
+  period="2025–2026"
+  logo-light="/img/logos/vusa-en-b.png"
+  logo-dark="/img/logos/vusa-en-w.png"
+  :actions="heroActions"
+/>
+
+<!-- Introduction -->
+<section class="section-band lg:px-2 px-1.5 isolate py-16">
+  <div class="max-w-6xl mx-auto">
+    <span class="section-eyebrow"><span class="eyebrow-num">01</span> Introduction</span>
+    <figure class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-8">
+      <figcaption class="text-left order-2 md:order-1 flex flex-col border-l-4 border-[var(--vusa-red)] pl-6">
         <p class="text-md font-medium italic mb-4 leading-6!">
           “We will enter the upcoming academic year with newly approved strategic projects that touch every member of our community.”
         </p>
@@ -62,19 +60,20 @@ const timelineEvents = timelineData.en;
           <p style="margin: 0" class="opacity-80 text-sm">{{ people[0]['Pareigos'] }}</p>
         </PersonAvatar>
       </figcaption>
-      <video playsinline autoplay controls muted loop class="mx-auto order-1 md:order-2 z-20 shadow-lg rounded-lg aspect-video">
-        <source src="/video/kleja-en.webm" type="video/webm">
+      <video playsinline autoplay controls muted loop class="mx-auto order-1 md:order-2 z-20 shadow-lg notch-corner aspect-video w-full">
+        <source src="/video/Kleja.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </figure>
   </div>
 </section>
 
-<section class="lg:px-2 px-1.5 isolate my-12">
+<!-- Statistics -->
+<section class="lg:px-2 px-1.5 isolate py-16">
   <div class="max-w-6xl mx-auto">
-    <div class="text-center">
-      <h2 style="border: 0; padding: 0" class="font-bold mb-2">VU SR in numbers</h2>
-      <p class="text-lg font-semibold">VU SR is:</p>
+    <span class="section-eyebrow"><span class="eyebrow-num">02</span> VU SR in numbers</span>
+    <div class="mt-4 mb-2">
+      <h2 style="border: 0; padding: 0">VU SR is:</h2>
     </div>
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 mt-10">
       <template v-for="stat in stats.en" :key="stat.label">
@@ -90,8 +89,10 @@ const timelineEvents = timelineData.en;
   </div>
 </section>
 
-<section class="lg:px-2 px-1.5 isolate my-8 py-4">
+<!-- Timeline -->
+<section class="section-band lg:px-2 px-1.5 isolate py-16">
   <div class="max-w-6xl mx-auto">
+    <span class="section-eyebrow"><span class="eyebrow-num">03</span> The year</span>
     <InteractiveTimeline
       title="VU SR 2025-2026 highlights"
       :events="timelineEvents"
@@ -99,8 +100,10 @@ const timelineEvents = timelineData.en;
   </div>
 </section>
 
-<section class="lg:px-2 px-1.5 isolate my-8 py-4">
+<!-- Gallery -->
+<section class="lg:px-2 px-1.5 isolate py-16">
   <div class="max-w-6xl mx-auto">
+    <span class="section-eyebrow"><span class="eyebrow-num">04</span> Moments</span>
     <ImageMosaic
       title="VU SR moments"
       :images="galleryImages.en"
@@ -108,14 +111,19 @@ const timelineEvents = timelineData.en;
   </div>
 </section>
 
+<!-- Call to Action -->
 <section class="lg:px-2 px-1.5 isolate my-20">
-  <div class="max-w-5xl mx-auto text-center p-10 bg-gradient-to-br from-amber-500/10 via-white to-amber-500/5 dark:from-amber-900/20 dark:via-gray-800 dark:to-amber-900/10 rounded-2xl shadow-lg backdrop-blur-sm">
-    <h2 class="text-3xl font-bold mb-4">Join the VU SR community</h2>
-    <p class="text-lg mb-8 px-12">Every VU student can join VU SR.</p>
-    <div class="flex flex-wrap justify-center gap-4 mt-8">
-      <VPButton href="https://vusa.lt/tapk-nariu" text="Become a member" />
-      <VPButton href="/VU_SR_Report_2025_2026.pdf" text="Download PDF" theme="brand" />
-      <VPButton href="https://vusa.lt/lt/kontaktai/centrinis-biuras" text="Contact" theme="alt" />
+  <div class="max-w-5xl mx-auto text-center p-10 md:p-14 notch-corner-bl text-white relative overflow-hidden" style="background: linear-gradient(135deg, var(--vusa-red) 0%, var(--vusa-red-deep) 100%);">
+    <div class="dot-grid absolute inset-0 opacity-30" style="--vusa-hairline: rgba(255,255,255,0.4);"></div>
+    <div class="relative">
+      <span class="section-eyebrow" style="color: var(--vusa-yellow);">Join us</span>
+      <h2 class="mb-4 mt-4" style="border: 0; padding: 0; color: #fff;">Join the VU SR community</h2>
+      <p class="text-lg mb-8 md:px-12">Every VU student can join VU SR.</p>
+      <div class="flex flex-wrap justify-center gap-4 mt-8">
+        <VPButton href="https://vusa.lt/tapk-nariu" text="Become a member" />
+        <VPButton href="/VU_SR_Report_2025_2026.pdf" text="Download PDF" theme="brand" />
+        <VPButton href="https://vusa.lt/lt/kontaktai/centrinis-biuras" text="Contact" theme="alt" />
+      </div>
     </div>
   </div>
 </section>
