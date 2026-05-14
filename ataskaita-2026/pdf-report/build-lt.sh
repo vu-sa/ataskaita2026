@@ -21,11 +21,11 @@ typst compile report-lt.typ "VU_SA_Ataskaita_2025_2026.pdf"
 # Check if compilation was successful
 if [ $? -eq 0 ]; then
     echo "PDF successfully generated: VU_SA_Ataskaita_2025_2026.pdf"
-    
+
     # Compress the generated PDF
     echo "Compressing PDF..."
     node compress-pdf.js --lt
-    
+
     echo "PDF generation and compression completed."
 else
     echo "Error: PDF generation failed."
