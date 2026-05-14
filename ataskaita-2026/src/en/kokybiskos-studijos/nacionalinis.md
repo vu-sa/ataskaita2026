@@ -6,7 +6,7 @@
 
 - We also met with Liutauras Kazlavickas, a member of the Seimas Committee on Education and Science, and the committee’s vice-chair. During the meeting, we discussed changes to the Law on the Legal Status of Foreigners, the challenges of integrating international students, and the necessary solutions.
 
-- We organized a protest at the Seimas against the proposed amendments to the Law on Medical Practice regarding the assignment of medical residents to the country’s regions.
+- We organized a protest at Seimas against the proposed amendments to the Law on Medical Practice regarding the assignment of medical residents to the country’s regions.
 
 - During the reporting period, we participated in meetings of the Seimas Committee on Education and Science as guests.
 
@@ -28,7 +28,7 @@
 
 - We also participated in other inter-institutional meetings regarding amendments to the Law on Science and Studies, addressing the situation regarding admission to higher education institutions, and the addition of an extra 10 points to the state matriculation exams.
 
-## OFFICE OF THE OMBUDSMAN FOR ACADEMIC ETHICS
+## Office of the Ombudsman for Academic Ethics
 
 - We participated in a discussion organized by the Office of the Ombudsman for Academic Ethics at the Seimas of the Republic of Lithuania titled “On the Provision of Services for the Preparation of Non-Independent Academic and Research Papers in Lithuania.” During the discussion, we shared our views that it is necessary to impose administrative responsibility on service providers and to seek to limit the promotion of such services. At the same time, it is necessary to foster an academic culture in higher education institutions, implement preventive measures, and change assessment methods.
 

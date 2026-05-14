@@ -28,7 +28,7 @@
 
 - Taip pat dalyvavome kituose tarpinstituciniuose susitikimuose dėl Mokslo ir studijų įstatymo pakeitimų, priėmimo į aukštąsias mokyklas situacijos sprendimo, pridėjus papildomus 10 balų prie valstybinių brandos egzaminų.
 
-## AKADEMINĖS ETIKOS KONTROLIERIAUS TARNYBA
+## Akademinės etikos kontrolieriaus tarnyba
 
 - Dalyvavome LR Akademinės etikos kontrolieriaus tarnybos organizuojamoje diskusijoje LR Seime „Dėl nesavarankiško mokslo ir studijų darbų rengimo paslaugų pasiūlos Lietuvoje“. Diskusijos metu pasidalinome mintimis, kad reikalinga prisiimti administracinę atsakomybę paslaugoms tiekėjams (-oms) bei siekti apriboti tokių paslaugų viešinimą. Lygiagrečiai reikalinga aukštosiose mokyklose puoselėti akademinę kultūrą, taikyti prevencines priemones ir keisti atsiskaitymų būdus.
 
@@ -40,7 +40,7 @@
 
 - LR Akademinės etikos kontrolieriaus tarnybos atstovas dalyvavo VU SA Vasaros mokymuose veikloje, skirtoje supažindinti Organizacijos narius (-es) apie akademinės etikos kultūros puoselėjimą, buvo paliestos studentams (-ėms) aktualios temos ties dirbtiniu intelektu studijose ir mokslo akademinės etikos, grobuoniškų žurnalų ir kt.
 
-## SAM IR SADM
+## SAM ir SADM
 
 - Dalyvavome LR Sveikatos apsaugos ministerijos suburtos Ekspertų tarybos posėdžiuose, kuri teikia įžvalgas dėl specialistų poreikio ir priėmimo į studijų programas.
 

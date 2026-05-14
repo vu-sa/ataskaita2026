@@ -1,110 +1,116 @@
 {
   "lt": [
     {
-      "img": "/img/congrats/smsm.png",
-      "name": "Raminta Popovienė",
-      "position": "Švietimo, mokslo ir sporto ministrė",
-      "anchor": "#svietimo-mokslo-ir-sporto-ministerija",
-      "quotePreview": "Ypač vertinu Jūsų gebėjimą telkti studentų balsus, išgryninti aktualiausius poreikius ir aktyviai įsitraukti į dialogą, kuris virsta realiais pokyčiais. Tai – atsakomybės, brandos ir lyderystės ženklas.",
-      "objectPosition": "45% 30%"
+      "img": "/img/congrats/rimvydas-petrauskas.jpg",
+      "name": "prof. Rimvydas Petrauskas",
+      "position": "Vilniaus universiteto rektorius",
+      "anchor": "#rektorius",
+      "quotePreview": "Visuomet domiuosi ir palaikau Jūsų darbus ir linkiu neprarasti ryžto bei entuziazmo kilti į žvaigždes.",
+      "objectPosition": "50% 35%"
     },
     {
-      "img": "/img/congrats/smk.jpeg",
-      "name": "Vaida Aleknavičienė",
+      "img": "/img/congrats/egle-lastauskiene.jpg",
+      "name": "prof. Eglė Lastauskienė",
+      "position": "Vilniaus universiteto Senato pirmininkė",
+      "anchor": "#senatas",
+      "quotePreview": "Tiek žmogaus, tiek organizacijos brandą parodo rūpestis ne tik pačiais savimi, o ir pasauliu aplinkui.",
+      "objectPosition": "50% 25%"
+    },
+    {
+      "img": "/img/congrats/jurgita-sukeviciene.jpg",
+      "name": "Jurgita Šukevičienė",
       "position": "LR Seimo Švietimo ir mokslo komiteto pirmininkė",
-      "anchor": "#vilniaus-universiteto-taryba",
-      "quotePreview": "Ypač vertinu tai, kad Studentų atstovybė neapsiriboja tik formaliu atstovavimu – jūs nuosekliai rūpinatės studijų kokybe, ginate studentų teises, stiprinate bendruomenę, kuriate prasmingas iniciatyvas ir puoselėjate akademines vertybes. Jūsų dėka skleidžiasi tarpdalykiškumo, įtraukties, atsakomybės ir pilietiškumo idėjos."
+      "anchor": "#seimas",
+      "quotePreview": "Akademinė laisvė ir studentų savivalda yra vieni tvirčiausių laisvos visuomenės pamatų.",
+      "objectPosition": "50% 35%"
     },
     {
-      "img": "/img/congrats/jurgilas-taryba.jpg",
-      "name": "dr. Marius Jurgilas",
-      "position": "VU Tarybos pirmininkas",
-      "anchor": "#vilniaus-universiteto-taryba",
-      "quotePreview": "Jūsų gebėjimas konstruktyviai atstovauti studentų interesams visais lygmenimis - nuo studijų kokybės iki aukštojo mokslo politikos - yra svarbi Universiteto bendruomenės stiprybės dalis."
+      "img": "/img/congrats/reda-cimmperman.jpg",
+      "name": "dr. Reda Cimmperman",
+      "position": "Akademinės etikos ir procedūrų kontrolierė",
+      "anchor": "#aekpk",
+      "quotePreview": "Jūsų veikla rodo, kad studentų balsas gali būti labai stiprus – ne tik keliant klausimus, bet ir ieškant sprendimų.",
+      "objectPosition": "55% 40%"
     },
     {
-      "img": "/img/congrats/biblioteka-kriv.jpg",
+      "img": "/img/congrats/zinaida-manzuch.jpg",
+      "name": "Zinaida Manžuch",
+      "position": "Studijų kokybės vertinimo centro direktorė",
+      "anchor": "#skvc",
+      "quotePreview": "Ypač vertiname 2026 m. bendrą darbą plėtojant kokybės užtikrinimo modelį – ieškant naujų studentų įtraukimo būdų ir priemonių, kurios didintų studentų vaidmenį aukštojo mokslo kokybės procesuose.",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "img": "/img/congrats/irena-kriviene.png",
       "name": "Irena Krivienė",
-      "position": "VU Bibliotekos direktorė",
-      "anchor": "#vilniaus-universiteto-biblioteka",
-      "quotePreview": "Jūsų veržlumas ir aktyvus įsitraukimas, kritiškas mąstymas ir geranoriškas palaikymas – tai neįkainojamas indėlis, kuris kasdien padeda mums augti, tobulėti ir kurti aplinką, kurioje gera mokytis ir būti.",
+      "position": "VU bibliotekos generalinė direktorė",
+      "anchor": "#biblioteka",
+      "quotePreview": "Kiekvienais metais VU SA ir bibliotekos bendradarbiavimas įkvepia mus tobulėti ir keistis.",
       "objectPosition": "50% 20%"
     },
     {
-      "img": "/img/congrats/aekpk.jpg",
-      "name": "dr. Reda Cimmperman",
-      "position": "Akademinės etikos ir procedūrų kontolierė",
-      "anchor": "#akademines-etikos-ir-proceduru-kontroliere",
-      "quotePreview": "Esame dėkingi už prasmingą partnerystę ir džiaugiamės tęsdami bendras veiklas, kurios prisideda prie dar stipresnio studentų balso akademinėje etikoje.",
-      "objectPosition": "60% 40%"
-    },
-    {
-      "img": "/img/congrats/skvc.jpg",
-      "name": "Zinaida Manžuch",
-      "position": "SKVC direktoriaus atstovė",
-      "anchor": "#studiju-kokybes-vertinimo-centras",
-      "quotePreview": "Nuoširdžiai vertiname jūsų atsidavimą, naujas idėjas ir aktyvų įsitraukimą kuriant studentų poreikius atliepiančią aukštojo mokslo sistemą. Jūsų balsas yra svarbus – ir jis daro pokytį."
-    },
-    {
-      "img": "/img/congrats/arqus.png",
-      "name": "Arqus studentų (-čių) taryba",
-      "position": "Arqus studentų (-čių) taryba",
-      "anchor": "#arqus-studentu-ciu-taryba",
-      "quotePreview": "Dėkojame, kad dalijatės savo idėjomis ir požiūriais, kaip jūs ir jūsų studentų (-čių) atstovybė kuriate sisteminius pokyčius savo universitete ir šalyje."
+      "img": "/img/congrats/arqus-studentu-taryba.png",
+      "name": "Arqus studentų taryba",
+      "position": "Arqus studentų taryba",
+      "anchor": "#arqus",
+      "quotePreview": "Tarptautinis bendradarbiavimas su VU SA padėjo mums suprasti, kokios yra galimos studijų internacionalizavimo kryptys!"
     }
   ],
   "en": [
     {
-      "img": "/img/congrats/smsm.png",
-      "name": "Raminta Popovienė",
-      "position": "Minister of Education, Science and Sport",
-      "anchor": "#svietimo-mokslo-ir-sporto-ministerija",
-      "quotePreview": "I especially appreciate your ability to unite student voices, clarify the most relevant needs, and actively engage in a dialogue that leads to real changes. This is a sign of responsibility, maturity, and leadership.",
-      "objectPosition": "45% 30%"
+      "img": "/img/congrats/rimvydas-petrauskas.jpg",
+      "name": "Prof. Rimvydas Petrauskas",
+      "position": "Rector of Vilnius University",
+      "anchor": "#rektorius",
+      "quotePreview": "I always take an interest in and support your work, and I wish you continued determination and enthusiasm to reach for the stars.",
+      "objectPosition": "50% 35%"
     },
     {
-      "img": "/img/congrats/smk.jpeg",
-      "name": "Vaida Aleknavičienė",
-      "position": "Chairwoman of the Seimas Committee on Education and Science",
-      "anchor": "#vilniaus-universiteto-taryba",
-      "quotePreview": "I especially appreciate that the Student Representation does not limit itself to formal representation – you consistently care about the quality of studies, defend students' rights, strengthen the community, create meaningful initiatives, and nurture academic values. Thanks to you, the ideas of interdisciplinarity, inclusion, responsibility, and citizenship flourish."
+      "img": "/img/congrats/egle-lastauskiene.jpg",
+      "name": "Prof. Eglė Lastauskienė",
+      "position": "Chair of the Senate of Vilnius University",
+      "anchor": "#senatas",
+      "quotePreview": "The maturity of both a person and an organization is revealed through care not only for oneself, but also for the world around us.",
+      "objectPosition": "50% 25%"
     },
     {
-      "img": "/img/congrats/jurgilas-taryba.jpg",
-      "name": "dr. Marius Jurgilas",
-      "position": "Chairman of the VU Council",
-      "anchor": "#vilniaus-universiteto-taryba",
-      "quotePreview": "Your ability to constructively represent student interests at all levels - from study quality to higher education policy - is an important part of the strength of the University community."
+      "img": "/img/congrats/jurgita-sukeviciene.jpg",
+      "name": "Jurgita Šukevičienė",
+      "position": "Chair of the Seimas Committee on Education and Science",
+      "anchor": "#seimas",
+      "quotePreview": "Academic freedom and student self-governance are among the strongest foundations of a free society.",
+      "objectPosition": "50% 35%"
     },
     {
-      "img": "/img/congrats/biblioteka-kriv.jpg",
+      "img": "/img/congrats/reda-cimmperman.jpg",
+      "name": "Dr. Reda Cimmperman",
+      "position": "Ombudswoman for Academic Ethics and Procedures",
+      "anchor": "#aekpk",
+      "quotePreview": "Your work shows that the student voice can be truly powerful – not only in raising questions, but also in looking for solutions.",
+      "objectPosition": "55% 40%"
+    },
+    {
+      "img": "/img/congrats/zinaida-manzuch.jpg",
+      "name": "Zinaida Manžuch",
+      "position": "Director of The Centre for Quality Assessment in Higher Education",
+      "anchor": "#skvc",
+      "quotePreview": "We wish you a successful year ahead, filled with bold ideas and inspiring results.",
+      "objectPosition": "50% 35%"
+    },
+    {
+      "img": "/img/congrats/irena-kriviene.png",
       "name": "Irena Krivienė",
-      "position": "Director of VU Library",
-      "anchor": "#vilniaus-universiteto-biblioteka",
-      "quotePreview": "Your enthusiasm and active involvement, critical thinking and goodwill support are invaluable contributions that help us grow, improve and create an environment where it is good to learn and be.",
+      "position": "Director General of Vilnius University Library",
+      "anchor": "#biblioteka",
+      "quotePreview": "Every year, the collaboration between VU SR and the Library inspires us to grow and change.",
       "objectPosition": "50% 20%"
     },
     {
-      "img": "/img/congrats/aekpk.jpg",
-      "name": "dr. Reda Cimmperman",
-      "position": "Ombudsperson for Academic Ethics and Procedures",
-      "anchor": "#akademines-etikos-ir-proceduru-kontroliere",
-      "quotePreview": "We are grateful for the meaningful partnership and are pleased to continue joint activities that contribute to a stronger student voice in academic ethics.",
-      "objectPosition": "60% 40%"
-    },
-    {
-      "img": "/img/congrats/skvc.jpg",
-      "name": "Zinaida Manžuch",
-      "position": "SKVC Director's Representative",
-      "anchor": "#studiju-kokybes-vertinimo-centras",
-      "quotePreview": "We sincerely appreciate your dedication, new ideas, and active involvement in creating a higher education system that meets student needs. Your voice is important - and it makes a difference."
-    },
-    {
-      "img": "/img/congrats/arqus.png",
+      "img": "/img/congrats/arqus-studentu-taryba.png",
       "name": "Arqus Student Council",
       "position": "Arqus Student Council",
-      "anchor": "#arqus-studentu-ciu-taryba",
-      "quotePreview": "Thank you for sharing your ideas and perspectives on how you and your student representation create systemic changes at your university and in your country."
+      "anchor": "#arqus",
+      "quotePreview": "International cooperation with VU SA helped us to understand the potential trajectories of study internationalization!"
     }
   ]
 }

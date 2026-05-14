@@ -23,6 +23,12 @@
       "label": "nariai",
       "description": "dėl bendro tikslo veikiantys nariai",
       "icon": "Users"
+    },
+    {
+      "value": 1,
+      "label": "vėžlė",
+      "description": "",
+      "icon": "Turtle"
     }
   ],
   "en": [
@@ -49,6 +55,12 @@
       "label": "members",
       "description": "working toward a common goal",
       "icon": "Users"
+    },
+    {
+      "value": 1,
+      "label": "turtle",
+      "description": "",
+      "icon": "Turtle"
     }
   ]
 }

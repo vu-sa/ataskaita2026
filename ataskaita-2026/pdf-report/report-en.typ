@@ -215,63 +215,53 @@
   accentColor: accentColor,
 )
 
-// SMSM
+// Rector
 
 #image(
-  "src/public/img/congrats/smsm.png",
-  width: 80%,
+  "src/public/img/congrats/rimvydas-petrauskas.jpg",
+  width: 70%,
 )
 
 #v(1em)
 
-#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "smsm"), h1-level: 2)
+#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "rektorius"), h1-level: 2)
 
 #pagebreak()
 
-// SMK
+// Senate
 
 #image(
-  "src/public/img/congrats/smk.jpeg",
-  width: 80%,
+  "src/public/img/congrats/egle-lastauskiene.jpg",
+  width: 55%,
 )
 
 #v(1em)
 
-#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "smk"), h1-level: 2)
+#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "senatas"), h1-level: 2)
 
 #pagebreak()
 
-// Taryba
+// Seimas
 
 #image(
-  "src/public/img/congrats/jurgilas-taryba.jpg",
-  width: 60%,
+  "src/public/img/congrats/jurgita-sukeviciene.jpg",
+  width: 70%,
 )
 
 #v(1em)
 
-#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "taryba"), h1-level: 2)
-
-
-#pagebreak()
-
-// Biblioteka
-
-#image(
-  "src/public/img/congrats/biblioteka-kriv.jpg",
-  width: 50%,
-)
-
-#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "biblioteka"), h1-level: 2)
+#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "seimas"), h1-level: 2)
 
 #pagebreak()
 
-// AEKPK
+// Academic Ethics
 
 #image(
-  "src/public/img/congrats/aekpk.jpg",
-  width: 50%,
+  "src/public/img/congrats/reda-cimmperman.jpg",
+  width: 70%,
 )
+
+#v(1em)
 
 #cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "aekpk"), h1-level: 2)
 
@@ -280,20 +270,37 @@
 // SKVC
 
 #image(
-  "src/public/img/congrats/skvc.jpg",
+  "src/public/img/congrats/zinaida-manzuch.jpg",
   width: 70%,
 )
 
+#v(1em)
+
 #cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "skvc"), h1-level: 2)
+
+#pagebreak()
+
+// Library
+
+#image(
+  "src/public/img/congrats/irena-kriviene.png",
+  width: 50%,
+)
+
+#v(1em)
+
+#cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "biblioteka"), h1-level: 2)
 
 #pagebreak()
 
 // ARQUS
 
 #image(
-  "src/public/img/congrats/arqus.png",
+  "src/public/img/congrats/arqus-studentu-taryba.png",
   width: 100%,
 )
+
+#v(1em)
 
 #cmarker.render(read_file_section("./src/en/sveikinimai.md", section_id: "arqus"), h1-level: 2)
 

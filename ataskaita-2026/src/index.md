@@ -56,7 +56,8 @@ import {
   Heart,
   Scale,
   Handshake,
-  TrendingUp
+  TrendingUp,
+  Turtle
 } from 'lucide-vue-next';
 
 // Map icon strings to icon components
@@ -65,7 +66,8 @@ const iconMap = {
   Building,
   Lightbulb,
   Users,
-  Trophy
+  Trophy,
+  Turtle
 };
 
 // Primary colors for the site
@@ -124,9 +126,10 @@ const logoSrc = computed(() => {
 <section class="lg:px-2 px-1.5 isolate my-12">
   <div class="max-w-6xl mx-auto">
     <div class="text-center">
-      <h2 style="border: 0; padding: 0" class="font-bold mb-2">VU SA – tai:</h2>
+      <h2 style="border: 0; padding: 0" class="font-bold mb-2">VU SA skaičiais</h2>
+      <p class="text-lg font-semibold">VU SA tai:</p>
     </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 mt-10">
       <template v-for="stat in stats.lt" :key="stat.label">
         <EnhancedNumberStatistic 
           :end-number="stat.value" 

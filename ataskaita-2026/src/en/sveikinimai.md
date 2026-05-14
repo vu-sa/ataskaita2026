@@ -1,8 +1,28 @@
----
-title: "Rector of Vilnius University Prof. Rimvydas Petrauskas"
----
+# Congratulatory Words
 
-# Rector of Vilnius University Prof. Rimvydas Petrauskas
+<script setup lang="ts">
+import PhotoGrid from '@/PhotoGrid.vue'
+import congrats from '../data/congrats.json'
+
+const sveikintojai = congrats.en.map((item) => {
+  return {
+    title: item.position,
+    href: item.anchor,
+    link: item.img,
+    objectPosition: item.objectPosition,
+  }
+})
+</script>
+
+<PhotoGrid :photos="sveikintojai" />
+
+<a id="rektorius"></a>
+
+## Rector of Vilnius University Prof. Rimvydas Petrauskas
+
+![Rector of Vilnius University Prof. Rimvydas Petrauskas](/img/congrats/rimvydas-petrauskas.jpg)
+
+<!-- SECTION:rektorius:START -->
 
 Dear Students,
 
@@ -20,25 +40,67 @@ One of the most notable aspects of VU SR’s work is that you act not only for y
 
 I always take an interest in and support your work, and I wish you continued determination and enthusiasm to reach for the stars.
 
-## Rector of Vilnius University
+**Prof. Rimvydas Petrauskas**
 
-## Prof. Rimvydas Petrauskas
+Rector of Vilnius University
 
-## Akademinės etikos ir procedūrų kontrolierė Dr. Reda Cimmperman
+<!-- SECTION:rektorius:END -->
 
-Mieli Vilniaus universiteto studentai, mieli VU Studentų atstovybės nariai,
+<a id="senatas"></a>
 
-man visada gera matyti studentus, kurie ne tik dalyvauja universiteto gyvenime, bet ir jį kuria. Jūsų veikla rodo, kad studentų balsas gali būti labai stiprus – ne tik keliant klausimus, bet ir ieškant sprendimų, telkiant bendruomenę, primenant, kad universitetas yra gyvas tiek, kiek jame yra dialogo, pasitikėjimo ir atsakomybės.
+## Chair of the Senate of Vilnius University Prof. Eglė Lastauskienė
 
-Šiais metais mūsų keliai ne kartą susitiko kalbantis apie akademinę etiką. Ir man labai svarbu pasakyti – Jūsų įsitraukimas buvo tikras, nuoširdus ir matomas. Džiaugiuosi, kad šios temos neliko tik diskusijų lygmenyje, bet virto konkrečiais žingsniais, tarp jų ir atskiru veiksmų planu Vilniaus universitete. Tai rodo, kad pokytis prasideda tada, kai žmonės tiki, jog jų balsas turi prasmę.
+![Chair of the Senate of Vilnius University Prof. Eglė Lastauskienė](/img/congrats/egle-lastauskiene.jpg)
 
-Akademinė etika nėra vien taisyklės, dokumentai ar procedūros. Ji prasideda nuo kasdienio pasirinkimo – būti sąžiningiems, gerbti vieni kitus, kalbėtis, prisiimti atsakomybę ir nebijoti kelti nepatogių klausimų. Jūs parodote, kad studentai gali būti labai svarbi šios kultūros dalis.
+<!-- SECTION:senatas:START -->
 
-Linkiu Jums ir toliau išlikti drąsiems, gyviems ir bendruomeniškiems. Linkiu neprarasti smalsumo, jautrumo ir tikėjimo, kad net maži žingsniai gali keisti universiteto kultūrą. O kiekvienam iš Jūsų – patirties, kuri augina, žmonių, kurie įkvepia, ir drąsos veikti taip, kaip diktuoja vertybės.
+Dear Students,
 
-## Dr. Reda Cimmperman
+I congratulate you on another year that has passed and on all the work you have accomplished. Thank you for being here and for stirring our beloved Alma Mater with your youthful energy, enthusiasm, and drive. You fill every corner of it with youth and laughter. And no less importantly, you are growing and helping others to grow. This year, more than ever, demanded unity and civic spirit, and it was wonderful to see you so responsible and devoted to freedom, democracy, and our Homeland.
 
-## Akademinės etikos ir procedūrų kontrolierė
+In this age of flourishing foolishness, your sense of responsibility is what gives us hope that in the future, sound reason and knowledge will overcome the pandemic of stupidity. Today, our shared duty is not only to impart or acquire academic knowledge, but also to strengthen a civic society and common sense. I wish that, through your own example, you will inspire all your fellow students, so that the circle of wise and responsible people may continue to grow ever wider.
+
+The maturity of both a person and an organization is revealed through care not only for oneself, but also for the world around us. For this, I salute you — you are a mature and responsible organization, together with which our Alma Mater will proudly nurture people who will reach for the stars.
+
+**Prof. Eglė Lastauskienė**
+
+Chair of the Senate of Vilnius University
+
+<!-- SECTION:senatas:END -->
+
+<a id="seimas"></a>
+
+## Chair of the Seimas Committee on Education and Science Jurgita Šukevičienė
+
+![Chair of the Seimas Committee on Education and Science Jurgita Šukevičienė](/img/congrats/jurgita-sukeviciene.jpg)
+
+<!-- SECTION:seimas:START -->
+
+Dear Students,
+
+Academic freedom and student self-governance are among the strongest foundations of a free society. Looking at your report, I see not only the work you have accomplished, but also a growing generation of the leaders of Lithuania.
+
+Vilnius University has always been a center of intellectual leadership, and your student representation serves as an example of critical thinking and civic courage. Today, as the world faces rapid technological change and geopolitical challenges, your ability to unite, engage in discussion, and constructively represent your values becomes important not only within university halls, but also on the scale of the entire country. You are the ones who refuse to stand still, who demand quality, and who remind us that the greatest asset of our country is human intellect and its creative power.
+
+I would like to thank everyone — those visible in leadership positions and those who work quietly yet responsibly in academic groups or committees. Your volunteer work and the time you dedicate to the benefit of the community are the best investment in our shared future.
+
+I wish for this report to become not only a summary of completed work, but also a source of inspiration for new ideas. Dream boldly, never stop striving for more, and always remain those who truly care.
+
+Wishing you success and unity!
+
+**Jurgita Šukevičienė**
+
+Chair of the Seimas Committee on Education and Science
+
+<!-- SECTION:seimas:END -->
+
+<a id="aekpk"></a>
+
+## Ombudswoman for Academic Ethics and Procedures Dr. Reda Cimmperman
+
+![Ombudswoman for Academic Ethics and Procedures Dr. Reda Cimmperman](/img/congrats/reda-cimmperman.jpg)
+
+<!-- SECTION:aekpk:START -->
 
 Dear students of Vilnius University, dear members of the Vilnius University Students’ Representation,
 
@@ -50,15 +112,56 @@ Academic ethics is not only about rules, documents or procedures. It begins with
 
 I wish for you to remain brave, open, and community-minded. May you never lose your curiosity, sensitivity and belief that even small steps can change the culture of a university. And to each of you, I wish experiences that help you grow, people who inspire you and the courage to act according to your values.
 
-## Dr. Reda Cimmperman
+**Dr. Reda Cimmperman**
 
-## Ombudswoman for Academic Ethics and Procedures
+Ombudswoman for Academic Ethics and Procedures
 
-## STUDIJŲ KOKYBĖS IR VERTINIMO CENTRO DIREKTORĖ Zinaida Manžuch
+<!-- SECTION:aekpk:END -->
 
-Studijų kokybės vertinimo centras nuoširdžiai sveikina Vilniaus universiteto studentų atstovybę apibendrinant dar vienus aktyvius veiklos metus. 2025 metais Centro ir studentų bendradarbiavimas pasižymėjo atsakingu studentų įsitraukimu į aukštojo mokslo kokybės klausimus, atviru ir konstruktyviu dialogu. Ypač vertiname 2026 m. bendrą darbą plėtojant kokybės užtikrinimo modelį – ieškant naujų studentų įtraukimo būdų ir priemonių, kurios didintų studentų vaidmenį aukštojo mokslo kokybės procesuose. Linkime sėkmingų ateinančių metų, drąsių idėjų ir įkvepiančių rezultatų!
+<a id="skvc"></a>
 
-[EN]
-Director of The Centre for Quality Assessment in Higher Education Zinaida Manžuch
+## Director of The Centre for Quality Assessment in Higher Education Zinaida Manžuch
+
+![Director of The Centre for Quality Assessment in Higher Education Zinaida Manžuch](/img/congrats/zinaida-manzuch.jpg)
+
+<!-- SECTION:skvc:START -->
 
 The Centre for Quality Assessment in Higher Education warmly congratulates the Vilnius University Students’ Representation on another active year of work. In 2025, our collaboration was characterised by responsible student engagement in higher education quality issues, open and constructive dialogue. We especially appreciate our joint efforts in 2026 to develop the quality assurance framework by exploring new ways of involving students and strengthening their voice in higher education quality processes. We wish you a successful year ahead, filled with bold ideas and inspiring results!
+
+<!-- SECTION:skvc:END -->
+
+<a id="biblioteka"></a>
+
+## Director General of Vilnius University Library Irena Krivienė
+
+![Director General of Vilnius University Library Irena Krivienė](/img/congrats/irena-kriviene.png)
+
+<!-- SECTION:biblioteka:START -->
+
+Dear students,
+
+VU SR, which unites the most active part of Vilnius University students’ community, is a loyal and reliable partner of the Library. We are delighted by the regular meetings between the Library and student representatives, during which we openly discuss students’ everyday lives, the challenges of exam periods, the accessibility of spaces, and digital needs. Time and again, our discussions with you have inspired us to take action, to update or introduce new information services, and to strive to make the Library an even more attractive space for you.
+
+We particularly value the active involvement of student representatives in planning the Library’s future and their significant contribution to the development of the Library’s strategic plan. We cannot imagine undertaking such important work without you, the most important audience of the Library, without your ideas and insights on what is needed to make the Library even more relevant and appealing not only to current students but also to future ones.
+
+We admire your openness and sensitive approach to important issues as well as your success in finding new ways to communicate about them. We were delighted at the possibility of joining the activities of Sustainability Week organized by VU SR and exploring the themes of sustainability and ecology in a completely new format—through bookbinding.
+
+Every year, the collaboration between VU SR and the Library inspires us to grow and change. We hope that you will continue seeing the Library as your own space—a place for dialogue, new ideas, work, and relaxation. You are always welcome here!
+
+**Irena Krivienė**
+
+Director General of Vilnius University Library
+
+<!-- SECTION:biblioteka:END -->
+
+<a id="arqus"></a>
+
+## Arqus Student Council
+
+![Arqus Student Council](/img/congrats/arqus-studentu-taryba.png)
+
+<!-- SECTION:arqus:START -->
+
+VU student representatives play a key role in Arqus student council by advocating for quality assurance mechanisms. We are happy to have the opportunity to exchange good practices and gain insight into student representation specifics in Lithuania. This was especially useful when providing themes for joint degree programmes and assuring that student representatives play a role in quality assurance. International cooperation with VU SA helped us to understand what are the potential trajectories of study internationalization!
+
+<!-- SECTION:arqus:END -->

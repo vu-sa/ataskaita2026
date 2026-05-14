@@ -34,13 +34,14 @@ import EnhancedNumberStatistic from "@/EnhancedNumberStatistic.vue";
 import ImageMosaic from "@/ImageMosaic.vue";
 import InteractiveTimeline from "@/InteractiveTimeline.vue";
 
-import { Building, Star, Lightbulb, Users } from 'lucide-vue-next';
+import { Building, Star, Lightbulb, Users, Turtle } from 'lucide-vue-next';
 
 const iconMap = {
   Star,
   Building,
   Lightbulb,
   Users,
+  Turtle,
 };
 
 const timelineEvents = timelineData.en;
@@ -72,9 +73,10 @@ const timelineEvents = timelineData.en;
 <section class="lg:px-2 px-1.5 isolate my-12">
   <div class="max-w-6xl mx-auto">
     <div class="text-center">
-      <h2 style="border: 0; padding: 0" class="font-bold mb-2">VU SR is:</h2>
+      <h2 style="border: 0; padding: 0" class="font-bold mb-2">VU SR in numbers</h2>
+      <p class="text-lg font-semibold">VU SR is:</p>
     </div>
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mt-10">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-6 mt-10">
       <template v-for="stat in stats.en" :key="stat.label">
         <EnhancedNumberStatistic
           :end-number="stat.value"
