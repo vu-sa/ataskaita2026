@@ -12,7 +12,7 @@
 
 // Format image path
 #let format-image-path(image-name, path-prefix: "../src/public/img/people/") = {
-  if image-name == "" { return path-prefix + "placeholder.jpg" }
+  if image-name == "" { return none }
   
   // Trim any extra whitespace
   let clean-path = image-name.trim()
