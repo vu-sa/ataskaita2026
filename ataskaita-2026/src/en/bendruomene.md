@@ -39,8 +39,6 @@ const administratoriai = getPersonsByRole("Administrator", "padaliniai");
 
 const cb = getPersonsByDepartment("Centrinis biuras", "dariniai");
 
-const sic = getPersonsByDepartment("VU SA Studentų iniciatyvų centras", "dariniai");
-
 const pirmininkai = getPersonsByRole(["Pirminink", "l.e.p. Pirminink"], "padaliniai");
 const prezidente = getPersonsByRole("Prezidentė", "dariniai");
 prezidente[0].padalinys = undefined;
@@ -98,12 +96,6 @@ More on ISF [here](/en/stipri-organizacija/isf.md).
 ![DAG](</img/dariniai/DAG.jpg>)
 
 <TeamAvatarLayout :members="dag" :showTitle="true" :showPadalinys="false" />
-
-## Student Initiatives Center
-
-![SIC](</img/dariniai/SIC.jpg>)
-
-<TeamAvatarLayout :members="sic" :showTitle="true" :showPadalinys="false" />
 
 ## Representatives coordinators
 
