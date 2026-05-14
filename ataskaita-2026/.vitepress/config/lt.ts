@@ -75,14 +75,14 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                             { text: 'Tyrimai', link: '/stipri-organizacija/tyrimai' },
                             { text: 'Projektai', link: '/stipri-organizacija/projektai' },
                             { text: 'Procesų atnaujinimas', link: '/stipri-organizacija/procesu-atnaujinimas' },
-                            { text: 'Institucinio stiprinimo fondas', link: '/stipri-organizacija/isf' },
+                            { text: 'Institucinis stiprinimas', link: '/stipri-organizacija/isf' },
                         ]
                     },
                     {
                         text: 'Darni universitetinė bendruomenė',
                         collapsed: true,
                         items: [
-                            { text: 'Renginiai', link: '/darni-bendruomene/renginiai' },
+                            { text: 'Bendruomenę buriantys renginiai', link: '/darni-bendruomene/renginiai' },
                             { text: 'Studentų (-čių) integracija', link: '/darni-bendruomene/integracija' },
                             { text: 'Studentiškos iniciatyvos', link: '/darni-bendruomene/iniciatyvos' },
                         ]

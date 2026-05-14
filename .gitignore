@@ -17,5 +17,6 @@ pnpm-global
 TODOs.md
 pandoc.html
 output.md
+.~lock.*#
 
 .github/copilot-instructions.md

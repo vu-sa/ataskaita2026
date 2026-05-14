@@ -1,8 +1,6 @@
----
-title: "R1 eisena"
----
+# Bendruomenę buriantys renginiai
 
-# R1 eisena
+## R1 eisena
 
 Kaip ir kasmet, 2025 m. naujus mokslo metus pradėjome tradicine viso Vilniaus universiteto bendruomenės eisena. Rugsėjo 1-ąją visų 15-os fakultetų studentai (-ės) ir dėstytojai (-os) žygiavo Gedimino prospektu link universiteto Didžiojo kiemo, kur iškilmingai atidarėme naujuosius mokslo metus.
 
@@ -10,29 +8,29 @@ Kaip ir kasmet, 2025 m. naujus mokslo metus pradėjome tradicine viso Vilniaus u
 
 Šiais metais įvyko net 12 padalinių organizuotų dienų, kurios subūrė ne tik VU SA, bet ir visą Universiteto bendruomenę, šie renginiai skatino bendradarbiavimą bei naujų ryšių kūrimą.
 
-## VU SA CHGF – ChiGiDi
+- VU SA CHGF – ChiGiDi
 
-## VU SA EVAF – Merkurijaus dienos
+- VU SA EVAF – Merkurijaus dienos
 
-## VU SA FilF – Filologų naktys
+- VU SA FilF – Filologų naktys
 
-## VU SA FsF – Fiesta personae
+- VU SA FsF – Fiesta personae
 
-- VU SA IF – IFDi ;
+- VU SA IF – IFDi
 
-## VU SA MIF – MIDI
+- VU SA MIF – MIDI
 
-## VU SA MF – MeDi
+- VU SA MF – MeDi
 
-## VU SA KnF – Kauno fakulteto dienos
+- VU SA KnF – Kauno fakulteto dienos
 
-- VU SA KF - Informacijos dienos ;
+- VU SA KF - Informacijos dienos
 
-## VU SA TF – TeDi
+- VU SA TF – TeDi
 
-## VU SA TSPMI – PoDi
+- VU SA TSPMI – PoDi
 
-## VU SA VM – VeDi
+- VU SA VM – VeDi
 
 ## Kiti padalinių renginiai
 
@@ -40,7 +38,7 @@ Kaip ir kasmet, 2025 m. naujus mokslo metus pradėjome tradicine viso Vilniaus u
 
 ## VU SA CHGF
 
-## Initium Novum
+- Initium Novum
 
 - BBQ vakaras „Nuleidžiam garą“;
 
@@ -58,215 +56,215 @@ Kaip ir kasmet, 2025 m. naujus mokslo metus pradėjome tradicine viso Vilniaus u
 
 ## VU SA EVAF
 
-## Šiurpnakčio renginys
+- Šiurpnakčio renginys
 
-## Naujų EVAF patalpų atidarymas
+- Naujų EVAF patalpų atidarymas
 
-## Kalėdinis bendruomenės vakaras
+- Kalėdinis bendruomenės vakaras
 
-## Protmūšis “Nepudrink smegenų”
+- Protmūšis “Nepudrink smegenų”
 
-## Kraujo donorystės iniciatyva
+- Kraujo donorystės iniciatyva
 
-## Kaunas social day trip
+- Kaunas social day trip
 
 ## VU SA FilF
 
-## Midterm’as – ne problema
+- Midterm’as – ne problema
 
-## Filmo peržiūra “Užmerktom akim: kino patirtis kitaip”
+- Filmo peržiūra “Užmerktom akim: kino patirtis kitaip”
 
-## “Halloween in the Old Town”
+- “Halloween in the Old Town”
 
-## Bendruomenės vakaras
+- Bendruomenės vakaras
 
 ## VU SA FilF gimtadienis
 
-## Akcija “Maistas gyvūnams”
+- Akcija “Maistas gyvūnams”
 
-## Socialinė akcija – renkam maistą
+- Socialinė akcija – renkam maistą
 
-## Kabančių vazonų dirbtuvės su klubu Arti
+- Kabančių vazonų dirbtuvės su klubu Arti
 
 ## VU SA FsF
 
-## Socialinės intergracijos vakaras
+- Socialinės intergracijos vakaras
 
-## Filmo peržiūra “Užmerktom akim: kino patirtis kitaip”
+- Filmo peržiūra “Užmerktom akim: kino patirtis kitaip”
 
-## „Rašyk protingai: nuo struktūros iki rezultato“
+- „Rašyk protingai: nuo struktūros iki rezultato“
 
-## „Mes išskridome į kos(t)mosą“
+- „Mes išskridome į kos(t)mosą“
 
-## Nuotolinė paskaita VU FsF ir Kijevo universiteto Psichologijos fakulteto studentams
+- Nuotolinė paskaita VU FsF ir Kijevo universiteto Psichologijos fakulteto studentams
 
-## Civilinės saugos edukacija filosofijos fakulteto bendruomenei
+- Civilinės saugos edukacija filosofijos fakulteto bendruomenei
 
 ## VU SA FF
 
-## Diskusija su OPTOMAN
+- Diskusija su OPTOMAN
 
-## Užgavėnės
+- Užgavėnės
 
-## Kalėdinės eglutės puošimas
+- Kalėdinės eglutės puošimas
 
-## Mėnuli0 naktis
+- Mėnuli0 naktis
 
-## Fizikai, bendraukime
+- Fizikai, bendraukime
 
 ## VU SA GMC
 
-## “Laboratorijų dienos”
+- “Laboratorijų dienos”
 
-## TARPTAUTINIŲ STUDENTŲ (-ČIŲ) RENGINYS: „ŠIURPNAKTIS“ (HALLOWEEN)
+- TARPTAUTINIŲ STUDENTŲ (-ČIŲ) RENGINYS: „ŠIURPNAKTIS“ (HALLOWEEN)
 
-## “Magistrams: kas toliau?”
+- “Magistrams: kas toliau?”
 
-## “Nepūdrink smegenų”
+- “Nepūdrink smegenų”
 
-## Bingo vakaras
+- Bingo vakaras
 
-## Naktis universitete: Genetic meme code
+- Naktis universitete: Genetic meme code
 
 ## VU SA IF
 
 - Kartu su Istorijos fakulteto SMD suorganizuotas renginys ,,Paskaita apie rašto darbus“
 
-## Iniciatyva „Parašyk dėstytojui laišką“
+- Iniciatyva „Parašyk dėstytojui laišką“
 
-## Kalėdinis protmūšis
+- Kalėdinis protmūšis
 
-## Protmūšis ,,Suburk ir atkurk“ Kovo 11-osios proga
+- Protmūšis ,,Suburk ir atkurk“ Kovo 11-osios proga
 
-## Poezijos vakaras
+- Poezijos vakaras
 
 ## VU SA KnF
 
-## Šachmatų turnyras
+- Šachmatų turnyras
 
-## Pyragų diena
+- Pyragų diena
 
-## Lipdymo polimeriniu moliu dirbtuvės
+- Lipdymo polimeriniu moliu dirbtuvės
 
-## Tapyba ant maišelių
+- Tapyba ant maišelių
 
-## Labdaros vakaras
+- Labdaros vakaras
 
-## Kalėdinis workshop
+- Kalėdinis workshop
 
-## Eurolygos vakaras fakultete
+- Eurolygos vakaras fakultete
 
-## Pyragų diena
+- Pyragų diena
 
-## “Sielų upė”
+- “Sielų upė”
 
-## Žaidimų vakaras
+- Žaidimų vakaras
 
-## “Slemas”
+- “Slemas”
 
 ## VU SA KF
 
-## Bendruomenės vakaras
+- Bendruomenės vakaras
 
-## Renginys apie mainų galimybes Vilniaus universitete
+- Renginys apie mainų galimybes Vilniaus universitete
 
-## Helovino protmūšis „Trick or Think“
+- Helovino protmūšis „Trick or Think“
 
-## Eglutės įžiebimo šventė
+- Eglutės įžiebimo šventė
 
-## Bendruomenės vakaras
+- Bendruomenės vakaras
 
-## Kaunas social day trip
+- Kaunas social day trip
 
-## Kalėdinis Bingo vakaras
+- Kalėdinis Bingo vakaras
 
-## Civilinės saugos mokymai
+- Civilinės saugos mokymai
 
-## Psichologinės sveikatos renginių ciklą
+- Psichologinės sveikatos renginių ciklą
 
 ## VU SA MIF
 
-## Pirmakursių renginys „Miciaus siaubo sanatorija“
+- Pirmakursių renginys „Miciaus siaubo sanatorija“
 
-## Renginys „Halloween in the Old Town“
+- Renginys „Halloween in the Old Town“
 
-## Renginys „Naktis su MIDI“
+- Renginys „Naktis su MIDI“
 
-## Kraujo donorystė s akcija
+- Kraujo donorystė s akcija
 
-## Paskaita apie legendinį VU rektorių prof. Joną Kubilių
+- Paskaita apie legendinį VU rektorių prof. Joną Kubilių
 
-## „Išsipildymo akcija“ kartu su SEB
+- „Išsipildymo akcija“ kartu su SEB
 
 - Kalėdinis pasibuvimas.
 
-## Kalėdinė akcija „Suteik vaikams stebuklą“
+- Kalėdinė akcija „Suteik vaikams stebuklą“
 
 - Valentino dienos akcija.
 
-## Tarpatstovybinis LAN Party
+- Tarpatstovybinis LAN Party
 
 - Emocinė s gerovė s savaitė .Pi dienos minėjimas.
 
-## Paskaita „The Anatomy of a Software Development Team“
+- Paskaita „The Anatomy of a Software Development Team“
 
 ## VU SA MF
 
-## Kraujo ėminių donorystė
+- Kraujo ėminių donorystė
 
-## „VU MF SMVT mugė“
+- „VU MF SMVT mugė“
 
-## „Mokslo superpaskaita“
+- „Mokslo superpaskaita“
 
-## „PhD Espresso“
+- „PhD Espresso“
 
-## Mokslo komunikacijos mokymai „Kai kalba mokslas... “
+- Mokslo komunikacijos mokymai „Kai kalba mokslas... “
 
-## VU MF „Kontaktų mugė“
+- VU MF „Kontaktų mugė“
 
 ## VU SA TSPMI
 
-## Viktorina „Auksinis dėstytojas“
+- Viktorina „Auksinis dėstytojas“
 
-## Halloween heist
+- Halloween heist
 
-## Kalėdinis vakaras
+- Kalėdinis vakaras
 
-## Kalėdinė savaitė
+- Kalėdinė savaitė
 
-## Life cycle “From school to politics”
+- Life cycle “From school to politics”
 
-## Žaidimų vakarai
+- Žaidimų vakarai
 
-## Kultūros vakaras
+- Kultūros vakaras
 
-## Saugumo ekskursija su „Raudonuoju Kryžiumi“
+- Saugumo ekskursija su „Raudonuoju Kryžiumi“
 
-## Renginys „Halloween in the Old Town“
+- Renginys „Halloween in the Old Town“
 
-## „Flea Market“
+- „Flea Market“
 
 ## VU SA TF
 
 - „LEXplore“,
 
-## KoDi’25
+- KoDi’25
 
-## Kalėdinis renginys
+- Kalėdinis renginys
 
-## Kovo 11-osios varžybos Teisės fakultete
+- Kovo 11-osios varžybos Teisės fakultete
 
-## Kraujo donorystės akcija
+- Kraujo donorystės akcija
 
-## Valanda su dekanu
+- Valanda su dekanu
 
 ## VU SA VM
 
-## Winterfest
+- Winterfest
 
-## Haunted hour
+- Haunted hour
 
-## Socialinės integracijos vakaras
+- Socialinės integracijos vakaras
 
 ## VUnity
 

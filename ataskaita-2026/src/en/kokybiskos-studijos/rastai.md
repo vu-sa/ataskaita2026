@@ -8,7 +8,7 @@ The letter noted that, according to the submitted procedure, funding is allocate
 
 The letter also proposed refining the criteria for evaluating applications. VU SR suggested placing greater emphasis on the student’s motivation and the benefits of the summer school, evaluating not only the program’s alignment with the student’s field of study but also its contribution to individual academic and professional growth, as well as the acquisition of intercultural and interdisciplinary competencies.
 
-## Link to the letter: https://www.vusa.lt/d/G4YXA0
+**Link to the letter:** https://www.vusa.lt/d/G4YXA0
 
 ## Regarding the Draft Order of the Minister of Education, Science, and Sports of the Republic of Lithuania (July 30, 2025)
 
@@ -18,7 +18,7 @@ The letter emphasized that the basis for admission selection should be adequate 
 
 VU SR viewed the option of restoring actual scores most favorably, as such a decision would allow for a more accurate assessment of the academic preparedness of high school graduates from different years. The letter also expressed support for a model of adjusting the competitive score, under which a correction coefficient would be applied to 2025 high school graduates who scored up to 85 points, while the results of those who scored 86–94 points would be recalculated using a special formula. However, VU SR noted that such changes must be adopted in a timely and transparent manner and without violating the deadlines set by law.
 
-## Link to the letter: https://www.vusa.lt/d/nVXvQ0
+**Link to the letter:** https://www.vusa.lt/d/nVXvQ0
 
 ## Regarding Amendments to the Law on the Legal Status of Foreigners (September 26, 2025)
 
@@ -28,7 +28,15 @@ VU SR supported the proposal to issue temporary residence permits for study purp
 
 VU SR noted that such a restriction could negatively impact international students’ financial independence, integration, and ability to live comfortably in Lithuania. The letter emphasized that students holding a temporary residence permit or visa already face an additional financial burden, including the need for private health insurance, so limiting their working hours could further complicate their situation. VU SR proposed maintaining the current regulations on the scope of work for international students and addressing these issues systematically, in coordination with the strategy for attracting and integrating international students.
 
-## Link to the letter: https://www.vusa.lt/d/DX3vJ0
+**Link to the letter:** https://www.vusa.lt/d/DX3vJ0
+
+## Regarding the Appeal on the Amendments to the Law on Medical Practice of the Republic of Lithuania (September 29, 2025)
+
+The Vilnius University Students’ Representation, together with the Junior Doctors Association, the Lithuanian University of Health Sciences Residents’ Council, the Lithuanian University of Health Sciences Students’ Representation, the Lithuanian Medical Students’ Association, and the Lithuanian National Union of Students, addressed members of the Parliament of the Republic of Lithuania regarding the proposed amendments to the Law on Medical Practice, which aim to redistribute 15–20% of state-funded residency places into positions requiring graduates to work in regions for a mandatory period.
+
+The appeal emphasized that although ensuring the accessibility of healthcare services in the regions is an important objective, the proposed measures are disproportionate, ineffective, and may have negative long-term consequences for the Lithuanian healthcare system. The organizations noted that the proposal would restrict physicians’ right to freely choose their workplace, discriminate against medical residents compared to other professions, and create an obligation rather than motivation to work in the regions.
+
+The letter also highlighted that more flexible mechanisms already exist, whereby healthcare institutions finance residency studies in exchange for a commitment to work in a specific location. According to the organizations, the shortage of healthcare specialists should instead be addressed by improving working conditions, expanding residency training bases in the regions, and creating long-term incentive measures rather than introducing mandatory placement policies.
 
 ## Regarding questions submitted by the Ministry of Education, Science, and Sports concerning preparations for the 2026 general admission process to Lithuanian higher education institutions (November 24, 2025)
 
@@ -38,7 +46,7 @@ In the letter, the VU SR advocated for maintaining the current requirements for 
 
 VU SR also expressed the position that uniform minimum admission requirements should apply to applicants to colleges and universities. The letter emphasized that differing requirements could create an unjustified hierarchical perception of higher education institutions and limit students’ choices based on the content and objectives of their studies. In response to questions regarding the impact of the level of the study program on the competitive score, VU SR proposed that such decisions be made only after conducting a thorough impact analysis. It was also proposed to apply alternative admission criteria for graduates of short-cycle study programs and to review the requirements for admission during the second round of the competitive selection process so that this measure would better reflect the goals of the social dimension.
 
-## Link to the letter: https://www.vusa.lt/d/0b1vAG
+**Link to the letter:** https://www.vusa.lt/d/0b1vAG
 
 ## Regarding the Coordination of the Draft Procedure for Compiling the 2026 Competitive Rounds (November 25, 2025)
 
@@ -48,7 +56,7 @@ In the letter, the VU SR endorsed all proposed amendments aimed at standardizing
 
 At the same time, the letter noted that the draft does not change the requirements for the second round of admissions. VU SR expressed concern that the current logic of the second competitive round, under which the criterion of practical work experience becomes essential, does not sufficiently reflect the priorities of the social dimension of higher education. The letter proposed reviewing the requirements for the second competitive round in the future so that this measure would be more oriented toward underrepresented groups and individuals facing real academic, social, financial, geographical, or informational barriers in pursuing higher education.
 
-## Link to the letter: https://www.vusa.lt/d/DB3zRn
+**Link to the letter:** https://www.vusa.lt/d/DB3zRn
 
 ## Regarding the Coordination of the Draft Procedure for Internships at the Department of Environmental Protection under the Ministry of the Environment (December 1, 2025)
 
@@ -58,7 +66,15 @@ The letter drew attention to the section of the procedure manual regarding the a
 
 VU SR also proposed adding a provision to the procedure that would clearly specify the number of working days within which the Department of Environmental Protection must inform the intern of their acceptance or rejection for the internship position. In the opinion of VU SR, such an addition would provide greater clarity to students considering an internship or who have submitted an application.
 
-## Link to the letter: https://www.vusa.lt/d/DaAlgD
+**Link to the letter:** https://www.vusa.lt/d/DaAlgD
+
+## Regarding the Draft Amendments to the Law on the Lithuanian National Radio and Television (December 4, 2025)
+
+The Vilnius University Students’ Representation, together with the Lithuanian Youth Council and the Lithuanian National Union of Students, responded to the amendments to the Law on the Lithuanian National Radio and Television currently under consideration in the Parliament by presenting their position on the proposed changes to the procedure for dismissing the Director General of LRT.
+
+The position statement emphasized that an independent public broadcaster is essential for fostering civic engagement among young people, developing critical thinking, and strengthening trust in democratic institutions. The organizations also expressed concern that the proposed amendments could weaken LRT’s institutional independence and increase the risk of political influence over the public broadcaster.
+
+The organizations called on the Parliament and political parties to ensure a stable, transparent, and independence-based legal framework for LRT that complies with democratic principles and European standards.
 
 ## Regarding the Institutional Evaluation Model for Higher Education Institutions Being Developed by the Center for Quality Assessment in Higher Education (December 9, 2025)
 
@@ -68,7 +84,7 @@ The VU SR welcomed the change to the institutional evaluation model, under which
 
 The letter also included specific proposals regarding the areas to be evaluated. VU SR proposed refining the criteria for higher education institution management, academic self-governance, personnel policy, internal quality assurance, and study program portfolio management. Significant attention was given to student involvement in the institutional evaluation process: it was proposed to clearly define the role of student self-governance in preparing the institution’s self-assessment, to require the submission of student feedback as a mandatory document, and to ensure the participation of student representatives in the working group preparing the self-assessment.
 
-## Link to the letter: https://www.vusa.lt/d/nqRvLG
+**Link to the letter:** https://www.vusa.lt/d/nqRvLG
 
 ## Regarding Changes to Programs Implemented by the Lithuanian Science Council to Promote Student Research Activities (December 9, 2025)
 
@@ -78,7 +94,23 @@ Regarding summer schools abroad, VU SR proposed waiving the requirement for stud
 
 The letter also proposed refining the application evaluation criteria by including an assessment of the academic institution’s level and a more individualized evaluation of the student’s motivation and the benefits provided by the summer school. Regarding student research projects, VU SR proposed allowing applications to be submitted in English and expanding the target group to include not only students in their final year of a integrated study program. Regarding the funding conditions for student summer internships, it was proposed to strengthen the objectivity of the selection process by establishing an evaluation committee consisting of at least two members.
 
-## Link to the letter: https://www.vusa.lt/d/DKB660
+**Link to the letter:** https://www.vusa.lt/d/DKB660
+
+## Regarding the Development of Bicycle Infrastructure and the Installation of Bicycle Storage Facilities in the Municipality of Vilnius City (January 27, 2026)
+
+The Vilnius University Students’ Representation addressed the Mayor of Vilnius City Municipality regarding the development of bicycle infrastructure and the installation of bicycle storage facilities near student dormitories in the Saulėtekis campus area.
+
+The letter emphasized the importance of sustainable mobility for students’ well-being, environmental sustainability, and the promotion of healthy lifestyles. VU SR highlighted that more than 24,000 students study at Vilnius University and actively use the infrastructure and services available in Saulėtekis and across the city.
+
+VU SR proposed installing secure and covered bicycle storage facilities with repair stations near student dormitories, as well as prioritizing the development of safe and well-lit cycling infrastructure connecting Saulėtekis with other parts of Vilnius. The organization noted that such measures would improve students’ mobility, encourage the use of sustainable transport, and contribute to the creation of a more student-friendly and environmentally sustainable city.
+
+## Regarding the Planned Number of State-Funded Medical Residency Study Places for 2026 (January 19, 2026)
+
+The Vilnius University Students’ Representation, together with the Junior Doctors Association, the Lithuanian Medical Movement, the Lithuanian Family Physicians’ Trade Union, the Vilnius University Faculty of Medicine Residents’ Council, the Lithuanian University of Health Sciences Students’ Representation, the Lithuanian University of Health Sciences Residents’ Council, and the Lithuanian Medical Students’ Association, submitted a position regarding the planned reduction in the number of state-funded medical residency study places for 2026.
+
+The letter emphasized that the proposed number of 365 state-funded residency places is lower than in 2025, despite the fact that more students will graduate from medical studies in 2026 than the number of funded places available. According to the organizations, such a decision contradicts the Government’s objective of gradually transitioning to a fully state-funded residency model, increases the risk of physician emigration, and may further deepen the shortage of healthcare specialists in Lithuania.
+
+The position also highlighted that the decreasing number of residency places may negatively affect the sustainability of the healthcare system, increase physicians’ workloads, and reduce the accessibility of healthcare services for patients. The organizations called for increasing the number of state-funded residency places and for more active involvement of medical organizations and university representatives in the decision-making process.
 
 ## Regarding the Approval of the Procedure for Allocating Support to Improve the Integration of Foreign Students Studying at Lithuanian Higher Education Institutions in 2026 into the Labor Market (January 30, 2026)
 
@@ -88,7 +120,7 @@ The letter noted that the intended target group of beneficiaries includes second
 
 The letter also proposed postponing the start and end dates of internships, as the coordination phase took place very close to the scheduled start of the internships. Additionally, VU SR proposed including students in the social sciences and humanities in the target group and increasing the internship quotas, given the growing number of international students and the aim to provide them with more opportunities to integrate into the Lithuanian labor market.
 
-## Link to the letter: https://www.vusa.lt/d/nggzln
+**Link to the letter:** https://www.vusa.lt/d/nggzln
 
 ## Regarding the amendment to Order No. V-224 of the Chair of the Lithuanian Science Council “On the Approval of the Procedure for the Selection of Students and the Allocation of Funding for Participation in Summer School Programs Abroad” (February 6, 2026)
 
@@ -98,7 +130,7 @@ In its letter, VU SR noted that the submitted draft took into account some of th
 
 Additionally, VU SR proposed providing for the possibility, in cases where a bilateral agreement is concluded between a student and an institution of higher education, for the institution to cover a certain portion of the expenses if the student has a need for such coverage. It was proposed that such expenses, upon the student’s submission of a detailed report, could later be reimbursed to the institution from the funds of the Lithuanian Science Council.
 
-## Link to the letter: https://www.vusa.lt/d/D5mbeD
+**Link to the letter:** https://www.vusa.lt/d/D5mbeD
 
 ## Regarding the draft amendment to the Law on Science and Studies No. XI-242, Articles 3, 4, 8, 11, 13, 33, 34, 46, 48, 49, 52, 53, 54, 57, 58, 59, 61, 68, 72, 74, 76¹, 76², 77, 80, 83, 84, 85, 87 (2026-03-04)
 
@@ -108,7 +140,7 @@ VU SR supported the majority of the amendments proposed in the draft, but drew a
 
 In its letter, VU SR also opposed the proposal to transfer the setting of the percentage of state-funded spots for the second competitive round from the law to the executive branch. VU SR argued that a clear percentage threshold enshrined in the law provides stability for applicants and helps ensure the implementation of social dimension priorities. Additionally, the letter proposed reviewing the criteria for incentive funding for academic achievements so that funds would be directed toward strengthening high-quality studies and an environment tailored to them. It was also proposed to refine the regulation of social scholarships and support for students with disabilities, taking individual needs into account.
 
-## Link to the letter: https://www.vusa.lt/d/Dxy3dn
+**Link to the letter:** https://www.vusa.lt/d/Dxy3dn
 
 ## Regarding the Amendment to Resolution No. 149 of the Government of the Republic of Lithuania of March 1, 2017, “On the Implementation of the Law on Science and Studies of the Republic of Lithuania” (March 23, 2026)
 
@@ -118,4 +150,4 @@ In its letter, the VU SR positively assessed the proposal to allow individuals w
 
 At the same time, VU SR proposed extending the option to defer loan repayment not only to those who have completed their studies but also to those who have discontinued their studies, in the interest of consistency and social justice. The letter also proposed making state-supported loans available to third-country students holding a temporary residence permit in Lithuania for study purposes. Additionally, it was proposed to clarify disability-related terminology so that it aligns with current legal regulations and is used consistently.
 
-## Link to the letter: https://www.vusa.lt/d/D79LKG
+**Link to the letter:** https://www.vusa.lt/d/D79LKG

@@ -1,27 +1,29 @@
 # Cooperation
 
-## Lithuanian School Students’ Union (LMS)
+## Lithuanian School Students' Union (LMS)
 
-Last year, we signed a cooperation agreement for the implementation of a project administered by the State Studies Foundation and dedicated to the development of the social dimension in higher education. LMS Board member Kamilė Draudvilaitė led a session during VU SR training for social dimension development ambassadors, covering how to present material to school students and other useful advice that later helped VU SR ambassadors lead sessions in regional schools.
+Last year, we signed a cooperation agreement to implement a project administered by the State Studies Foundation aimed at developing the social dimension in higher education. LMS Board Member Kamilė Draudvilaitė led a session during the training organized by VU SR for ambassadors of social dimension development, led an activity on presenting materials to students and provided other useful advice, which later proved helpful to VU SR ambassadors in conducting sessions at regional schools.
 
-During a meeting with LMS Board member Tėja Lukošiūtė, we discussed issues relevant to the education field, including the mandatory state mathematics exam and the development of the social dimension in higher education.
+During a meeting with LMS Board Member Tėja Lukošiūtė, we discussed current issues in the field of education regarding the mandatory state mathematics exam and the development of the social dimension in higher education.
 
-## Lithuanian Youth Council (LiJOT) and Lithuanian Student Union (LSS)
+## Lithuanian Youth Council and Lithuanian National Union of Students
 
-Together with LiJOT and LSS, we signed a letter regarding the draft Law on Lithuanian National Radio and Television. We also jointly organized a public mourning and solidarity action near the Seimas of the Republic of Lithuania, which received significant public and media attention.
+Together with Lithuanian Youth Council and Lithuanian Students Union, we signed a letter regarding the draft Law on Lithuanian National Radio and Television of the Republic of Lithuania. We also jointly organized a public mourning and rally in front of the Seimas of the Republic of Lithuania, which received significant attention from the public and the media.
 
-We also held several meetings with LiJOT President Umberto Masi on current issues and potential cooperation between our organizations.
+We also held several meetings with Lithuanian Youth Council President Umberto Masi regarding current issues and potential cooperation between our organizations.
 
-## Lithuanian Junior Doctors’ Association, Lithuanian Medical Students’ Association, Lithuanian University of Health Sciences Student Representation and Residents’ Council
+## Other Student Representations
 
-In cooperation with medical student organizations, we addressed decision-makers regarding amendments to the Law on Medical Practice, which aim to redistribute state-funded residency places into places linked to an obligation to work in assigned locations. We also cooperated on the Government’s commitment to increase the number of funded residency places, which was secured through joint efforts.
+We met with the President of the Student Representation at the Lithuanian Academy of Music and Theatre to share best practices regarding the activities of student councils and the challenges faced by students. Since students at both VU and LMTA can take elective courses (modules) from their respective institutions, we agreed to collect feedback to improve our collaboration.
 
-## Student Self-Governments
+The Social Process Coordinator held a video call with representatives of KTU SA, during which she shared VU SR’s experience in sustainability-related activities (including organized initiatives, their success, and the organization’s future plans).
 
-We met with the President of the Lithuanian Academy of Music and Theatre Student Representation to share good practices related to the work of student representations and student issues. Since both VU and LMTA students can take elective study subjects or modules from their higher education institutions, we agreed to collect feedback to improve cooperation.
+The Integration Process Coordinator met with the LSMU SA Curator Coordinators to discuss and share best practices regarding the curator program, including how curators are selected and trained, and how to retain them throughout the year.
 
-## Vilnius Youth Organizations Union “Round Table” (VJOSAS)
+In collaboration with VDU SA, representatives from VU SR participated in a couple of training sessions organized by VDU SA, during which they shared their experiences on representation topics and led activities as guest lecturers.
 
-During the reporting period, we held three separate meetings with VJOSAS representatives. During the meetings, we shared expectations for an organization uniting youth organizations and its activities, and raised issues related to Vilnius city, such as public transport connections, bicycle infrastructure, rental housing price compensation, international student integration, and others.
+## Vilnius Youth Organizations Union - Roundtable (VJOSAS)
 
-We also participated in VJOSAS leaders’ clubs and two Assemblies, where the organization’s annual activity and financial reports were approved and representatives to different governing bodies were elected.
+During the reporting period, we held three separate meetings with representatives of VJOSAS. During the meetings, we shared our expectations for the umbrella organization and its activities, and raised issues related to the city of Vilnius that need to be addressed, such as public transportation, bicycle infrastructure, compensation for housing rental costs, the integration of international students, and others.
+
+We also participated in leadership clubs organized by VJOSAS and in two Assemblies, where the organization’s annual activity and financial reports were approved, and representatives were elected to various governing bodies.

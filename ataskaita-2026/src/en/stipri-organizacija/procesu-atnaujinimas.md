@@ -1,20 +1,18 @@
----
-title: "Updating VU SR Processes"
----
-
 # Updating VU SR Processes
 
 ## Updating Documents Governing VU SR Activities
 
 Since the VU SR Statutes were updated last spring, other documents governing the Organization’s activities continued to be reviewed and updated accordingly this year. In October, the VU SR Parliament approved a new version of the VU SR Rules of Procedure, and model regulations for VU SR units performing representative functions were also drafted and updated. The documents were standardized in accordance with the updated Statutes, corrective amendments were made, and certain provisions were supplemented. Model regulations for student initiatives (programs/clubs/projects) were also updated.
 
-Following the approval of the model regulations, the branches and initiatives were authorized to independently update the regulations of their respective structural units based on them. These updates were discussed and approved during each branch’s annual reporting-electing conference.
+Following the approval of the model regulations, the units and initiatives were authorized to independently update the regulations of their respective structural units based on them. These updates were discussed and approved during each unit’s annual reporting-electing convention.
 
 The final approved versions of all units will be reviewed and approved at the VU SR Parliament session in May.
 
 ## VU SR Strategic Plan Indicators
 
-At the VU SR Parliament session held in December 2025, the impact indicators for the VU SR Strategic Plan 2025–2028 were approved, which will enable a systematic assessment of the implementation of the strategic directions. The strategic direction “Quality Studies and the Environment Applied for Them” stipulates that in the 2027–2028 academic year, student satisfaction with studies in each first- and second-cycle and integrated study program shall not be lower than in the 2025– 2026 and average at least 83 percent. The strategic direction “Strong Organization” stipulates that in the 2027/2028 academic year, the average engagement of VU SR members in the organization’s activities will reach no less than 75 percent. Meanwhile, the strategic direction “A Sustainable University Community” aims for the average engagement of first-year students in first-cycle, second-cycle, and integrated study programs who identify with Vilnius University and view it as open to different community groups and environmentally friendly to be no less than 65% in 2027 / 2028. These indicators define clear criteria for measuring VU SR’s strategic goals and form the basis for evaluating their implementation.
+At the VU SR Parliament session held in December 2025, the impact indicators for the VU SR Strategic Plan 2025–2028 were approved, which will enable a systematic assessment of the implementation of the strategic directions.
+
+The strategic direction “Quality Studies and the Environment Applied for Them” stipulates that in the 2027–2028 academic year, student satisfaction with studies in each first- and second-cycle and integrated study program shall not be lower than in the 2025– 2026 and average at least 83 percent. The strategic direction “Strong Organization” stipulates that in the 2027/2028 academic year, the average engagement of VU SR members in the organization’s activities will reach no less than 75 percent. Meanwhile, the strategic direction “A Sustainable University Community” aims for the average engagement of first-year students in first-cycle, second-cycle, and integrated study programs who identify with Vilnius University and view it as open to different community groups and environmentally friendly to be no less than 65% in 2027 / 2028. These indicators define clear criteria for measuring VU SR’s strategic goals and form the basis for evaluating their implementation.
 
 ## Marketing Strategy
 
@@ -28,7 +26,7 @@ The development of the marketing strategy became a systematic overhaul of intern
 
 ## Communication Strategy
 
-This year also saw an update to the VU SR communication process. The updated VU SR Communication Strategy, which sets the direction for the organization’s internal and external communication processes in line with the VU SR strategy, was approved by the Board. Prior to the update, the communication process was based on personal experiences, word-of-mouth, and predetermined communication goals that lacked clear metrics and evaluation criteria. Additionally, the culture of communication planning within the organization was not fully defined, and the communication channels in use were outdated.
+This year also saw an update to the VU SR communication process. The updated VU SR Communication Strategy, which sets the direction for the organization’s internal and external communication processes in line with the VU SR strategy, was approved by the Council. Prior to the update, the communication process was based on personal experiences, word-of-mouth, and predetermined communication goals that lacked clear metrics and evaluation criteria. Additionally, the culture of communication planning within the organization was not fully defined, and the communication channels in use were outdated.
 
 To identify gaps in VU SR’s communication, key issues, and the needs of the target audience, we conducted a study on the VU SR brand image. The study consisted of two parts and was conducted in October and November. In the first part of the study, we conducted focus groups, and in the second, we identified problem areas through a survey and, by analyzing the results, charted a course for the communication process.
 
@@ -42,13 +40,17 @@ An updated annual training schedule for the organization has been prepared for t
 
 The concept for the spring training sessions was also revised, and the sessions have already been implemented, receiving positive feedback from participants. Furthermore, the training schedule places greater emphasis on developing leadership competencies—separate meetings for leaders are planned throughout the year.
 
-The prepared training framework was presented to the VU SR Board, highlighting its structure and planned implementation for the 2026–2027 period.
+The prepared training framework was presented to the VU SR Council, highlighting its structure and planned implementation for the 2026–2027 period.
 
-## WG on internalization?
+## Working Group on Internationalization
+
+The working group examined the topic of interculturalism from several angles: adapting events, training sessions, and meetings to the needs of international students; internal and external communication that is inclusive and responsive to the needs of diverse students; the integration of international students into the organization’s activities, with a specific focus on enhancing representation competencies and involving them in activities at various levels of representation.
+
+During the working group’s activities, inconsistencies were noted in the bilingualism guidelines, which were updated and translated at the initiative of the working group. The expansion of translation capabilities and accessibility were discussed.
 
 ## Working Group on the Membership Test
 
-During the reporting period, a working group tasked with updating the VU SR membership test was formed by a decision of the VU SR Board. The working group consisted of 5 representatives of the VU SR Board, 2 members of the VU SR Institutional Strengthening Fund, and 2 representatives of the VU SR Central Office. The working group held various types of meetings aimed at systematically reviewing the current membership test, clarifying its purpose and objectives, and preparing an updated version that meets the organization’s needs. During the meetings, it was determined that the purpose of the membership test is to provide VU SR members with a basic understanding of academic processes and the role of the Students' Representation within the university community, and that the main objectives include providing basic social and academic knowledge about VU, giving members the opportunity to familiarize themselves with the path of a member, the structure, image, and strategy of VU SR, as well as informing them about student representation at the university and national levels. In light of this, it was decided to redesign the test, abandon the previous structure, and develop a new system of questions and topics. The updated structure was divided into the following topics: academic issues, academic situations, social issues, social situations, VU structure, situational questions regarding representation, VU SR image, VU SR strategy, LSIC, VU SR structure, and national representation. It was also decided to tailor the test to three target groups of active VU SR members by creating a member test, a curator test, and a representative test. New questions are currently being actively developed, and the updated membership test is scheduled to be prepared and implemented by September 1st.
+During the reporting period, a working group tasked with updating the VU SR membership test was formed by a decision of the VU SR Council. The working group consisted of 5 representatives of the VU SR Council, 2 members of the VU SR Institutional Strengthening Fund, and 2 representatives of the VU SR Central Office. The working group held various types of meetings aimed at systematically reviewing the current membership test, clarifying its purpose and objectives, and preparing an updated version that meets the organization’s needs. During the meetings, it was determined that the purpose of the membership test is to provide VU SR members with a basic understanding of academic processes and the role of the Students' Representation within the university community, and that the main objectives include providing basic social and academic knowledge about VU, giving members the opportunity to familiarize themselves with the path of a member, the structure, image, and strategy of VU SR, as well as informing them about student representation at the university and national levels. In light of this, it was decided to redesign the test, abandon the previous structure, and develop a new system of questions and topics. The updated structure was divided into the following topics: academic issues, academic situations, social issues, social situations, VU structure, situational questions regarding representation, VU SR image, VU SR strategy, LSIC, VU SR structure, and national representation. It was also decided to tailor the test to three target groups of active VU SR members by creating a member test, a curator test, and a representative test. New questions are currently being actively developed, and the updated membership test is scheduled to be prepared and implemented by September 1st.
 
 ## ViSAK Update and Website Update
 

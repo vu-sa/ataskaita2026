@@ -1,22 +1,18 @@
----
-title: "VU SR U Objectives"
----
-
 # VU SR U Objectives
 
-The course descriptions for the FCHG at Vilnius University have been reviewed, and at least two course descriptions for each study program have been improved, taking into account changes in teaching practices, assessment methods, literature, and the course description template.
+The descriptions of VU FCHG study subjects have been reviewed and at least two descriptions of each study program subject have been improved, based on changes in teaching practices, assessment, literature, and the study subject description template.
 
-## Task 1: Implemented
+## Objective 1: Implemented
 
-Recommendations for improving course descriptions have been prepared (based on a problem analysis and the Vilnius University Study Program Regulations) and communicated to VU FCHG decision-makers (to the vice deans and the Academic Council), who will encourage lecturers to review and revise the course descriptions for the courses they teach.
+Recommendations for improving course descriptions were prepared (based on problem analysis and Vilnius University study program regulations) and communicated to VU FCHG decision-makers (deans and the study council), who will encourage lecturers to review the descriptions of the courses they teach and make the necessary changes.
 
-## Task 2: In progress
+## Objective 2: In progress
 
-In each SPC, approve and improve the course descriptions for at least 2 courses from each study program.
+Each SPC has approved improvements to the descriptions of two study subjects from each study program.
 
-## Task 3: Not implemented
+## Objective 3: Not implemented
 
-At least two course descriptions from each study program at VU FCHG are in a uniform format and comply with the template specified in the Vilnius University Study Program Regulations.
+At least two of the course descriptions for each study program at VU FCHG are in a unified format and follow the template in accordance with the Vilnius University study program regulations.
 
 ## ☑️ What has been implemented?
 
@@ -32,19 +28,19 @@ At least two course descriptions from each study program at VU FCHG are in a uni
 
 - Descriptions for 9 courses were updated.
 
-VU FEBA lecturers incorporate teaching methods chosen by students—which the students consider useful—into their courses.
+VU FEBA lecturers have implemented student-selected teaching methods which students find beneficial.
 
 ## Objective 1: Implemented
 
-A list of teaching methods selected by students, which students would most like to see, has been compiled.
+A list of the student-selected teaching methods is created that students would like to see the most.
 
-## Task 2: Implemented
+## Objective 2: Implemented
 
-At least 5 instructors incorporate teaching methods selected by students into the methodologies of their courses.
+At least five lecturers have confirmed implementation of student-selected teaching methods in their subjects.
 
-## Task 3: In progress
+## Objective 3: In progress
 
-A report on the results of the implemented teaching methods has been prepared, presenting feedback from students and lecturers.
+The report of the results of the implemented teaching methods, containing student and lecturer opinions, is developed.
 
 ## ☑️ What has been implemented?
 
@@ -58,43 +54,43 @@ A report on the results of the implemented teaching methods has been prepared, p
 
 - An additional survey was conducted in which students could indicate whether the supplementary teaching methods improved their learning experience.
 
-To improve the learning environment and accessibility for first-year undergraduate students in the Faculty of Physics at Vilnius University by fostering a culture of independent learning and providing information on study management options.
+To improve the study environment and accessibility for first-year students at the Faculty of Physics of Vilnius University by introducing a culture of individual learning and providing information about study management options.
 
 ## Objective 1: Not implemented
 
-75% of lecture recordings for Advanced Mathematics I and II, as well as Thermodynamics and Mechanics, are available on the learning platform.
+The learning platform provides access to 75% of the recordings of lectures on advanced mathematics I and II, thermodynamics, and mechanics.
 
 ## Objective 2: Implemented
 
-Four student learning sessions are held, with a total of at least 100 students participating.
+There are 4 student learning sessions, with a total of at least 100 students participating.
 
 ## Objective 3: Abandoned
 
-At least 75% of students who participated in the activities rate them positively.
+At least 75% of students who participated in the activities evaluate them positively.
 
 ## ☑️ What has been implemented?
 
 - VU FP has established study groups for first-year students. In implementing these study groups, 5 upperclassmen were identified to serve as leaders.
 
-- The study groups, in which a total of about 100 students participated, were publicized through VU SA FP’s internal channels.
+- The study groups, in which a total of about 100 students participated, were publicized through VU SR FP’s internal channels.
 
-In VU FPhil, at least 35% of the course descriptions for BA and MA courses are offered in 2025 / 2026, prepared using a uniform template based on the supporting materials for course (module) descriptions developed by VU. Each description: (a) is prepared in the program’s language of instruction (LT / EN / PL / RU), (b) complies with the ECTS workload calculator (± 10% margin of error).
+At least 35% of BA and MA course descriptions for the 2025/2026 academic year, prepared using a unified template based on supporting materials developed by Vilnius University, are publicly available in the VU FPhil virtual learning environment (under "Course Descriptions"). Each description: (a) is prepared in the working language of the program (LT/EN/PL/RU), (b) matches the ECTS workload calculation (±10% margin of error).
 
-## Task 1: In progress
+## Objective 1: In progress
 
-The working group and representatives have been approved; a checklist for reviews has been prepared (template, language, ECTS ± 10%), with clear roles and contacts.
+A working group and representatives have been approved, a list of review tasks has been prepared (template, language, ECTS ±10%), roles and contacts are clear.
 
-## Task 2: Abandoned
+## Objective 2: Abandoned
 
-A data-driven proposal for the publication of open course descriptions and a set of recommendations have been prepared.
+A proposal for the publication of open subject descriptions based on data and a set of recommendations have been prepared.
 
-## Task 3: Abandoned
+## Objective 3: Abandoned
 
-During a meeting of the VU Faculty of Philology Council, an agreement was approved to coordinate the implementation schedule (template, deadline, publication), responsibilities, and responsible persons for the proposal’s objectives.
+During the meeting of the Council of the Faculty of Philology at Vilnius University, an agreement was reached to agree on the implementation schedule (template, deadline, publication), obligations, and responsible persons for the proposal.
 
-## Task 4: Abandoned
+## Objective 4: Abandoned
 
-VLE is a new platform, and the progress of its updates with uploaded course descriptions is monitored by at least 5 people.
+Virtual learning environment (VLE) is a new page whose update progress with uploaded subject descriptions is monitored by at least 5 people.
 
 ## ☑️ What has been accomplished?
 
@@ -114,17 +110,19 @@ VLE is a new platform, and the progress of its updates with uploaded course desc
 
 - The Faculty of Philology at Vilnius University has developed and approved guidelines for the use of AI, which have been communicated to the faculty’s students and lecturers.
 
+VU FPhis has prepared and approved guidelines for the use of DI, which have been communicated to FPhis students and lecturers
+
 ## Objective 1: Implemented
 
-The Faculty of Philosophy at Vilnius University has developed guidelines for the use of AI.
+The Faculty of Philosophy at Vilnius University has prepared guidelines for the use of AI.
 
 ## Objective 2: In progress
 
-The guidelines for the use of AI have been approved by the VU FPhilos Council.
+Approved guidelines for the use of AI by the VU FPhis Council.
 
-## Task 3: In progress
+## Objective 3: In progress
 
-VU FPhilos students and lecturers have been informed about the possibilities of using AI and the approved guidelines for its use through at least 4 communication channels.
+VU FPhis students and lecturers are informed about the possibilities of using DI and the approved guidelines for using DI through at least 4 communication channels.
 
 ## ☑️ What has been implemented?
 
@@ -144,11 +142,11 @@ There is consistent communication between VU FH students and lecturers, based on
 
 ## Objective 1: In progress
 
-Students from 10 modules state that VLE is the primary communication platform for lecturers and students, and is used consistently.
+Students from 10 modules state that Virtual Learning Environment (VLE) is the main communication platform for lecturers and students and is used consistently.
 
 ## Objective 2: In progress
 
-40% of VU IF students complete a survey on feedback received from instructors.
+40% of VU FH students complete a survey on feedback received from lecturers.
 
 ## ☑️ What has been implemented?
 
@@ -166,29 +164,29 @@ Students from 10 modules state that VLE is the primary communication platform fo
 
 - VU SR FH organized a survey on the feedback provided by lecturers, subsequently analyzed the results, and reached conclusions that will be used to further encourage feedback from lecturers.
 
-- At least 50% of students in courses taught at VU FC during the fall semester receive feedback no later than two weeks after the exam.
+No less than 50% of students receive feedback on the courses in the autumn semester at VU FC no later than two weeks after the assessment
 
 ## Objective 1: In progress
 
-At least 50% of students in courses taught at VU FC during the fall semester received feedback within two weeks of the assessment.
+A systematic analysis of feedback provided to students has been prepared, based on data from student opinion surveys.
 
 ## Objective 2: In progress
 
-Students in each study program group are informed about the importance of feedback, its forms, and are aware that they are to receive it within the specified two-week period.
+Students in each study program group are informed about the importance of feedback, its forms, and know that they must receive it within the specified two-week period.
 
-## Objective 3: Discontinued
+## Objective 3: Abandoned
 
-Lecturers are informed about the importance of feedback for the students’ learning process; they are provided with clear recommendations regarding appropriate forms of feedback and the recommended frequency of provision—within two weeks after an assessment.
+Lecturers are familiarized with the importance of feedback for the student learning process, provided with clear suggestions on appropriate forms of feedback, and recommended frequency of provision – within two weeks after assessment.
 
 ## Objective 4: In progress
 
-VU FC decision-makers accept the proposals submitted by VU SR FC and implement them to improve the quality of feedback provided during the study process.
+VU FC decision-makers accept the proposals submitted by VU SR FC and apply them in order to improve the quality of feedback in the study process.
 
 ## ☑️ What has been accomplished?
 
 - During the VU SR FC freshman camp, activities were carried out to highlight the importance and relevance of feedback to the learning process.
 
-- Six focus groups were held with student representatives and contact people from the VU KF Study Program Committees (SPK) to identify problem areas in the process of providing feedback by lecturers. These sessions revealed that the provision of feedback at the faculty is inconsistent. Most students indicated that they lacked feedback after midterm assessments and also missed more detailed, personalized comments after presentations or exams. There was a need for instructors to clearly specify how they would provide feedback and how students could request it.
+- Six focus groups were held with student representatives and contact people from the VU FC Study Program Committees (SPC) to identify problem areas in the process of providing feedback by lecturers. These sessions revealed that the provision of feedback at the faculty is inconsistent. Most students indicated that they lacked feedback after midterm assessments and also missed more detailed, personalized comments after presentations or exams. There was a need for instructors to clearly specify how they would provide feedback and how students could request it.
 
 - A feedback guide was developed that is easy for students to understand, helping them recognize quality feedback and encouraging its use in the learning process.
 
@@ -202,21 +200,21 @@ VU FC decision-makers accept the proposals submitted by VU SR FC and implement t
 
 - The VU FC administration received a separate proposal from the VU SR FC regarding improving the quality of feedback provision in the study process.
 
-At the Kaunas Faculty of Vilnius University, lecturers and students actively provide high-quality feedback.
+Lecturers and students at VU Kaunas Faculty actively provide high-quality feedback.
 
 ## Objective 1: In progress
 
-The methodology for providing high-quality feedback has been published by the VU SR KnF.
+VU SR KF has published a methodology for providing high-quality feedback.
 
 ## Objective 2: In progress
 
-Information about feedback-related initiatives or campaigns is posted on at least 3 different communication channels (Facebook, Instagram, emails).
+Information about feedback-related initiatives or campaigns is posted on at least three different communication channels (Facebook, Instagram, emails).
 
 ## Objective 3: In progress
 
-At least one change related to providing feedback is adopted in all VU KnF SPCs.
+At least one change related to feedback provision is accepted in all VU KF SPC.
 
-## Task 4: In progress
+## Objective 4: In progress
 
 In the survey, more than 60% of participating students have provided or received high-quality feedback.
 
@@ -230,19 +228,19 @@ In the survey, more than 60% of participating students have provided or received
 
 - A feedback guide was compiled and disseminated to VU KnF students via internal and external channels. The guide is available here.
 
-In VU Faculty of Medicine operates an internal study quality assurance system based on student feedback and in accordance with internal quality criteria.
+The Faculty of Medicine at Vilnius University has an internal study quality assurance system based on student feedback and meeting internal quality criteria.
 
 ## Objective 1: Implemented
 
-The completion rate of the is.vu.lt survey for the fall semester of 2025–2026 for first and second-cycle study programs increased by 3% compared to the fall semester surveys of 2024–2025.
+The completion rate of the 2025–2026 fall semester survey in is.vu.lt for first and second cycle study programs increased by 3% compared to the 2024–2025 fall semester survey.
 
 ## Objective 2: In progress
 
-Based on the proposals of VU SR FM, at least three initiatives to improve teaching qualifications are being implemented.
+At least three initiatives to improve teaching qualifications are implemented, based on proposals from VU SR FM.
 
 ## Objective 3: In progress
 
-Student-friendly changes are being implemented or planned in at least 6 study modules.
+At least six study modules have either implemented or planned changes that are beneficial to students.
 
 ## ☑️ What has been implemented?
 
@@ -263,3 +261,129 @@ Student-friendly changes are being implemented or planned in at least 6 study mo
 - During the meetings, plans were developed for improving the quality of the modules, including planned changes and their implementation deadlines. The plans include refining the course description, applying more engaging teaching methods, improving the quality of assessments, providing timely feedback to students after assessments, presenting clear and accessible literature sources, and the structured use of VLE.
 
 - The results of the discussions were communicated to the program coordinators, and direct communication with students was being strengthened, ensuring the dissemination of information about ongoing and planned changes and the consistent continuity of the study quality improvement process.
+
+The results of student feedback on teaching from study program surveys are systematically analyzed at VU FMI SPC meetings with the aim of ensuring that at least 35% of the cases discussed are followed up with at least one action to improve teaching competence based on the feedback received.
+
+## Objective 1: implemented
+
+At least 70% of student representatives submit at least one reasoned proposal or comment on improving the quality of studies during SPC meetings.
+
+## Objective 2: in progress
+
+At least 35% of student feedback cases discussed by the SPC must have implemented recommendations for improving teaching quality.
+
+## Objective 3: In progress
+
+At least 3 different communication initiatives (events, training, publications, videos, etc.) have been implemented to highlight the importance of quality feedback.
+
+What has been accomplished?
+
+Training sessions were held for VU SR FMI representatives, during which student representatives were introduced to the specifics of their Student Representation, the annual schedule, and the expectations set forth. Together with student representatives, issues relevant to students were analyzed, and examples were provided on how to articulate existing problems and resolve them.
+
+Individual meetings were held regularly with student representatives to discuss how they were feeling in their roles, their goals, and their future plans.
+
+At least one area for improvement was identified in each study program (at the bachelor’s and master’s levels).
+
+To implement changes in the study programs, SPC meetings were initiated to discuss the problems and possible solutions. The following meetings were held:
+
+In response to student complaints, the Information Systems Engineering SPC replaced one instructor and began monitoring another instructor’s work more closely.
+
+The Mathematics Teaching and Educational Measurement SPC proposed replacing a lecturer and merging two courses to improve their structure.
+
+The Mathematics SPC initiated the replacement of a lecturer due to issues with the quality of teaching.
+
+The Data Science and Business Data Analytics Program Committee updated several courses, addressed issues related to the quality of studies, and made decisions to improve the program.
+
+The issue of publishing student data in the Bachelor’s Program in Program Systems was resolved.
+
+To raise community awareness and engagement, a lecture was organized for members of the VU SR FMI during training sessions held in November, during which the importance of feedback for the quality of studies was presented and how to complete surveys accurately and constructively was discussed. A communication campaign was carried out in December–January to publicize information about the benefits and importance of feedback, as well as practical examples of its application. An additional communication phase is also planned for May to ensure the continued dissemination of information.
+
+Events and initiatives organized by VU ŠA that promote a (shared) academic spirit and consistent career planning.
+
+## Objective 1: implemented
+
+80 percent of respondents to a survey on the satisfaction of community needs by events and initiatives organized by VU ŠA say that their community needs are being met.
+
+## Objective 2: implemented
+
+At least 150 students participated in events and initiatives organized in collaboration with other educational institutions, as well as in career planning activities.
+
+## ☑️ What has been implemented?
+
+- A survey was conducted to identify the needs of students and the VU ŠA community regarding the organization of various events. The survey showed that community members would like to have more events in informal settings, as well as more active or sports-related activities. Lecturers who participated in the survey also expressed the need to organize events outside lecture hours, while students themselves expressed a willingness to contribute to such events.
+
+- Collaboration was carried out with Šiauliai State College and the Šiauliai Technology Training Center regarding potential events and opportunities for cooperation.
+
+- To achieve the annual goal, the following events were organized: a Halloween party (VU SR ŠA with ŠVK SR); Cake Day at ŠA (VU SR ŠA with VU ŠA); celebration of International Students’ Day during the “International Dinner” event (VU SR ŠA with VU ŠA); a festive movie night (VU SR ŠA with VU ŠA); a Valentine’s evening (VU SR ŠA with ŠVK SR); and an International Women’s Day celebration (VU SR ŠA with ŠVK SR).
+
+VU FL has developed and implemented a unified feedback system aimed at improving the quality of the academic process.
+
+## Objective 1: in progress
+
+20 percent of students who responded to VU IS surveys say that VU FL lecturers and seminar leaders provide feedback.
+
+## Objective 2: Implemented
+
+In a survey created by VU SR FL, at least 100 VU FL students provided feedback on lecturers over the course of a year.
+
+## Objective 3: Implemented
+
+VU FL students, lecturers, and seminar leaders are familiar with the feedback system.
+
+## ☑️ What has been implemented?
+
+- To identify the needs of Faculty of Law students regarding feedback, a six-person focus group was organized with contact persons from all years of study, and students’ opinions about the feedback provided by lecturers were collected.
+
+- Existing issues related to feedback were discussed with the Head of the Department of Public Law, Johan Baltrimas; the Head of the Department of Criminal Justice, Ilona Mihailovič; the Head of the Department of Private Law, Vida Petrylaitė; and the Chair of the Study Program Committee, Rimantas Simaitis.
+
+- A meeting was organized with the Vice-Dean for Studies, Vigita Vėbraitė, during which students’ feedback about lecturers, arguments expressed by department heads and the Study Program Committee chair, and VU SR TF’s plans to prepare a faculty-wide feedback procedure document were discussed.
+
+- A document regulating the feedback process was prepared, taking into account VU academic ethics and study regulations, Lithuanian legal acts, and best practices from other VU faculties and higher education institutions. The prepared document was presented to and approved by the Faculty Dean’s Office and the Study Program Committee.
+
+- Activities were implemented during the VU SR TF freshman camp to introduce the importance and relevance of feedback in the study process.
+
+- Information about feedback, its benefits, and its relevance to studies was shared on VU SR TF social media and internal communication channels. In addition, a year-round survey allowing students to provide feedback about lecturers was prepared and published.
+
+VU IIRPS ensures an effective exchange process for outgoing students through efficient communication, logistical and academic support, and strong international partnerships.
+
+## Objective 1: in progress
+
+VU IIRPS page has updated information about exchange opportunities.
+
+## Objective 2: in progress
+
+At least 50% students that went on exchange have used the mentorship network.
+
+## Objective 3: in progress
+
+A collaborative partnership with at least 15 international institutions is established.
+
+## ☑️ What has been implemented?
+
+- To improve the experience of outgoing exchange students, a meeting was organized with students who had previously participated in exchanges. During this meeting, it was identified that students lacked communication and assistance with filling out documents, clear information presentation, and practical advice.
+
+- The current information provided to students before departure for exchanges was reviewed. The analysis revealed inaccurate information and identified universities with which agreements had expired.
+
+- A mentor network was established in which students share their exchange experiences. The network currently consists of 13 students. Before launching the initiative, training sessions were organized by the International Student Affairs Coordinator of the VU SR Central Office together with the Institute administration.
+
+- During the organization of an exchange presentation event at the Institute, the newly established mentor program and its objectives were also presented. It is planned to continue this in the coming years.
+
+- Student representative bodies from six foreign universities in Germany, Poland, Switzerland, Austria, and Sweden were contacted. Individual discussions and three webinars were organized to better understand and inform students about the universities’ social and academic environments.
+
+At the Business School, Vilnius University, a two-way meeting model between student representatives and lecturers is being developed, during which study subjects are improved based on feedback collected throughout the semester.
+
+## Objective 1: not achieved
+
+A problem analysis document has been uploaded to the VU SR BS archive.
+
+## Objective 2: not achieved
+
+More than 30% of respondents participating in modules taught by lecturers providing constructive feedback state that the quality of feedback they received has improved.
+
+## Objective 3: not achieved
+
+A report summarizing the results of completed focus groups and surveys, constructive feedback provided by lecturers, and adopted changes has been published through at least one VU SR BS communication channel.
+
+## ☑️ What has been implemented?
+
+- To identify the scale and number of issues faced by BS students, focus groups were organized during which students presented challenges encountered throughout their studies.

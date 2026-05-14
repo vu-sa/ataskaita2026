@@ -1,5 +1,7 @@
 # Representation at Vilnius University
 
+## VU Council
+
 Student representatives – Klėja Merčaitytė, Justinas Kondratas.
 
 The VU Council is the University’s governing body, which oversees whether the University’s activities and management comply with the University’s mission, operational goals, objectives, and principles, as well as general academic interests and the requirements for transparency and accountability to the public as set forth in the Statute.
@@ -30,17 +32,17 @@ Student representatives joined the Senate’s working groups:
 
 New and updated study programs approved by the Senate:
 
-## Master’s degree program in “Lifestyle Medicine” (FM)
+- Master’s degree program in “Lifestyle Medicine” (FM)
 
-## Minor program in “Economics and Finance” (FEBA)
+- Minor program in “Economics and Finance” (FEBA)
 
-## Residency program in “Clinical Pharmacology” (FM)
+- Residency program in “Clinical Pharmacology” (FM)
 
-## Master’s degree program “Bioinformatics” (LSC and FMI)
+- Master’s degree program “Bioinformatics” (LSC and FMI)
 
-## Bachelor’s degree program “Multilingualism and Digital Technologies” (FMI and FPhil)
+- Bachelor’s degree program “Multilingualism and Digital Technologies” (FMI and FPhil)
 
-## Arqus joint Master’s degree program “Translation, Technologies, and AI” (FPhil)
+- Arqus joint Master’s degree program “Translation, Technologies, and AI” (FPhil)
 
 The most relevant issues discussed by the Senate for students:
 
@@ -52,11 +54,11 @@ In 2021 The VU SR Parliament approved the VU SR position on the prevention of ac
 
 According to Vilnius University regulations, research staff and lecturers who have reached the age of 65 must be approved by the VU Senate to continue their academic activities. This year, the Vilnius University Senate reviewed the procedure for concluding fixed-term employment contracts with lecturers and research (art) staff over the age of 65. At the initiative of VU SR student representatives, the procedure was amended to include the requirement to rely on surveys conducted in the VU information system; furthermore, it was established that student representatives from the VU SR would provide the students’ opinion on the lecturer, thereby further strengthening the students’ voice in the decision-making process regarding contract extensions.
 
-## Model of the research promotion fund's operations
+- Model of the research promotion fund's operations
 
 The Vilnius University research promotion fund is composed of state funds allocated to the University for research. The research promotion fund finances mobility activities for young researchers (e.g., trips to conferences), the publication of scientific works, the implementation of research ideas, and the costs of inviting guest lecturers. Not only researchers but also VU students are eligible for the latter two measures. During the reporting period, the issue of reorganizing the Research Promotion Fund was discussed. VU SR student representatives expressed a unanimous position that the fund’s purpose—to support young VU researchers—must remain unchanged, and that funding allocated for this purpose must not be reduced.
 
-## Vilnius University through the eyes of students
+- Vilnius University through the eyes of students
 
 As every year, the President of VU SR presented to the Senate how students view the University. During the presentation, the results of VU SR’s surveys on first-year student integration, as well as on study, work, and employment opportunities, were shared, and the growing integration of students was celebrated, the growing focus on mental health and the promotion of a culture of academic ethics, and the efforts to ensure greater flexibility in studies and the quality of this process. Priorities for the VU Senate’s activities, as voiced by students:
 
@@ -72,7 +74,7 @@ As every year, the President of VU SR presented to the Senate how students view 
 
 - Pay even greater attention to fostering diversity and ensuring equal opportunities.
 
-## Presentation on doctoral studies at Vilnius University
+- Presentation on doctoral studies at Vilnius University
 
 At a Senate meeting, the head of the Doctoral and Postdoctoral Studies Office presented an overview of the state of doctoral studies at Vilnius University based on surveys of doctoral students and other data. Following the presentation, student representatives asked questions regarding the office’s responsibilities in improving the quality of doctoral studies, integration, and finances (primarily concerning the use of funds from the doctoral studies fund).
 
@@ -82,17 +84,17 @@ The Senate’s strategic session examined proposed changes to the certification 
 
 ## VU Rectorate
 
-## Student Representative – Klėja Merčaitytė
+Student Representative – Klėja Merčaitytė
 
 The Rectorate is a collegial body that advises the Rector of VU, deliberates on the most important issues facing the university, and provides feedback and comments from the perspective of the university’s constituent units. The Rectorate consists of the VU Rector, Vice-Rector, Pro-Rectors, Chancellor, heads of core units, the President of VU SR, and other members appointed by the Rector.
 
 During the reporting period, 14 meetings were held, during which the following were discussed: the draft model regulations for VU’s core academic units, possible changes to the procedures for awarding bonuses to the University’s academic and non-academic staff, the update of the procedure for allocating VU budget appropriations for research to units, qualification criteria for organizing competitions for positions and certification of VU faculty and research (art) staff, and doctoral program questions. This year, VU Rectorate meetings devoted significant attention to measures related to VU’s strategic directions, the development of monitoring indicators, and the formation of the strategic fund.
 
-The President of VU Rparticipated in discussions at the Rectorate regarding issues of concern to students and shared news from VU SR.
+The President of VU SR participated in discussions at the Rectorate regarding issues of concern to students and shared news from VU SR.
 
 ## Meetings of the Vice-Deans for Academic Affairs
 
-## Student Representative – Povilas Virbašius
+Student Representative – Povilas Virbašius
 
 During the reporting period, eight meetings of the Vice-Deans for Academic Affairs were held. The meetings were organized both remotely and in person at various VU units. During these meetings, current issues related to the organization of the study process, study quality, student mobility, study regulation, strategic planning, and the student experience were discussed.
 
@@ -100,7 +102,7 @@ Issues of relevance to students:
 
 - funding plans for sending students abroad;
 
-- a map of the accessibility of Vilnius University services, prepared by VU SA, was presented;
+- a map of the accessibility of Vilnius University services, prepared by VU SR, was presented;
 
 - the Vilnius University strategy currently under development was discussed, particularly the goals and measures of the strategy’s academic section;
 
@@ -142,41 +144,41 @@ This year, VU CAU held over 450 study program committee meetings and over 140 CA
 
 <table class="report-table">
   <tr><td>VU CAU</td><td>Council meeting count</td><td>Most important questions discussed</td></tr>
-  <tr><td>Faculty of Chemistry and Geosciences</td><td>11</td><td>Appointment of the new dean; <br>Approval of the revised SPC compositions; <br>Approval of teaching materials; <br>Approval of the lists of research projects to be carried out in 2026.</td></tr>
+  <tr><td>Faculty of Chemistry and Geosciences</td><td>11</td><td>Appointment of the new dean;<br>Approval of the revised SPC compositions;<br>Approval of teaching materials;<br>Approval of the lists of research projects to be carried out in 2026.</td></tr>
   <tr><td>Faculty of Economics and Business Administration</td><td>20</td><td>Approval of the Faculty’s action plan and strategic objectives;<br>Decisions regarding the development, modification, and improvement of study programs;<br>Approval of the composition of study program committees;<br>Consideration of tuition fees and admission issues;<br>Approval of the Faculty’s internal documents and reports.</td></tr>
   <tr><td>Faculty of Physics</td><td>6</td><td>Revision of the Regulations of the Faculty of Physics;<br>Election of a new Chair of the Faculty of Physics Council.</td></tr>
-  <tr><td>Faculty of Philology</td><td>12</td><td>Discussion and approval of the Council’s work plan for the fall semester of the 2025–2026 academic year; <br>Review and approval of concepts and descriptions for new study programs; <br>Establishment of a new specialization within a study program; <br>Admissions results;<br>Updating of guidelines for the preparation of methodological written assignments; <br>Election of a new Council Chair; <br>Reports of the study program committees for the 2024–2025 academic year; <br>Review and approval of the Faculty’s annual (2026) plan; <br>Review of doctoral programs; <br>Approval of the composition of the working group tasked with preparing the Faculty of Philology’s 2026–2030 activity plan;<br>Presentation and approval of the Faculty of Philology’s 2026–2027 infrastructure renewal plan.</td></tr>
-  <tr><td>Faculty of Philosophy</td><td>4</td><td>Presentation of the concept for the bachelor’s degree program “Language and Gender Studies,” to be offered in collaboration with the Faculty of Philology; <br>Awarding of pedagogical titles (student representatives spoke out against this for the first time); <br>Updating of the Faculty Regulations; <br>Renewal and approval of study program committees; <br>Implementation of incentive procedures in 2025.</td></tr>
-  <tr><td>Life Sciences Center</td><td>6</td><td>The renewal of the membership of the Study Program Committees, the Dispute Resolution Commission, and the Academic Ethics Commission was approved;<br>Student concerns were presented;<br>A survey for students regarding the difficulties they face was created and published, and the results were presented at the Council meeting; <br>Approved the LSC activity report and budget estimates.</td></tr>
-  <tr><td>Faculty of History</td><td>8</td><td>Approval of 2 new individual courses and 3 new Erasmus courses;<br>It was decided to establish two separate History SPC (History BA and History MA) instead of one;<br>The schedule for the presentation and defense of final bachelor’s and master’s theses at the Faculty of History was approved; <br>It was decided that when organizing the evaluation of faculty members over the age of 65, five-year feedback surveys would be used as a basis, and new surveys would be organized as needed.</td></tr>
-  <tr><td>Faculty of Communication</td><td>11</td><td>A new Vice Dean for Academic Affairs has been elected;<br>The new composition of the Dispute Resolution Commission has been approved;<br>The study program frameworks have been updated; <br>The new chair of the Doctoral Committee was approved; <br>The Vice Dean for Projects and Partnerships was elected; <br>A decision was made to suspend admissions to the Information Systems Management study program; <br>The Faculty of Communication’s annual report was approved; <br>In light of the amendments proposed by the VU SR FC regarding the update of methodological guidelines for written assignments, a Council working group was formed, which includes student representatives.</td></tr>
-  <tr><td>Kaunas Faculty</td><td>9</td><td>Discussion on standard teaching load unit standards for posts;<br>2025 Activity Report of the Kaunas Faculty;<br>Proposals from the Kaunas Faculty for the Vilnius University Rector’s Award for Significant Academic Achievements in 2025; <br>Allocation of funds in the Kaunas Faculty budget for student delegations to academic events; <br>Report on the implementation of the 2025 revenue and expenditure estimates of the Vilnius University Students' Representation at the Kaunas Faculty.</td></tr>
-  <tr><td>Faculty of Mathematics and Informatics</td><td>11</td><td>The members of the Academic Ethics and Dispute Resolution Committees of VU FMI for the new term have been approved;<br>The Chair of the Faculty Council has been elected, and the new composition of the Council’s committees has been established; <br>New directors of the Institutes of Applied Mathematics and Informatics were approved;<br>The change in the language of instruction for the first-cycle study program “Business Data Analytics” to English starting from the 2026–2027 academic year was approved; <br>Draft descriptions of new interdisciplinary study programs were approved (the first-cycle program “Multilingualism and Digital Technologies” and the second-cycle program “Bioinformatics”).</td></tr>
+  <tr><td>Faculty of Philology</td><td>12</td><td>Discussion and approval of the Council’s work plan for the fall semester of the 2025–2026 academic year;<br>Review and approval of concepts and descriptions for new study programs;<br>Establishment of a new specialization within a study program;<br>Admissions results;<br>Updating of guidelines for the preparation of methodological written assignments;<br>Election of a new Council Chair;<br>Reports of the study program committees for the 2024–2025 academic year;<br>Review and approval of the Faculty’s annual (2026) plan;<br>Review of doctoral programs;<br>Approval of the composition of the working group tasked with preparing the Faculty of Philology’s 2026–2030 activity plan;<br>Presentation and approval of the Faculty of Philology’s 2026–2027 infrastructure renewal plan.</td></tr>
+  <tr><td>Faculty of Philosophy</td><td>4</td><td>Presentation of the concept for the bachelor’s degree program “Language and Gender Studies,” to be offered in collaboration with the Faculty of Philology;<br>Awarding of pedagogical titles (student representatives spoke out against this for the first time);<br>Updating of the Faculty Regulations;<br>Renewal and approval of study program committees;<br>Implementation of incentive procedures in 2025.</td></tr>
+  <tr><td>Life Sciences Center</td><td>6</td><td>The renewal of the membership of the Study Program Committees, the Dispute Resolution Commission, and the Academic Ethics Commission was approved;<br>Student concerns were presented;<br>A survey for students regarding the difficulties they face was created and published, and the results were presented at the Council meeting;<br>Approved the LSC activity report and budget estimates.</td></tr>
+  <tr><td>Faculty of History</td><td>8</td><td>Approval of 2 new individual courses and 3 new Erasmus courses;<br>It was decided to establish two separate History SPC (History BA and History MA) instead of one;<br>The schedule for the presentation and defense of final bachelor’s and master’s theses at the Faculty of History was approved;<br>It was decided that when organizing the evaluation of faculty members over the age of 65, five-year feedback surveys would be used as a basis, and new surveys would be organized as needed.</td></tr>
+  <tr><td>Faculty of Communication</td><td>11</td><td>A new Vice Dean for Academic Affairs has been elected;<br>The new composition of the Dispute Resolution Commission has been approved;<br>The study program frameworks have been updated;<br>The new chair of the Doctoral Committee was approved;<br>The Vice Dean for Projects and Partnerships was elected;<br>A decision was made to suspend admissions to the Information Systems Management study program;<br>The Faculty of Communication’s annual report was approved;<br>In light of the amendments proposed by the VU SR FC regarding the update of methodological guidelines for written assignments, a Council working group was formed, which includes student representatives.</td></tr>
+  <tr><td>Kaunas Faculty</td><td>9</td><td>Discussion on standard teaching load unit standards for posts;<br>2025 Activity Report of the Kaunas Faculty;<br>Proposals from the Kaunas Faculty for the Vilnius University Rector’s Award for Significant Academic Achievements in 2025;<br>Allocation of funds in the Kaunas Faculty budget for student delegations to academic events;<br>Report on the implementation of the 2025 revenue and expenditure estimates of the Vilnius University Students&#x27; Representation at the Kaunas Faculty.</td></tr>
+  <tr><td>Faculty of Mathematics and Informatics</td><td>11</td><td>The members of the Academic Ethics and Dispute Resolution Committees of VU FMI for the new term have been approved;<br>The Chair of the Faculty Council has been elected, and the new composition of the Council’s committees has been established;<br>New directors of the Institutes of Applied Mathematics and Informatics were approved;<br>The change in the language of instruction for the first-cycle study program “Business Data Analytics” to English starting from the 2026–2027 academic year was approved;<br>Draft descriptions of new interdisciplinary study programs were approved (the first-cycle program “Multilingualism and Digital Technologies” and the second-cycle program “Bioinformatics”).</td></tr>
   <tr><td>Faculty of Medicine</td><td>9</td><td>Two new internal academic units were established;<br>The establishment of a specialized academic unit within the Faculty of Medicine—the Vilnius–Utrecht Center for Advanced Disease Modeling—was approved;<br>A new master’s degree program in “Lifestyle Medicine” was established.</td></tr>
-  <tr><td>Šiauliai Academy</td><td>5</td><td>An amendment to the procedure for the preparation and defense of written works was approved, adding a declaration regarding the use of artificial intelligence tools;<br>The 2026–2030 Strategic Action Plan of the Šiauliai Academy of Vilnius University was approved; <br>Approval of the 2025 Activity Report of Šiauliai Academy and its submission to the Rector.</td></tr>
+  <tr><td>Šiauliai Academy</td><td>5</td><td>An amendment to the procedure for the preparation and defense of written works was approved, adding a declaration regarding the use of artificial intelligence tools;<br>The 2026–2030 Strategic Action Plan of the Šiauliai Academy of Vilnius University was approved;<br>Approval of the 2025 Activity Report of Šiauliai Academy and its submission to the Rector.</td></tr>
   <tr><td>Institute of International Relations and Political Science</td><td>3</td><td>Current affairs.</td></tr>
-  <tr><td>Faculty of Law</td><td>16</td><td>Amendment to the regulations on academic internships at VU FL; <br>Amendment to the procedures for repeating courses at VU FL;<br>Amendment to the description of the procedures for taking exams (tests) for courses at VU FL as an external student; <br>Amendment to the methodological guidelines for the preparation of course papers and master’s theses at VU FL; <br>Procedure for the assessment of study results at VU FL;<br>Election of the Dean of VU FL;<br>Liquidation of the Science Center “Specialized Area of Criminal Law.”</td></tr>
-  <tr><td>Business School</td><td>4</td><td>An increased number of scholarships for Business School students for academic excellence has been approved; <br>A new course has been approved; <br>A partial exchange scholarship for the Business School has been established; <br>Guidelines for the use of artificial intelligence have been approved.</td></tr>
+  <tr><td>Faculty of Law</td><td>16</td><td>Amendment to the regulations on academic internships at VU FL;<br>Amendment to the procedures for repeating courses at VU FL;<br>Amendment to the description of the procedures for taking exams (tests) for courses at VU FL as an external student;<br>Amendment to the methodological guidelines for the preparation of course papers and master’s theses at VU FL;<br>Procedure for the assessment of study results at VU FL;<br>Election of the Dean of VU FL;<br>Liquidation of the Science Center “Specialized Area of Criminal Law.”</td></tr>
+  <tr><td>Business School</td><td>4</td><td>An increased number of scholarships for Business School students for academic excellence has been approved;<br>A new course has been approved;<br>A partial exchange scholarship for the Business School has been established;<br>Guidelines for the use of artificial intelligence have been approved.</td></tr>
 </table>
 
 ## Study program committee meetings
 
 <table class="report-table">
   <tr><td>VU CAU</td><td>SPC meeting count</td><td>Most important questions</td></tr>
-  <tr><td>Faculty of Chemistry and Geosciences</td><td>37</td><td>Changes to the curriculum frameworks; <br>Approval of course descriptions; <br>Compilation and approval of the list of courses that cannot be taken as an external student.</td></tr>
-  <tr><td>Faculty of Economics and Business Administration</td><td>25</td><td>Reviewing student admission issues and initiating decisions; <br>Discussions on improving the content and structure of study programs; <br>Approving and updating course descriptions; <br>Preparing progress reports and improvement plans for study programs; <br>Approving topics for bachelor’s and master’s theses; <br>Issues related to the organization and evaluation of internships; <br>Discussing student feedback; <br>Approving the composition and responsibilities of the SPC.</td></tr>
-  <tr><td>Faculty of Physics</td><td>15</td><td>Presentation and discussion of student feedback on study programs; <br>Approval of thesis topics; <br>Decisions regarding changes to study program curricula; <br>Approval of new individual study courses.</td></tr>
-  <tr><td>Faculty of Philology</td><td>107</td><td>Updating and approving course descriptions; <br>Introducing new courses; <br>Approving thesis topics; <br>Revising the guidelines for the defense and evaluation of bachelor’s theses; <br>Approving lists of courses not available for external students; <br>Updates to study program outlines; <br>Announcements regarding international admissions for certain programs; <br>Additional methods for advertising and promoting study programs; <br>Discussion of changes to BA professional internships (updated and revised descriptions).</td></tr>
-  <tr><td>Faculty of Philosophy</td><td>42</td><td>Partial restructuring of first-year courses. (Asian Studies (BA)); <br>Inclusion of the course “Psychopathology of Early Relationships: Intervention Models and Corrective Methods” in the curriculum. (Educational and Child Psychology (MA)); <br>Issues regarding new programs. (Sustainability and Future Society (BA)); <br>Proposed new elective course “Artificial Intelligence Literacy” (Childhood Education (BA)); <br>Approval, updates, and changes to new course descriptions; <br>Changes to the study plan (curriculum) of the dual degree program starting in the 2026/2027 academic year (Committee for Pedagogical Study Programs (Joint Committee of GS and PPS)).</td></tr>
-  <tr><td>Life Sciences Center</td><td>27</td><td>The quality of the study programs and students' opinions about them are discussed.</td></tr>
-  <tr><td>Faculty of History</td><td>12</td><td>Approval of students’ individual study plans, requests for adjustments to the number of credits, and students’ requests to have additional practical skills in archaeological fieldwork recognized; <br>Discussed changes to the structure of modules, the consistency and coherence of the programs, changes to written assignments, changes to the format of lectures, and the promotion of diversity in the Bachelor’s program in History; <br>Updating the Master’s program in Archaeology by adding new courses;<br>Discussing updates to the methodological requirements for written assignments at the VU FH, regarding artificial intelligence.</td></tr>
-  <tr><td>Faculty of Communication</td><td>42</td><td>Present student feedback on study programs and submit proposals for program improvements; <br>Approve course descriptions; <br>Update study program curricula; <br>A decision was made to temporarily suspend admissions to the “Information Systems Management” program.</td></tr>
-  <tr><td>Kaunas Faculty</td><td>29</td><td>Dates for the defense of final theses and approval of the examination committee;<br>Discussion of the results of the student survey regarding studies in the fall semester of the 2025–2026 academic year; <br>Program changes for the 2026 admissions cycle; <br>New version of the methodological guidelines; <br>Refinement, organization, and improvement of the new study program (Language and Artificial Intelligence Management); <br>Updated course descriptions for the fall semester.</td></tr>
-  <tr><td>Faculty of Mathematics and Informatics</td><td>21</td><td>Updating and approving course descriptions; <br>Replacing lecturers; <br>Reviewing feedback surveys, analyzing problems, and initiating solutions; <br>Developing new courses.</td></tr>
-  <tr><td>Faculty of Medicine</td><td>41</td><td>Student feedback was presented, and specific measures to improve the quality of studies were agreed upon;<br>Updating of study program frameworks;<br>Updating and approval of course descriptions; <br>Development of the new master’s study program “Lifestyle Medicine” and preparation for its implementation.</td></tr>
+  <tr><td>Faculty of Chemistry and Geosciences</td><td>37</td><td>Changes to the curriculum frameworks;<br>Approval of course descriptions;<br>Compilation and approval of the list of courses that cannot be taken as an external student.</td></tr>
+  <tr><td>Faculty of Economics and Business Administration</td><td>25</td><td>Reviewing student admission issues and initiating decisions;<br>Discussions on improving the content and structure of study programs;<br>Approving and updating course descriptions;<br>Preparing progress reports and improvement plans for study programs;<br>Approving topics for bachelor’s and master’s theses;<br>Issues related to the organization and evaluation of internships;<br>Discussing student feedback;<br>Approving the composition and responsibilities of the SPC.</td></tr>
+  <tr><td>Faculty of Physics</td><td>15</td><td>Presentation and discussion of student feedback on study programs;<br>Approval of thesis topics;<br>Decisions regarding changes to study program curricula;<br>Approval of new individual study courses.</td></tr>
+  <tr><td>Faculty of Philology</td><td>107</td><td>Updating and approving course descriptions;<br>Introducing new courses;<br>Approving thesis topics;<br>Revising the guidelines for the defense and evaluation of bachelor’s theses;<br>Approving lists of courses not available for external students;<br>Updates to study program outlines;<br>Announcements regarding international admissions for certain programs;<br>Additional methods for advertising and promoting study programs;<br>Discussion of changes to BA professional internships (updated and revised descriptions).</td></tr>
+  <tr><td>Faculty of Philosophy</td><td>42</td><td>Partial restructuring of first-year courses. (Asian Studies (BA));<br>Inclusion of the course “Psychopathology of Early Relationships: Intervention Models and Corrective Methods” in the curriculum. (Educational and Child Psychology (MA));<br>Issues regarding new programs. (Sustainability and Future Society (BA));<br>Proposed new elective course “Artificial Intelligence Literacy” (Childhood Education (BA));<br>Approval, updates, and changes to new course descriptions;<br>Changes to the study plan (curriculum) of the dual degree program starting in the 2026/2027 academic year (Committee for Pedagogical Study Programs (Joint Committee of GS and PPS)).</td></tr>
+  <tr><td>Life Sciences Center</td><td>27</td><td>The quality of the study programs and students&#x27; opinions about them are discussed.</td></tr>
+  <tr><td>Faculty of History</td><td>12</td><td>Approval of students’ individual study plans, requests for adjustments to the number of credits, and students’ requests to have additional practical skills in archaeological fieldwork recognized;<br>Discussed changes to the structure of modules, the consistency and coherence of the programs, changes to written assignments, changes to the format of lectures, and the promotion of diversity in the Bachelor’s program in History;<br>Updating the Master’s program in Archaeology by adding new courses;<br>Discussing updates to the methodological requirements for written assignments at the VU FH, regarding artificial intelligence.</td></tr>
+  <tr><td>Faculty of Communication</td><td>42</td><td>Present student feedback on study programs and submit proposals for program improvements;<br>Approve course descriptions;<br>Update study program curricula;<br>A decision was made to temporarily suspend admissions to the “Information Systems Management” program.</td></tr>
+  <tr><td>Kaunas Faculty</td><td>29</td><td>Dates for the defense of final theses and approval of the examination committee;<br>Discussion of the results of the student survey regarding studies in the fall semester of the 2025–2026 academic year;<br>Program changes for the 2026 admissions cycle;<br>New version of the methodological guidelines;<br>Refinement, organization, and improvement of the new study program (Language and Artificial Intelligence Management);<br>Updated course descriptions for the fall semester.</td></tr>
+  <tr><td>Faculty of Mathematics and Informatics</td><td>21</td><td>Updating and approving course descriptions;<br>Replacing lecturers;<br>Reviewing feedback surveys, analyzing problems, and initiating solutions;<br>Developing new courses.</td></tr>
+  <tr><td>Faculty of Medicine</td><td>41</td><td>Student feedback was presented, and specific measures to improve the quality of studies were agreed upon;<br>Updating of study program frameworks;<br>Updating and approval of course descriptions;<br>Development of the new master’s study program “Lifestyle Medicine” and preparation for its implementation.</td></tr>
   <tr><td>Šiauliai Academy</td><td>46</td><td>Current affairs.</td></tr>
-  <tr><td>Institute of International Relations and Political Science</td><td>8</td><td>Updating the study program plan; <br>Approval of course descriptions; <br>Approval of the nomination for the position of associate professor; <br>Approval of thesis topics.</td></tr>
-  <tr><td>Faculty of Law</td><td>14</td><td>The new Procedure for the assessment of study results were approved and submitted to the Faculty Council for a vote; <br>Feedback provided by faculty members at VU FL to students was analyzed; <br>New course descriptions were approved.</td></tr>
+  <tr><td>Institute of International Relations and Political Science</td><td>8</td><td>Updating the study program plan;<br>Approval of course descriptions;<br>Approval of the nomination for the position of associate professor;<br>Approval of thesis topics.</td></tr>
+  <tr><td>Faculty of Law</td><td>14</td><td>The new Procedure for the assessment of study results were approved and submitted to the Faculty Council for a vote;<br>Feedback provided by faculty members at VU FL to students was analyzed;<br>New course descriptions were approved.</td></tr>
   <tr><td>Business School</td><td>Information not recieved</td><td>Current affairs.</td></tr>
 </table>
 
@@ -184,7 +186,7 @@ This year, VU CAU held over 450 study program committee meetings and over 140 CA
 
 ## VU Central Academic Ethics Commission
 
-## Student Representatives – Austėja Bendikaitė, Agata Bruzgul, Andrius Viljamas Gontier
+Student Representatives – Austėja Bendikaitė, Agata Bruzgul, Andrius Viljamas Gontier
 
 The Commission examines complaints regarding actions by members of the academic community (faculty, students, or other university staff) that violate academic ethics.
 
@@ -192,13 +194,13 @@ During the reporting period, 14 Commission meetings were held, during which 24 c
 
 ## VU Central Dispute Resolution Commission
 
-## Student Representatives – Vismantas Daujotas, Samanta Valiušaitytė, Eglė Lukauskaitė
+Student Representatives – Vismantas Daujotas, Samanta Valiušaitytė, Eglė Lukauskaitė
 
 The Commission reviews complaints regarding the legality and validity of decisions made by departmental dispute resolution commissions, as well as instances of inaction or failure to implement decisions. This provision does not apply to appeals regarding the final assessment of academic achievements. It also examines statements regarding disputes arising between students and Central Administration staff, provided such disputes relate to academic or study activities. Neither academic ethics nor work relations disputes fall under this category. In addition, the Commission examines other complaints related to academic and study activities that are not within the jurisdiction of departmental dispute resolution commissions or other University bodies. During the reporting period, three meetings were held, during which four complaints were examined.
 
 ## VU Central Electoral Commission
 
-## Student Representatives – Akvilė Banytė, Vismantas Daujotas
+Student Representatives – Akvilė Banytė, Vismantas Daujotas
 
 The Central Electoral Commission of Vilnius University ensures a transparent and properly organized election process for the University’s governing bodies. The Commission organizes and conducts elections for members of the Senate (excluding student representatives) and the Council, as well as a public competition for the position of Rector. It registers all elected or appointed members of the Senate and the Council, determines the results of the Rector’s election, and approves the forms of election documents. The Commission’s functions also include assessing the eligibility of candidates, compiling lists of employees eligible to vote, approving election commissions of the core academic units, announcing election dates and procedures, and overseeing their organization. The Commission has the right to request additional information and documents from candidates or University units as needed for decision-making. When necessary, it submits proposals to the Senate regarding the improvement of documents regulating election procedures and ensures the quality of election organization.
 
@@ -216,7 +218,7 @@ The issue of depositing the portrait of St. Ivo was also discussed via electroni
 
 ## VU Commission on Emeritus, Affiliation, and Honours
 
-## Student Representative – Povilas Virbašius
+Student Representative – Povilas Virbašius
 
 The Commission reviews and submits to the Senate of Vilnius University for approval nominations for the titles of VU Professor Emeritus, Affiliated Professor, Affiliated Researcher, and Honorary Doctor, as well as makes proposals regarding the conferral of other honorary titles.
 
@@ -228,19 +230,19 @@ The Commission’s activities focused on evaluating candidates, ensuring their c
 
 ## Study Quality Commission
 
-## Student Representative – Emilis Mikulskis
+Student Representative – Emilis Mikulskis
 
-During the reporting period, two meetings were held to review and approve seven study programs: improvement plans for the following fields of study: Software Engineering (FMI), Political Science (IIRPS), Information Services (FK), Electronic Engineering (FPh), Ecology (ŠA), Computer Science (FMI), and Marketing (FEBA) (24 study programs). During the meetings, commission members provided recommendations and comments to the program improvement plans and their authors on how the plans or the fields of study could be improved. The student representative was responsible for reviewing the plans for three fields of study: Software Engineering (MIF), Computer Science (MIF), and Information Services (KF) (12 study programs). The Study Quality Commission approved all 7 field improvement plans with the proposed improvements.
+During the reporting period, two meetings were held to review and approve seven study programs: improvement plans for the following fields of study: Software Engineering (FMI), Political Science (IIRPS), Information Services (FC), Electronic Engineering (FPh), Ecology (ŠA), Computer Science (FMI), and Marketing (FEBA) (24 study programs). During the meetings, commission members provided recommendations and comments to the program improvement plans and their authors on how the plans or the fields of study could be improved. The student representative was responsible for reviewing the plans for three fields of study: Software Engineering (FMI), Computer Science (FMI), and Information Services (FC) (12 study programs). The Study Quality Commission approved all 7 field improvement plans with the proposed improvements.
 
 ## Interdisciplinary Study Experts’ Commission
 
-## Student Representative – Austėja Bendikaitė
+Student Representative – Austėja Bendikaitė
 
-During the reporting period, the commission held 10 meetings, during which it reviewed and approved more than 60 applications for interdisciplinary courses and/or course descriptions. During one of the committee meetings, statistics on approved interdisciplinary courses were also presented, and discussions were held regarding improvements to the conditions for submitting applications and the promotion of these courses to students. In addition, during the reporting period, the committee met with VU Vice Rector Assoc. Prof. Dr. Valdas Jaskūnas to discuss the committee’s activities, the success of approved and ongoing interdisciplinary courses, and potential changes aimed at streamlining the committee’s operations.
+During the reporting period, the commission held 10 meetings, during which it reviewed and approved more than 60 applications for interdisciplinary courses and/or course descriptions. During one of the commission meetings, statistics on approved interdisciplinary courses were also presented, and discussions were held regarding improvements to the conditions for submitting applications and the promotion of these courses to students. In addition, during the reporting period, the committee met with VU Pro-Rector Doc. Dr. Valdas Jaskūnas to discuss the committee’s activities, the success of approved and ongoing interdisciplinary courses, and potential changes aimed at streamlining the committee’s operations.
 
 ## VU Study Internationalization Initiatives Commission
 
-## Student Representative – Uršulė Barkauskaitė
+Student Representative – Uršulė Barkauskaitė
 
 The Commission evaluates the alignment of submitted applications for international initiatives with the objectives of the internationalization fund and considers the allocation of funds for the implementation of those initiatives.
 
@@ -248,7 +250,7 @@ During the reporting period this year, 5 remote meetings were held: 8 applicatio
 
 ## VU Educational Initiatives Commission
 
-## Student Representative – Klėja Merčaitytė
+Student Representative – Klėja Merčaitytė
 
 The Educational Initiatives Commission reviews, approves, and allocates funds for faculty initiatives aimed at improving the study process, courses, and their delivery; increasing student engagement; and implementing innovative educational ideas for which standard resources are not always sufficient.
 
@@ -256,7 +258,7 @@ This year, the commission approved 8 new applications for educational initiative
 
 ## VU Central Admissions Commission
 
-## Student Representative – Klėja Merčaitytė
+Student Representative – Klėja Merčaitytė
 
 The Commission reviews and submits the nominations of senior staff—professors and senior researchers—for academic positions to the University Rector for approval.
 
@@ -266,7 +268,7 @@ The Central Admissions Commission reviewed a total of 54 nominations. The number
 
 ## Appointment of Partnership Professors and Partnership Docents at VU Advisory Committee
 
-## Student Representative – Klėja Merčaitytė
+Student Representative – Klėja Merčaitytė
 
 The Committee provides its opinion to the Rector of Vilnius University regarding the appointment of Partnership Professors and Partnership Docents at the University. These positions allow prominent representatives of Lithuanian business, diplomats, and other specialists in their fields who hold leadership positions or have extensive practical work experience to teach at Vilnius University.
 
@@ -274,7 +276,7 @@ During the reporting period, 22 candidates were considered. The candidates were 
 
 ## VU Discrimination, Harassment, Sexual Harassment, Violence, and Stalking Cases Investigation Commission
 
-## Student Representative – Klėja Merčaitytė
+Student Representative – Klėja Merčaitytė
 
 The Commission reviews received reports in accordance with the VU Procedure for Investigating Cases of Discrimination, Harassment, Sexual Harassment, Violence, and Stalking.
 
@@ -336,7 +338,7 @@ Dr. Mangirdas Morkūnas, Professor at Business School.
 
 The commission’s activities focus on evaluating student feedback and pedagogical competence to ensure high-quality education and promote academic and didactic leadership among faculty members at the University.
 
-## STIPENDIJŲ KOMISIJOS
+## Scholarship Commissions
 
 ## VU Scholarship for Social Activities Distribution Commission
 
@@ -350,11 +352,11 @@ Student Representatives: Liepa Burneikaitė, Domantas Klumbys (until February 20
 
 Scholarships for scientific achievements are awarded to first and second-cycle, integrated, professional pedagogy, and residency students who have demonstrated mature scientific activity for their participation in conferences, research, and other scientific activities.
 
-The scholarship distribution committee held two remote meetings during the reporting period. In the spring semester of 2024/2025, scholarships totaling 34,860 (498 BSB) were awarded. In the field of exact sciences, 470 BSB were distributed, and in the field of social sciences and humanities—28 BSI. In total, scholarships were awarded to 80 students. In the fall semester of 2025/2026, scholarships worth 21,630 euros (309 BSB) were awarded. 270 BSB were awarded in the field of exact sciences, and 39 BSI in the field of social sciences and humanities. In total, scholarships were awarded to 53 students.
+The scholarship distribution committee held two remote meetings during the reporting period. In the spring semester of 2024/2025, scholarships totaling 34,860 (498 BSB) were awarded. In the field of exact sciences, 470 BSB were distributed, and in the field of social sciences and humanities—28 BSB. In total, scholarships were awarded to 80 students. In the fall semester of 2025/2026, scholarships worth 21,630 euros (309 BSB) were awarded. 270 BSB were awarded in the field of exact sciences, and 39 BSI in the field of social sciences and humanities. In total, scholarships were awarded to 53 students.
 
 ## VU Community Support Scholarship Distribution Commission
 
-## Student Representatives: Roberta Kirkliauskaitė, Elzė Masiulytė, Urtė Akulavičiūtė
+Student Representatives: Roberta Kirkliauskaitė, Elzė Masiulytė, Urtė Akulavičiūtė
 
 Community Support Scholarships are awarded to students due to a sudden deterioration in their financial situation, the illness or death of a close relative, a natural disaster or other calamity, as well as in other exceptional cases that significantly affect the student’s financial situation. During the reporting period, the committee held four meetings.
 
@@ -370,13 +372,19 @@ During the 2025–2026 academic year, the community support scholarship commissi
 
 Total applicants: 62 students; scholarships awarded to 57 students. Total amount of scholarships awarded: 289 BSB. In most cases, scholarships were not awarded because insufficient supporting documents were submitted or because the application was resubmitted for the same purpose.
 
-## VU stipendijų už sportinius pasiekimus skirstymo komisija
+## VU Scholarship for Athletic Achievements Distribution Commission
 
-..
+Student Representatives – Aleksandra Vaskevičiūtė, Austėja Ižganaitė
+
+Scholarships are awarded not only to recognize achievements already attained, but also to encourage students to strive for higher results, based on the potential identified by coaches and the effort put into training.
+
+During the reporting period, scholarships were awarded twice: in May 2025, scholarships were awarded to 70 students for achievements in volleyball, track and field, soccer, powerlifting, table tennis, basketball, and orienteering; in December 2025, scholarships were awarded to 137 students for achievements in judo, sambo, fencing, soccer, rowing, track and field, basketball, volleyball, orienteering, swimming, table tennis, weightlifting, tennis, karate, and jiu-jitsu.
+
+Most of the students are members of the University and Lithuanian national teams, Lithuanian (student) champions, and have participated in European and World Student Games, the Lithuanian Student Basketball League, and other world-class championships.
 
 ## VU 450th Anniversary Scholarship
 
-## Student representatives – Eivinas Zableckas, Rūta Šakickaitė
+Student representatives – Eivinas Zableckas, Rūta Šakickaitė
 
 The Vilnius University 450th Anniversary Scholarship is a special scholarship established by Vilnius University for prospective undergraduate and integrated study program students from socially vulnerable families. In order to address the pressing issue of social exclusion in Lithuania and increase access to university education, a scholarship of 300 euros per month is awarded to financially disadvantaged students for their first year of study—from September through June.
 
@@ -384,7 +392,7 @@ During the reporting period, one meeting was held, during which two scholarships
 
 ## VU GDL Scholarship Distribution Commission
 
-## Student Representative – Vismantas Daujotas
+Student Representative – Vismantas Daujotas
 
 The Grand Duchy of Lithuania (GDL) scholarships are awarded to Ukrainian students enrolling at Vilnius University to help cover their living expenses during their first year of study.
 
@@ -392,13 +400,13 @@ Since July 1, 2025, two meetings of the central commission have been held, durin
 
 ## VU Social Scholarship Distribution Committee
 
-## Student Representatives – Uršulė Barkauskaitė, Viktorija Amankavičiūtė
+Student Representatives – Uršulė Barkauskaitė, Viktorija Amankavičiūtė
 
 Social scholarships are awarded to undergraduate and integrated program students who are not in their first year of study, as well as to second-cycle and professional pedagogy students who are not in their first semester of study and are facing social difficulties. During the reporting period, 118 scholarships were awarded to students.
 
 ## Romualdas Ozolas Scholarship Distribution Committee
 
-## Student Representatives – Livija Trakelytė, Eglė Žukaitė
+Student Representatives – Livija Trakelytė, Eglė Žukaitė
 
 For the second year in a row, Vilnius University is holding a competition for the Romualdas Ozolas Scholarship, established by the Šiauliai District Municipality. The scholarship is awarded to undergraduate and graduate students whose academic interests encompass the fundamental issues of culture, linguistics, history, philosophy, politics, or international relations raised by R. Ozolas, as well as the fields of the Lithuanian Reform Movement and the history of the restoration of independence.
 
@@ -410,10 +418,68 @@ At the time of this report’s preparation, the commission’s meetings had not 
 
 Student Representative – Povilas Virbašius.
 
-The European University Association (EUA) initiated thematic peer group on learning and teaching brings together representatives from selected universities each year to discuss practices in organizing learning and teaching at the institutional level and to identify examples of best practices. During the reporting period, Vilnius University participated in a thematic working group dedicated to examining the quality
-
-and impact of staff professional development in the field of teaching.
+The European University Association (EUA) initiated thematic peer group on learning and teaching brings together representatives from selected universities each year to discuss practices in organizing learning and teaching at the institutional level and to identify examples of best practices. During the reporting period, Vilnius University participated in a thematic working group dedicated to examining the quality and impact of staff professional development in the field of teaching.
 
 The working group analyzed how staff development contributes to the quality of studies and the strengthening of the teaching culture at institutions, with a particular focus on impact assessment. The study examined how institutions can effectively use various data sources – including institutional surveys, peer and student feedback – to assess the impact of staff development activities on learning outcomes and the study experience. The aim was also to identify key indicators for assessing the effectiveness of these activities and their contribution to the achievement of institutional teaching and learning goals.
 
 The working group’s outcome is a thematic report titled “Ensuring the quality and impact of staff development in teaching,” which offers insights into the links between staff development and the quality of education, identifies key challenges (e.g., the workload of lecturers, insufficient recognition of teaching activities, fragmented development initiatives), and provides recommendations for higher education institutions. These include integrating staff development activities into institutional strategies, systematically evaluating their impact, strengthening the recognition of teaching activities, and making data-driven decisions. Povilas Virbašius, as a student representative, participated in two working group meetings – in Portugal (at the University of Coimbra) and in Ireland (at the University of Limerick), and also contributed to integrating the student perspective into the working group’s discussions and final recommendations.
+
+## WG on the Master’s Degree Model
+
+Student Representative – Emilis Mikulskis
+
+The working group was formed to implement the measure “create a value-based master’s degree model” under the “Development of Postgraduate Studies” direction of the 2030 Strategic Action Plan and to update the University’s study regulations by including provisions that update the types of second-cycle study program structures (scientific, academic, applied), reflecting different graduate career trajectories. The working group held 5 meetings and prepared updates to the study regulations. Provisions were defined covering the different types of second-cycle study programs and the principles of their implementation, including study program objectives, teaching and learning methods, individualized teaching and learning, interdisciplinary and international aspects of studies. During the working group’s activities, the VU SR representative emphasized and presented proposals for a wider range of elective courses by adapting the individualized study model used in the first cycle, whereby elective courses could also be chosen from other departments at Vilnius University. In addition, the key principles for implementing all types of MA programs were highlighted: greater opportunities for individualizing studies and the number of elective courses.
+
+## Health and Sport Center
+
+VU SR participated in the 27th annual forum of the European Network of University Sports Centers, organized by the Health and Sport Center at Vilnius University, which took place November 11–14 in Vilnius. The event brought together an international audience of academic community members and sports and wellness specialists from various European universities to share best practices and strengthen cooperation in the area of student well-being.
+
+During the forum, VU SR presented a report in a panel discussion format, addressing the topics “Students in university: what they get and what they miss during their study years?” and “Burnout: a case study of Vilnius University, tools, and best practices.” The presentation discussed the challenges students face during their studies, identified gaps in the university environment, and presented burnout prevention measures and best practices based on the experience of Vilnius University.
+
+Participation in this international forum provided an opportunity not only to present the experiences of student representation at Vilnius University but also to gain new ideas related to strengthening students’ physical, emotional, and social well-being.
+
+## Community Well-Being Division
+
+During the reporting period, we held more than 8 meetings with staff members of the Community Well-Being Division to discuss various issues, including: ensuring equal opportunities, support and services for students with disabilities, providing psychological assistance, preventing violations of academic ethics, and more.
+
+We submitted proposals regarding the procedure for tailoring studies at Vilnius University to individual needs arising from disabilities, which is being updated at the initiative of VU SR; this procedure is expected to be adopted shortly following review by all interested parties. We initiated and, with the help of psychologists, implemented resilience training for students. We discussed the need to update VU’s infrastructure to ensure high-quality studies and an accessible environment for students with disabilities, and agreed on the need to create a systematic map of physical environment adaptations. We also expressed the need for education on interculturalism and the expansion of prayer/meditation rooms.
+
+We raised the issue of allowing students and staff to specify their preferred name and pronouns in the University’s internal information systems, and for faculty and administration to receive clear information on how to address individuals correctly. We were unable to implement this change at this time due to the development and integration of the new VU information system, so we expressed the need for this feature to be included in the new system.
+
+In the VU SR Parliament, we approved proposals to the University regarding the promotion of gender, equality, and diversity at the University. We proposed that the necessary measures be included in the University’s newly developed diversity and equal opportunity strategy and its implementation plan.
+
+## Student Affairs and Career Office
+
+The integration process coordinator worked closely with the Vilnius University integration coordinator and the Vilnius University Student Affairs and Career Office to improve the integration and academic experience of first-year students at the university. Additionally, the Reintegration Week initiative was organized for the first time, involving both student organizations and VU departments. VU SR units and initiatives organized general meetings and events, as well as informal meetings between mentors and first-year students, while the Counseling and Career Centre held an open house and a brainstorming session for first-year students.
+
+Together with the Student Affairs and Career Office (SACO), the concept of study groups was reviewed, and it was agreed that from now on, this activity will be organized directly by SACO in collaboration with the CAU study departments. VU SR will no longer directly organize this activity.
+
+We collaborate regularly with the academic project coordinator to support the “Ask a Student” initiative and help find student volunteers from various programs. Discussions are also underway regarding the promotion of mentoring and publicizing this opportunity to students, as well as involving doctoral students as mentors in the mentoring network.
+
+In collaboration with the Career Centre, a CV-writing workshop was held at the AD ASTRA festival for first-year students and other festival participants.
+
+We also agreed with the department to collaborate on publicizing the funding received by Vilnius University from the project implemented by the Education Exchanges Support Foundation, which is aimed at improving the integration of foreign students studying at Lithuanian higher education institution and Lithuanians living abroad into the labor market by 2026, by awarding scholarships to those undertaking internships.
+
+## Culture Center
+
+The Social Process Coordinator participated in a multi-day strategic session at the Culture Center, during which she shared student perspectives and proposals focused on students’ needs and greater student engagement in cultural activities.
+
+VU SR, together with the Culture Center, signed a cooperation agreement, submitting a project to the State Studies Foundation, regarding cooperation in implementing a potential project related to the development of intercultural competence: “Working Together: University Theater Pedagogy for Student Intercultural Integration.” We also held a meeting to discuss future cooperation between VU SR and the Culture Center and potential projects related to promoting student self-expression.
+
+## Vilnius University Library
+
+VU SR strengthened its cooperation with the Vilnius University Library to ensure that students’ needs are represented and that they are involved in decision-making processes. The Social Affairs Coordinator regularly attended monthly meetings with the library’s management and staff—a total of 7 meetings took place. During these meetings, students’ insights were presented, relevant issues were raised, and potential solutions were discussed. The issues discussed included the accessibility of library services, improving communication about events and services, and the quality of the study environment, and some of them were incorporated into the library’s future plans.
+
+In addition, VU SR representatives participated in a strategic library planning session, where they contributed to the development of a vision for the future. During the session, the importance of clearer and more active communication was emphasized, as were the possibilities for integrating artificial intelligence solutions and the need to strengthen both the physical and digital resources of the library. Representing the interests of students, VU SR representatives submitted proposals that were taken into account when drafting the library’s strategic plan. Participation in these processes contributed to a more open dialogue with the community and reinforced the importance of the student voice in strategic decision-making.
+
+## Representation of Third-Cycle (Doctoral) Students
+
+During the reporting period, several meetings were held with the Vice-Rector for Research and the Doctoral and Postdoctoral Studies Office. During the meetings, discussions focused on increasing funding for the doctoral program, the continuity of training for doctoral advisors, the situation of doctoral students studying under joint doctoral agreements with other academic institutions, and potential measures to strengthen the doctoral program within VU’s Strategic Plan.
+
+This year, the doctoral program received the most attention at the decision-making level: in the VU Senate, the VU Council, the VU Rectorate, and the VU Strategy Development Working Group, with the aim of resolving existing problems and implementing the necessary measures to strengthen the quality of doctoral studies.
+
+We also brought together senior doctoral students as mentors into a mentoring network for the first time; by sharing their experience, they can assist first-year doctoral students. We presented this initiative to first-year doctoral students at VU.
+
+## SCHOLARSHIP REGULATIONS
+
+VU SR has submitted proposals to improve the VU scholarship regulations, with the aim of increasing the transparency, clarity, and accessibility of the process for students. Among the proposals were establishing a clear appeals mechanism for scholarship award decisions, mandating that students be informed of the decision regardless of its outcome, increasing the number of student representatives on the Scholarship for Social Activities Committee, and indexing the income threshold for social scholarships by linking it to an official index. The administration agreed with some of the proposals and planned to include them in the updated scholarship regulations, while for others it presented alternative solutions or additional explanations regarding the lack of technical feasibility in implementing the proposals.

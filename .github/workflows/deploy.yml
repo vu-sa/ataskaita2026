@@ -62,11 +62,11 @@ jobs:
       - name: Build website and PDF
         run: |
           npm run deploy
-          touch ataskaita-2025/.vitepress/dist/.nojekyll
+          touch ataskaita-2026/.vitepress/dist/.nojekyll
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ataskaita-2025/.vitepress/dist
+          path: ataskaita-2026/.vitepress/dist
 
   # Deployment job
   deploy:

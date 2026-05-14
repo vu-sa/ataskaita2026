@@ -1,7 +1,3 @@
----
-title: "VU SA procesų atnaujinimas"
----
-
 # VU SA procesų atnaujinimas
 
 ## VU SA veiklą reglamentuojančių dokumentų atnaujinimas
@@ -14,7 +10,13 @@ Visų padalinių galutinės patvirtintos redakcijos bus svarstomos ir tvirtinamo
 
 ## VU SA strateginio plano rodikliai
 
-2025 m. gruodžio mėn. vykusiame VU SA Parlamento posėdyje buvo patvirtinti VU SA Strateginio plano 2025–2028 m. poveikio rodikliai, kurie leis sistemiškai vertinti strateginių krypčių įgyvendinimą. Strateginėje kryptyje „Kokybiškos studijos ir joms pritaikyta aplinka“ nustatyta, kad 2027 / 2028 m. m. kiekvienos I, II pakopos ir vientisųjų studijų programos studentų ir studenčių pasitenkinimas studijomis nėra mažesnis nei 2025 / 2026 m. m. ir vidutiniškai siekia bent 83 proc. Strateginėje kryptyje „Stipri Organizacija“ numatyta, kad 2027 / 2028 m. m. vidutinis VU SA narių įsitraukimas į organizacijos veiklas sieks ne mažiau nei 75 proc. Tuo tarpu strateginėje kryptyje „Darni universitetinė bendruomenė“ siekiama, kad I, II pakopų ir vientisųjų studijų pirmo kurso studentų ir studenčių, besitapatinančių su Vilniaus universitetu bei vertinančių jį kaip atvirą skirtingoms bendruomenės grupėms ir žalią, 2027 / 2028 m. m. vidurkis būtų ne mažesnis nei 65 proc. Šie rodikliai apibrėžia aiškius VU SA strateginių tikslų matavimo kriterijus ir sudaro pagrindą jų įgyvendinimo vertinimui.
+2025 m. gruodžio mėn. vykusiame VU SA Parlamento posėdyje buvo patvirtinti VU SA Strateginio plano 2025–2028 m. poveikio rodikliai, kurie leis sistemiškai vertinti strateginių krypčių įgyvendinimą. Šie rodikliai apibrėžia aiškius VU SA strateginių tikslų matavimo kriterijus ir sudaro pagrindą jų įgyvendinimo vertinimui.
+
+Strateginėje kryptyje „Kokybiškos studijos ir joms pritaikyta aplinka“ nustatyta, kad 2027 / 2028 m. m. kiekvienos I, II pakopos ir vientisųjų studijų programos studentų ir studenčių pasitenkinimas studijomis nėra mažesnis nei 2025 / 2026 m. m. ir vidutiniškai siekia bent 83 proc.
+
+Strateginėje kryptyje „Stipri Organizacija“ numatyta, kad 2027 / 2028 m. m. vidutinis VU SA narių įsitraukimas į organizacijos veiklas sieks ne mažiau nei 75 proc.
+
+Tuo tarpu strateginėje kryptyje „Darni universitetinė bendruomenė“ siekiama, kad I, II pakopų ir vientisųjų studijų pirmo kurso studentų ir studenčių, besitapatinančių su Vilniaus universitetu bei vertinančių jį kaip atvirą skirtingoms bendruomenės grupėms ir žalią, 2027 / 2028 m. m. vidurkis būtų ne mažesnis nei 65 proc.
 
 ## Marketingo strategija
 
@@ -44,13 +46,19 @@ Taip pat buvo pergalvotas pavasario mokymų konceptas ir jau įgyvendinti mokyma
 
 Parengtas mokymų tinklelis pristatytas VU SA Tarybai, akcentuojant jo struktūrą ir planuojamą įgyvendinimą 2026–2027 m. laikotarpiu.
 
-## Tarptautiškumo DG?
+## Tarptautiškumo darbo grupė
 
-Darbo grupėje buvo nagrinėjama tarpkultūriškumo tematika keliais pjūviais - renginių, mokymų, posėdžių veiklos pritaikymas tarptautiniams studentams (-ėms); vidinė bei išorinė komunikacija, kuri būtų įtrauki ir atliepianti skirtingų studentų (-čių) poreikius; tarptautinių studentų (-čių) integracija į organizacijos veiklas, specifinį dėmesį teikiant atstovavimo kompetencijų kėlimui ir įtraukimui į skirtingų atstovavimo lygmenų veiklą. Darbo grupės veiklos metu buvo pastebėti neatitikimai dvikalbystės gairėse, kurios buvo atnaujintos ir išverstos darbo grupės iniciatyva. Buvo diskutuota apie vertimo galimybių plėtrą bei prienamumą.
+Darbo grupėje buvo nagrinėjama tarpkultūriškumo tematika keliais pjūviais - renginių, mokymų, posėdžių veiklos pritaikymas tarptautiniams studentams (-ėms); vidinė bei išorinė komunikacija, kuri būtų įtrauki ir atliepianti skirtingų studentų (-čių) poreikius; tarptautinių studentų (-čių) integracija į organizacijos veiklas, specifinį dėmesį teikiant atstovavimo kompetencijų kėlimui ir įtraukimui į skirtingų atstovavimo lygmenų veiklą.
 
-## Narystės testo DG?
+Darbo grupės veiklos metu buvo pastebėti neatitikimai dvikalbystės gairėse, kurios buvo atnaujintos ir išverstos darbo grupės iniciatyva. Buvo diskutuota apie vertimo galimybių plėtrą bei prienamumą.
 
-Ataskaitiniu laikotarpiu VU SA Tarybos sprendimu buvo suformuota VU SA narystės testo atnaujinimo darbo grupė. Darbo grupę sudarė 5 VU SA Tarybos atstovai (-ės), 2 VU SA Institucinio stiprinimo fondo nariai (-ės) ir 2 VU SA Centrinio biuro atstovai. Darbo grupė vykdė įvairaus tipo susitikimus, kuriais siekė sistemiškai peržiūrėti esamą narystės testą, išsigryninti jo tikslą, siekius bei parengti atnaujintą, organizacijos poreikius atitinkančią jo versiją. Susitikimų metu buvo apsibrėžta, kad narystės testo tikslas yra suteikti VU SA nariams (-ėms) bazinį supratimą apie studijų procesus ir Studentų atstovybės vaidmenį universiteto bendruomenėje, o pagrindiniai siekiniai apima bazinių VU socialinių-akademinių žinių suteikimą, galimybę nariams (-ėms) susipažinti su nario (-ės) keliu, VU SA struktūra, įvaizdžiu bei strategija, taip pat informavimą apie studentų (-čių) atstovavimą universitete ir nacionaliniu lygmeniu. Atsižvelgiant į tai, nuspręsta testą kurti iš naujo, atsisakant ankstesnės struktūros ir formuojant naują klausimų bei tematikų sistemą. Atnaujinta struktūra buvo suskirstyta į šias temas: akademiniai klausimai, akademinės situacijos, socialiniai klausimai, socialinės situacijos, VU struktūra, atstovavimo situaciniai klausimai, VU SA įvaizdis, VU SA strategija, LSP, VU SA struktūra ir nacionalinis atstovavimas. Taip pat nuspręsta testą diferencijuoti trims tikslinėms VU SA veikiančios narių grupėms, sukuriant nario (-ės) testą, kuratoriaus (-ės) testą ir atstovo (-ės) testą. Šiuo metu yra aktyviai kuriami nauji klausimai, o atnaujintą narystės testą planuojama parengti ir įdiegti iki rugsėjo 1 d.
+## Narystės testo darbo grupė
+
+Ataskaitiniu laikotarpiu VU SA Tarybos sprendimu buvo suformuota VU SA narystės testo atnaujinimo darbo grupė. Darbo grupę sudarė 5 VU SA Tarybos atstovai (-ės), 2 VU SA Institucinio stiprinimo fondo nariai (-ės) ir 2 VU SA Centrinio biuro atstovai. Darbo grupė vykdė įvairaus tipo susitikimus, kuriais siekė sistemiškai peržiūrėti esamą narystės testą, išsigryninti jo tikslą, siekius bei parengti atnaujintą, organizacijos poreikius atitinkančią jo versiją.
+
+Susitikimų metu buvo apsibrėžta, kad narystės testo tikslas yra suteikti VU SA nariams (-ėms) bazinį supratimą apie studijų procesus ir Studentų atstovybės vaidmenį universiteto bendruomenėje, o pagrindiniai siekiniai apima bazinių VU socialinių-akademinių žinių suteikimą, galimybę nariams (-ėms) susipažinti su nario (-ės) keliu, VU SA struktūra, įvaizdžiu bei strategija, taip pat informavimą apie studentų (-čių) atstovavimą universitete ir nacionaliniu lygmeniu. Atsižvelgiant į tai, nuspręsta testą kurti iš naujo, atsisakant ankstesnės struktūros ir formuojant naują klausimų bei tematikų sistemą.
+
+Atnaujinta struktūra buvo suskirstyta į šias temas: akademiniai klausimai, akademinės situacijos, socialiniai klausimai, socialinės situacijos, VU struktūra, atstovavimo situaciniai klausimai, VU SA įvaizdis, VU SA strategija, LSP, VU SA struktūra ir nacionalinis atstovavimas. Taip pat nuspręsta testą diferencijuoti trims tikslinėms VU SA veikiančios narių grupėms, sukuriant nario (-ės) testą, kuratoriaus (-ės) testą ir atstovo (-ės) testą. Šiuo metu yra aktyviai kuriami nauji klausimai, o atnaujintą narystės testą planuojama parengti ir įdiegti iki rugsėjo 1 d.
 
 ## VISAK atnaujinimas ir tinklapio atnaujinimas
 

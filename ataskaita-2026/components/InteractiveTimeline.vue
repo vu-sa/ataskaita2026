@@ -63,13 +63,7 @@
 import { ref, onMounted } from 'vue';
 import gsap from 'gsap';
 import { BaseCard } from './ui/card';
-import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import VPButton from "vitepress/dist/client/theme-default/components/VPButton.vue";
-
-// Register GSAP plugins only in browser environment
-if (typeof window !== 'undefined') {
-  gsap.registerPlugin(ScrollTrigger);
-}
 
 interface TimelineEvent {
   date: string;
@@ -87,7 +81,10 @@ const props = defineProps<{
 const timelineRefs = ref<HTMLElement[]>([]);
 const contentRefs = ref<HTMLElement[]>([]);
 
-onMounted(() => {
+onMounted(async () => {
+  const { default: ScrollTrigger } = await import('gsap/ScrollTrigger');
+  gsap.registerPlugin(ScrollTrigger);
+
   // Add animation for timeline items
   props.events.forEach((_, index) => {
     const timelineEl = timelineRefs.value[index];

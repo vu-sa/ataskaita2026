@@ -59,14 +59,15 @@ export default {
                             { text: 'Research', link: '/en/stipri-organizacija/tyrimai' },
                             { text: 'Projects', link: '/en/stipri-organizacija/projektai' },
                             { text: 'VU SR process renewal', link: '/en/stipri-organizacija/procesu-atnaujinimas' },
-                            { text: 'Institutional Strengthening Fund', link: '/en/stipri-organizacija/isf' },
+                            { text: 'Institutional strengthening', link: '/en/stipri-organizacija/isf' },
                         ]
                     },
                     {
                         text: 'Sustainable university community',
                         collapsed: true,
                         items: [
-                            { text: 'Community events', link: '/en/darni-bendruomene/renginiai' },
+                            { text: 'Community-building events', link: '/en/darni-bendruomene/renginiai' },
+                            { text: 'Student initiatives', link: '/en/darni-bendruomene/iniciatyvos' },
                             { text: 'Integration of students', link: '/en/darni-bendruomene/integracija' },
                         ]
                     },

@@ -1,8 +1,4 @@
----
-title: "PROJEKTAI"
----
-
-# PROJEKTAI
+# Projektai
 
 ## „Darbas už auditorijos ribų – raktas į studijų sėkmę?“
 
@@ -40,7 +36,7 @@ Projekto ambasadoriai (-ės) 2025 m. lapkričio mėnesį aplankė 22 regionines 
 
 Projekto veiklos taip pat buvo viešinamos VU SA komunikacijos kanalais. Ambasadorių tinklo, mokymų ir vizitų komunikacija pasiekė 9 665 vartotojus „Facebook“ platformoje, 4 755 vartotojus „Instagram“ platformoje, o vusa.lt straipsnių peržiūrų skaičius siekė 3 897.
 
-Tarptautinių studentų (-čių) integracijos į Vilniaus universiteto ir miesto bendruomenę projektas
+## Tarptautinių studentų (-čių) integracijos į Vilniaus universiteto ir miesto bendruomenę projektas
 
 Ataskaitiniu laikotarpiu VU SA taip pat rengė ir įgyvendino projektą, skirtą tarptautinių studentų (-čių) integracijos į Vilniaus universiteto ir Vilniaus miesto bendruomenę stiprinimui. Projekto pareiškėja – Vilniaus universiteto Studentų atstovybė. Bendra projekto suma – 4 500 Eur, iš Vilniaus miesto savivaldybės prašyta 4 000 Eur, o kiti projekto finansavimo šaltiniai – nuosavos lėšos.
 

@@ -36,8 +36,11 @@
     "pdf:compress:en:minimal": "cd ataskaita-2025/pdf-report && node compress-pdf-advanced.js --en --profile=minimal",
     "pdf:compress:en:balanced": "cd ataskaita-2025/pdf-report && node compress-pdf-advanced.js --en --profile=balanced",
     "pdf:compress:en:high": "cd ataskaita-2025/pdf-report && node compress-pdf-advanced.js --en --profile=high",
+    "pdf:compress:lt:2026": "cd ataskaita-2026/pdf-report && node compress-pdf-advanced.js --lt --profile=high",
+    "pdf:compress:en:2026": "cd ataskaita-2026/pdf-report && node compress-pdf-advanced.js --en --profile=high",
     "pdf:build": "npm run pdf:build:lt && npm run pdf:build:en",
-    "deploy": "npm run docs:build && npm run pdf:build && npm run pdf:compress:lt:high && npm run pdf:compress:en:high && cp ataskaita-2025/pdf-report/VU_SA_Ataskaita_2024_2025.pdf ataskaita-2025/.vitepress/dist/VU_SA_Ataskaita_2024_2025.pdf && cp ataskaita-2025/pdf-report/VU_SR_Report_2024_2025.pdf ataskaita-2025/.vitepress/dist/VU_SR_Report_2024_2025.pdf"
+    "pdf:build:2026": "npm run pdf:build:lt:2026 && npm run pdf:build:en:2026",
+    "deploy": "npm run docs:build:2026 && npm run pdf:build:2026 && npm run pdf:compress:lt:2026 && npm run pdf:compress:en:2026 && cp ataskaita-2026/pdf-report/VU_SA_Ataskaita_2025_2026.pdf ataskaita-2026/.vitepress/dist/VU_SA_Ataskaita_2025_2026.pdf && cp ataskaita-2026/pdf-report/VU_SR_Report_2025_2026.pdf ataskaita-2026/.vitepress/dist/VU_SR_Report_2025_2026.pdf"
   },
   "dependencies": {
     "@rollup/plugin-dsv": "^3.0.5",

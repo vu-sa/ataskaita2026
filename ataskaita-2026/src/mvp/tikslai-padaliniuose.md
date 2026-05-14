@@ -1,7 +1,3 @@
----
-title: "VU SA P tikslai"
----
-
 # VU SA P tikslai
 
 VU CHGF studijų dalykų aprašai yra peržiūrėti ir bent 2 kiekvienos studijų programos dalykų aprašai patobulinti, atsižvelgiant į pakitusias dėstymo praktikas, vertinimą, literatūrą, studijų dalyko aprašo šabloną.
@@ -58,7 +54,7 @@ Parengta įgyvendintų mokymo metodų rezultatų ataskaita, kurioje pateiktas st
 
 - Buvo sudaryta papildoma apklausa, kurioje studentai (-ės) galėjo nurodyti, ar papildomi mokymosi metodai pagerino jų studijų patirtį.
 
-Gerinti Vilniaus universiteto Fizikos fakulteto I pakopos I kurso studentų (-čių) studijų aplinką ir prieinamumą, diegiant savarankiško mokymosi kultūrą bei informuojant apie studijų valdymo galimybes.
+Gerinti VU FF I pakopos I kurso studentų (-čių) studijų aplinką ir prieinamumą, diegiant savarankiško mokymosi kultūrą bei informuojant apie studijų valdymo galimybes.
 
 ## 1 uždavinys: neįgyvendintas
 
@@ -106,7 +102,7 @@ VMA yra naujas polapis, kurio naujinimo progresas su įkeliamais dalykų apraša
 
 - Įvyko susitikimas su VU FilF Studijų prodekane, kuriai pristatyta problematika ir preliminarios darbo grupės parengtos rekomendacijos. Aptarta studentams (-ėms) svarbiausios naujinimo vietos bei galimybė svarstyti šį klausimą Studijų kolegijoje.
 
-- Kartu su Studijų skyriumi pristatytas dalykų aprašų naujinimo klausimas. Studijų skyrius pateikė informaciją dėl dalykų, tvirtinamų bendrai Studijų kolegijoje. Studentų atstovė Gabija Smailytė pristatė problematiką, surinktą kontekstinę medžiagą apie šio klausimo poreikį, patikslintas rekomendacijas. Siekta susitarimo, kad šis klausimas būtų ne tik inicijuojamas studentų atstovų (-ių), bet ir Studijų programos komitetų (SPK) pirmininkų (-ių), kadangi savalaikė dalykų aprašų peržiūra yra viena iš SPK funkcijų. Kartu remtasi ir ankstesniu Studijų kolegijos sutarimu visus kitam semestrui vykdomų dalykų aprašus atnaujinti prieš juos skelbiant, tai pažymint naujinimo data dalyko aprašo apačioje, išreikštas prašymas nuodugniai peržiūrėti dalykų aprašus, o ne tik atnaujinti datą.
+- Kartu su Studijų skyriumi pristatytas dalykų aprašų naujinimo klausimas. Studijų skyrius pateikė informaciją dėl dalykų, tvirtinamų bendrai Studijų kolegijoje. Studentų atstovė Gabija Smailytė pristatė problematiką, surinktą kontekstinę medžiagą apie šio klausimo poreikį, patikslintas rekomendacijas. Siekta susitarimo, kad šis klausimas būtų ne tik inicijuojamas studentų atstovų (-ių), bet ir SPK pirmininkų (-ių), kadangi savalaikė dalykų aprašų peržiūra yra viena iš SPK funkcijų. Kartu remtasi ir ankstesniu Studijų kolegijos sutarimu visus kitam semestrui vykdomų dalykų aprašus atnaujinti prieš juos skelbiant, tai pažymint naujinimo data dalyko aprašo apačioje, išreikštas prašymas nuodugniai peržiūrėti dalykų aprašus, o ne tik atnaujinti datą.
 
 - Parengtos dalykų aprašų peržiūros instrukcijos atstovams (-ėms) pasinaudojant preliminariomis rekomendacijomis. Šiuo metu instrukcijos pasidalintos tik atstovų (-ių) tarpe; kartu parengtas studijų dalykų peržiūros progreso stebėjimo įrankis, kuriame dalykai peržiūrymi: atskiriant individualiuosius dalykus ir bendrus BA privalomus dalykus / PD bei bendrus MA PD, nes šių dalykų aprašai tvirtinami dar ir Studijų kolegijoje. Šiame įrankyje naudojami 2026 m. stojimui paskelbti studijų programų tinkleliai (nebent šiais metais neskelbiama).
 
@@ -136,7 +132,7 @@ VU FsF studentai (-ės) ir dėstytojai (-os) yra informuoti apie DI naudojimo ga
 
 - Dalyvauta darbo grupėje dėl DI reglamentavimo rašto darbuose. Šioje darbo grupėje studentus (-es) atstovavo VU SA FsF akademinio proceso reikalų koordinatorė Gabrielė Šlepetytė ir VU SA FsF pirmininkė Austėja Pupelytė. Darbo grupė turėjo vieną susitikimą, kurio metu aptarė pagrindinius DI naudojimo reglamentavimo aspektus ir tolimesnį darbą.
 
-- Studijų kolegijos posėdyje pristatytas pirminis gairių variantas. Studijų kolegijos posėdžio metu buvo priimtas sprendimas gaires tvirtinti atskirai kiekviename VU FsF Studijų programos komitete (SPK).
+- Studijų kolegijos posėdyje pristatytas pirminis gairių variantas. Studijų kolegijos posėdžio metu buvo priimtas sprendimas gaires tvirtinti atskirai kiekviename VU FsF SPK.
 
 - Studentams (-ėms) balandžio 16 d. buvo surengtas renginys apie DI naudojimo tematiką ir akademinį raštingumą.
 
@@ -188,7 +184,7 @@ VU KF sprendimų priėmėjai (-os) priima VU SA KF pateiktus siūlymus ir taiko 
 
 - VU SA KF pirmakursių stovyklos metu buvo įgyvendintos veiklos, kurių metu pristatyta grįžtamojo ryšio svarba bei aktualumas studijų procesui.
 
-- Įvyko 6 focus grupės su VU KF Studijų programų komitetų (SPK) studentų (-čių) atstovais (-ėmis) ir kontaktiniais asmenimis, siekiant identifikuoti problemines vietas dėstytojų grįžtamojo ryšio teikimo procese. Jų metu paaiškėjo, kad grįžtamojo ryšio teikimas fakultete yra netolygus. Dauguma studentų (-čių) nurodė, jog jiems (-oms) trūksta grįžtamojo ryšio po tarpinių atsiskaitymų, taip pat pasigedo išsamesnių, asmeninių komentarų po pristatymų ar egzaminų. Buvo išreikštas poreikis, kad dėstytojai (-os) aiškiai nurodytų, kokiu būdu teiks grįžtamąjį ryšį ir kaip studentai (-ės) galėtų jo prašyti.
+- Įvyko 6 focus grupės su VU KF SPK studentų (-čių) atstovais (-ėmis) ir kontaktiniais asmenimis, siekiant identifikuoti problemines vietas dėstytojų grįžtamojo ryšio teikimo procese. Jų metu paaiškėjo, kad grįžtamojo ryšio teikimas fakultete yra netolygus. Dauguma studentų (-čių) nurodė, jog jiems (-oms) trūksta grįžtamojo ryšio po tarpinių atsiskaitymų, taip pat pasigedo išsamesnių, asmeninių komentarų po pristatymų ar egzaminų. Buvo išreikštas poreikis, kad dėstytojai (-os) aiškiai nurodytų, kokiu būdu teiks grįžtamąjį ryšį ir kaip studentai (-ės) galėtų jo prašyti.
 
 - Buvo parengta studentams (-ėms) lengvai suprantama grįžtamojo ryšio atmintinė, padedanti atpažinti kokybišką grįžtamąjį ryšį ir skatinanti jį taikyti studijų procese.
 
@@ -202,7 +198,7 @@ VU KF sprendimų priėmėjai (-os) priima VU SA KF pateiktus siūlymus ir taiko 
 
 - VU KF administracijai atskiru teikimu buvo pateikti siūlymai nuo VU SA KF dėl grįžtamojo ryšio teikimo kokybės gerinimo studijų procese.
 
-VU Kauno fakultete dėstytojai (-os) ir studentai (-ės) aktyviai suteikia kokybišką grįžtamąjį ryšį.
+VU KnF dėstytojai (-os) ir studentai (-ės) aktyviai suteikia kokybišką grįžtamąjį ryšį.
 
 ## 1 uždavinys: įgyvendinamas
 
@@ -224,13 +220,13 @@ Apklausoje daugiau nei 60 proc. dalyvavusių studentų (-čių) yra suteikę (-u
 
 - Siekiant gerinti studentų (-čių) patirtį studijų metu VU KnF buvo parengta kokybiško grįžtamojo ryšio teikimo metodika, paviešinta skirtingais vidiniais kanalais.
 
-- Naudojant parengtą grįžtamojo ryšio metodiką buvo paruoštas potencialių pasiūlymų sąrašas pokyčiams, kurie turėtų būti įgyvendinti VU KnF Studijų programų komitetuose (SPK).
+- Naudojant parengtą grįžtamojo ryšio metodiką buvo paruoštas potencialių pasiūlymų sąrašas pokyčiams, kurie turėtų būti įgyvendinti VU KnF SPK.
 
 - Įvyko studijų kolegijos posėdis, kuriame aptartas ir pristatytas potencialių pasiūlymų sąrašas.
 
 - Sudarytas ir VU KnF studentams (-ėms) vidiniais ir išoriniais kanalais paviešintas grįžtamojo ryšio vadovas. Su vadovu galima susipažinti čia.
 
-VU Medicinos fakultete veikia vidinė studijų kokybės užtikrinimo sistema, grįsta studentų (-čių) grįžtamuoju ryšiu ir atitinkanti vidinius kokybės kriterijus.
+VU MF veikia vidinė studijų kokybės užtikrinimo sistema, grįsta studentų (-čių) grįžtamuoju ryšiu ir atitinkanti vidinius kokybės kriterijus.
 
 ## 1 uždavinys: įgyvendintas
 
@@ -246,13 +242,13 @@ Bent 6 studijų moduliuose įvyksta arba suplanuoti studentams (-ėms) palankūs
 
 ## ☑️ Kas įgyvendinta?
 
-- Gruodžio ir balandžio mėn. vykusiuose susitikimuose su kontaktiniais asmenimis aptartos studentams (-ėms) aktualios studijų problemos bei informuota apie VU SA MF inicijuotus sprendimo būdus. Priminta, kad su studijų vykdymu susijusias problemas galima teikti užpildant VU MF Studijų skyriaus specializuotą formą arba informuojant studentų (-čių) atstovus (-es) studijų programų komitetuose (SPK).
+- Gruodžio ir balandžio mėn. vykusiuose susitikimuose su kontaktiniais asmenimis aptartos studentams (-ėms) aktualios studijų problemos bei informuota apie VU SA MF inicijuotus sprendimo būdus. Priminta, kad su studijų vykdymu susijusias problemas galima teikti užpildant VU MF Studijų skyriaus specializuotą formą arba informuojant studentų (-čių) atstovus (-es) SPK.
 
 - El. laiškais ir socialiniuose tinkluose studentams (-ėms) pristatytos VU SA MF konstruktyvaus grįžtamojo ryšio gairės – dokumentas, kuriame pateikiami praktiniai patarimai, kaip teikti tikslius, sprendimais grįstus komentarus, kurie leistų sistemingai gerinti studijų kokybę.
 
 - VU SA MF parengė vidinius studijų kokybės kriterijus bei aptarė juos su VU MF administracija ir Edukacinių kompetencijų skyriumi. Dokumentu pasidalinta su studentų (-čių) atstovais (-ėmis) VU MF dariniuose, akcentuojant studijų modulių analizę, grįstą tarptautiniais standartais ir gerosiomis praktikomis.
 
-- VU SA MF inicijavo susitikimą su VU MF Edukacinių kompetencijų skyriumi (EKS), siekiant stiprinti studijų kokybę ir modulių analizę. Susitikimo metu aptarti studentų (-čių) lūkesčiai pedagoginių kompetencijų stiprinimo srityje (apimant dėstymo metodų ir atsiskaitymų kokybės klausimus), aptarta studentų (-čių) atstovų (-ių) veikla studijų programų komitetuose (SPK).
+- VU SA MF inicijavo susitikimą su VU MF Edukacinių kompetencijų skyriumi (EKS), siekiant stiprinti studijų kokybę ir modulių analizę. Susitikimo metu aptarti studentų (-čių) lūkesčiai pedagoginių kompetencijų stiprinimo srityje (apimant dėstymo metodų ir atsiskaitymų kokybės klausimus), aptarta studentų (-čių) atstovų (-ių) veikla SPK.
 
 - Remiantis VU IS apklausų ir focus grupių duomenimis, VU MF studentų (-čių) atstovai (-ės) išanalizavo probleminius studijų modulius, atsižvelgdami (-os) į studentų (-čių) pasitenkinimą. Parengti 9 modulių analizės dokumentai, inicijuoti susitikimai su modulių koordinuojančiais (-čiomis) dėstytojais (-omis), teikiant konstruktyvų grįžtamąjį ryšį.
 
@@ -280,13 +276,13 @@ Ne mažiau kaip 35 proc. SPK aptartų studentų (-čių) grįžtamojo ryšio atv
 
 ## ☑️ Kas įgyvendinta?
 
-- Buvo įgyvendinti VU SA MIF atstovų mokymai, kuriuose studentų (-čių) atstovai (-ės) buvo supažindinami (-os) su jų studijų programų komitetutų (SPK) specifika ir metų tinkleliu, išsikeltais lūkesčiais. Kartu su studentų (-čių) atstovais (-ėmis) buvo nagrinėtos studentams (-ėms) aktualios problemos ir pateikti pavyzdžiai, kaip argumentuoti esamas problematikas bei jas spręsti.
+- Buvo įgyvendinti VU SA MIF atstovų mokymai, kuriuose studentų (-čių) atstovai (-ės) buvo supažindinami (-os) su jų SPK specifika ir metų tinkleliu, išsikeltais lūkesčiais. Kartu su studentų (-čių) atstovais (-ėmis) buvo nagrinėtos studentams (-ėms) aktualios problemos ir pateikti pavyzdžiai, kaip argumentuoti esamas problematikas bei jas spręsti.
 
 - Nuolatos buvo vykdyti individualūs pokalbiai su studentų (-čių) atstovais (-ėmis), kurių metu buvo aptariama atstovo (-ės) savijauta pareigose, išsikeltas tikslas bei ateities planai.
 
 - Kiekvienoje studijų programoje (bakalauro ir magistrantūros pakopose) buvo išskirtas bent vienas tobulintinas aspektas.
 
-- Siekiant įgyvendinti pokyčius studijų programose buvo inicijuoti Studijų programų komitetų (SPK) posėdžiai, kuriuose aptartos problemos ir jų galimi sprendimo būdai. Buvo įgyvendinti šie posėdžiai:
+- Siekiant įgyvendinti pokyčius studijų programose buvo inicijuoti SPK posėdžiai, kuriuose aptartos problemos ir jų galimi sprendimo būdai. Buvo įgyvendinti šie posėdžiai:
 
 - Informacinių sistemų inžinerijos SPK, reaguojant į studentų (-čių) nusiskundimus, pakeistas vienas dėstytojas, o kito dėstytojo darbas pradėtas stebėti detaliau.
 
@@ -306,11 +302,11 @@ Ne mažiau kaip 35 proc. SPK aptartų studentų (-čių) grįžtamojo ryšio atv
 
 VU ŠA vykdomi renginiai ir iniciatyvos, kurie skatina (bendra)akademinę jauseną bei nuoseklų karjeros planavimą.
 
-## 1 uždavinys: įgyvendinamas
+## 1 uždavinys: įgyvendintas
 
-VU ŠA organizuojamuose renginiuose, iniciatyvose ir karjeros planavimui skirtose veiklose sudalyvauja bent 250 akademinės bendruomenės narių.
+80 procentų apklausos apie VU ŠA vykdomų renginių ir iniciatyvų bendruomeninių poreikių patenkinimą respondentų teigia, kad yra atliepiami jų bendruomeniniai poreikiai.
 
-## 2 uždavinys: įgyvendinamas
+## 2 uždavinys: įgyvendintas
 
 Kartu su kitomis švietimo institucijomis vykdytuose renginiuose, iniciatyvose ir karjeros planavimo veiklose sudalyvavo bent 150 studentų (-čių).
 
@@ -320,11 +316,11 @@ Kartu su kitomis švietimo institucijomis vykdytuose renginiuose, iniciatyvose i
 
 - Vykdytas bendradarbiavimas su Šiaulių valstybine kolegija (ŠVK) bei Šiaulių technologijų mokymosi (ŠTM) centru dėl potencialių renginių ir bendradarbiavimo galimybių tarpusavyje.
 
-- Įgyvendinant metų tikslą buvo suorganizuoti šie renginiai: Helovino vakarėlis (VU SA ŠA su ŠVK SA); Pyragų diena Šiaulių akademijoje (VU SA ŠA su VU ŠA); Tarptautinės studentų dienos minėjimas renginyje „International Dinner“ (VU SA ŠA su VU ŠA); Šventinis filmų vakaras (VU SA ŠA su VU ŠA); Valentino vakaras (VU SA ŠA su ŠVK SA); Tarptautinės moters dienos minėjimas (VU SA ŠA su ŠVK SA).
+- Įgyvendinant metų tikslą buvo suorganizuoti šie renginiai: Helovino vakarėlis (VU SA ŠA su ŠVK SA); Pyragų diena ŠA(VU SA ŠA su VU ŠA); Tarptautinės studentų dienos minėjimas renginyje „International Dinner“ (VU SA ŠA su VU ŠA); Šventinis filmų vakaras (VU SA ŠA su VU ŠA); Valentino vakaras (VU SA ŠA su ŠVK SA); Tarptautinės moters dienos minėjimas (VU SA ŠA su ŠVK SA).
 
 VU TF sukurta ir įdiegta vieninga grįžtamojo ryšio sistema, siekianti gerinti akademinio proceso kokybę.
 
-## 1 uždavinys: įgyvendinamas
+## 1 uždavinys: įgyvendinama
 
 20 proc. VU IS apklausose atsakiusių studentų (-čių) teigia, kad VU TF dėstytojai (-os) ir seminarų vedėjai (-os) teikia grįžtamąjį ryšį.
 
@@ -332,7 +328,7 @@ VU TF sukurta ir įdiegta vieninga grįžtamojo ryšio sistema, siekianti gerint
 
 VU SA TF sukurtoje apklausoje grįžtamąjį ryšį apie dėstytojus per metus pateikė bent 100 VU TF studentų (-čių).
 
-## 3 uždavinys: įgyvendinamas
+## 3 uždavinys: įgyvendintas
 
 VU TF studentai (-ės), dėstytojai (-os) ir seminarų vedėjai (-os) yra supažindinti (-os) su grįžtamojo ryšio teikimo sistema.
 
@@ -342,9 +338,9 @@ VU TF studentai (-ės), dėstytojai (-os) ir seminarų vedėjai (-os) yra supaž
 
 - Esama grįžtamojo ryšio problematika buvo aptarta su Viešosios teisės katedros vedėju Johanu Baltrimu, Baudžiamosios justicijos katedros vedėja Ilona Mihailovič, Privatinės teisės katedros vedėja Vida Petrylaitė, Studijų programos komiteto pirmininku Rimantu Simaičiu.
 
-- Suorganizuotas susitikimas su Prodekane studijoms Vigita Vėbraite, kuriame buvo aptarti studentų (-čių) atsiliepimai apie dėstytojų teikiamą grįžtamąjį ryšį, katedrų vedėjų ir Studijų programos komiteto (SPK) pirmininko išsakyti argumentai bei pristatyta VU SA TF planai rengti grįžtamojo ryšio tvarką fakultete numatantį dokumentą.
+- Suorganizuotas susitikimas su Prodekane studijoms Vigita Vėbraite, kuriame buvo aptarti studentų (-čių) atsiliepimai apie dėstytojų teikiamą grįžtamąjį ryšį, katedrų vedėjų ir SPK pirmininko išsakyti argumentai bei pristatyta VU SA TF planai rengti grįžtamojo ryšio tvarką fakultete numatantį dokumentą.
 
-- Parengtas grįžtamojo ryšio teikimo tvarką numatantis dokumentas. Atsižvelgiant į VU akademinės etikos, studijų nuostatus, LR teisės aktus, kitų VU KAP ar aukštųjų mokyklų gerąsias praktikas. Parengtas dokumentas buvo pristatytas ir patvirtintas VU Teisės fakulteto Dekanate ir Studijų programos komitete (SPK).
+- Parengtas grįžtamojo ryšio teikimo tvarką numatantis dokumentas. Atsižvelgiant į VU akademinės etikos, studijų nuostatus, LR teisės aktus, kitų VU KAP ar aukštųjų mokyklų gerąsias praktikas. Parengtas dokumentas buvo pristatytas ir patvirtintas VU TF Dekanate ir SPK.
 
 - VU SA TF pirmakursių stovykloje buvo įgyvendintos veiklos, kurių metu pristatyta grįžtamojo ryšio svarba bei aktualumas studijų procesui.
 

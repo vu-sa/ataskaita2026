@@ -16,9 +16,15 @@ Taip pat turėjome kelis susitikimus su LiJOT Prezidentu Umberto Masi dėl einam
 
 Bendradarbiaudami su medicinos studentų (-čių) organizacijomis kreiptasi į sprendimų priėmėjus dėl Medicinos praktikos įstatymo pakeitimus, kuriais siekiama valstybės finansuojamas rezidentūros vietas perskirstyti į vietas, susijusias su įsipareigojimu atidirbti. Taip pat bendradarbiavome dėl LR Vyriausybės įsipareigojimo siekti didinti finansuojamas rezidentūros vietas, kuris dėl kartu įdėtų pastangų buvo užtikrintas.
 
-## STUDENTŲ (-ČIŲ) SAVIVALDOS
+## Studentų (-čių) savivaldos
 
 Susitikome su Lietuvos muzikos ir teatro akademijos Studentų atstovybės Prezidente pasidalinti gerosiomis patirtimis, susijusiomis su atstovybių veikla, studentų (-čių) problemomis. Kadangi tiek VU, tiek LMTA studentai (-ės) gali turėti pasirenkamuosius studijų dalykus (modulius) iš savo aukštųjų mokyklų, susitarėme surinkti grįžtamąjį ryšį bendradarbiavimo tobulinimui.
+
+Socialinio proceso reikalų koordinatorė turėjo nuotolinį skambutį su KTU SA atstovais (-ėmis), kurio metu dalinosi VU SA patirtimi veikiant darnumo tematika (apie organizuotas iniciatyvas, jų sėkmę, tolimesnius organizacijos planus).
+
+Integracijos proceso koordinatorė susitiko su LSMU SA kuratorių koordinatorėmis pasikalbėti ir pasidalinti gerosiomis patirtimis apie kuratorių programą, kaip atrenkami ir apmokomi kuratoriai bei kaip juos išlaikyti metų eigoje.
+
+Bendradarbiaudami VDU SA, VU SA atstovai (-ės) dalyvavo poroje jų organizuojamų mokymų, kurių metu dalinosi savo patirtimis atstovavimo temomis bei vedė veiklas kaip kviestiniai lektoriai (-ės).
 
 ## Vilniaus jaunimo organizacijų sąjunga Apskritasis stalas (VJOSAS)
 
