@@ -4,7 +4,8 @@
     <div class="report-hero__inner">
       <span class="section-eyebrow report-hero__eyebrow">{{ eyebrow }}</span>
 
-      <img class="report-hero__logo" :src="logoSrc" :alt="title" />
+      <img class="report-hero__logo report-hero__logo--light" :src="logoLight" :alt="title" />
+      <img class="report-hero__logo report-hero__logo--dark" :src="logoDark" :alt="title" />
 
       <h1 class="report-hero__title">{{ title }}</h1>
       <p class="report-hero__period">{{ period }}</p>
@@ -23,8 +24,7 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref, onMounted, onUnmounted } from 'vue';
-import { useDark } from '@vueuse/core';
+import { ref, onMounted, onUnmounted } from 'vue';
 import VPButton from 'vitepress/dist/client/theme-default/components/VPButton.vue';
 
 interface HeroAction {
@@ -33,7 +33,7 @@ interface HeroAction {
   link: string;
 }
 
-const props = defineProps<{
+defineProps<{
   eyebrow: string;
   title: string;
   period: string;
@@ -41,9 +41,6 @@ const props = defineProps<{
   logoDark: string;
   actions: HeroAction[];
 }>();
-
-const isDark = useDark();
-const logoSrc = computed(() => (isDark.value ? props.logoDark : props.logoLight));
 
 // Dot-grid wave: each cycle picks a new random travel direction so the
 // brighter wave enters from a different side every time.
@@ -156,6 +153,10 @@ onUnmounted(() => {
   margin-bottom: 1.75rem;
 }
 
+.report-hero__logo--dark {
+  display: none;
+}
+
 .report-hero__title {
   font-size: clamp(2rem, 6vw, 3.25rem);
   font-weight: 800;
@@ -207,5 +208,15 @@ onUnmounted(() => {
   .report-hero__logo {
     height: 300px;
   }
+}
+</style>
+
+<style>
+.dark .report-hero__logo--light {
+  display: none;
+}
+
+.dark .report-hero__logo--dark {
+  display: block;
 }
 </style>
