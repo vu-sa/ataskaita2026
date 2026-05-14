@@ -408,6 +408,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 *2025-2026 m. Institucinio stiprinimo fondą sudarė:*
 
 #team-section(
+  photo: "../src/public/img/dariniai/ISF.jpg",
   members: get-persons-by-column(dariniai_data, "Darinys", "Institucinio stiprinimo fondas"),
   columns: 2,
   primaryColor: primaryColor,
@@ -416,7 +417,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
   showPadalinys: false,
 )
 
-#cmarker.render(read_file_lines("./src/vu-sa/isf.md", start: 18))
+#cmarker.render(read_file_lines("./src/vu-sa/isf.md", start: 17))
 
 == Duomenų apsaugos grupė
 

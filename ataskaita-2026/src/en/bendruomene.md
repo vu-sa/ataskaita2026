@@ -87,6 +87,8 @@ const iniciatyvos = getPersonsByColumn("Padalinys", "Iniciatyvos", "padaliniai")
 
 ## ISF
 
+![ISF](</img/dariniai/ISF.jpg>)
+
 <TeamAvatarLayout :members="isf" :showTitle="true" :showPadalinys="false" />
 
 More on ISF [here](/en/stipri-organizacija/isf.md).

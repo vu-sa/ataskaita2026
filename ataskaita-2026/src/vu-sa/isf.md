@@ -7,6 +7,8 @@ const isf = getPersonsByColumn("Darinys", "VU SA Institucinio stiprinimo fondas"
 
 # Institucinio stiprinimo fondas
 
+![VU SA Institucinio stiprinimo fondas](/img/dariniai/ISF.jpg){.rounded-sm}
+
 <TeamAvatarLayout :members="isf" :showTitle="true" :showPadalinys="false" />
 
 ::: tip 📖 Institucinio stiprinimo fondas...

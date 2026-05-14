@@ -89,6 +89,8 @@ Daugiau apie Parlamentą [skaitykite čia](/vu-sa/parlamentas.md).
 
 ## ISF
 
+![ISF](</img/dariniai/ISF.jpg>)
+
 <TeamAvatarLayout :members="isf" :showTitle="true" :showPadalinys="false" />
 
 Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).

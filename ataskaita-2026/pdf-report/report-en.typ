@@ -405,6 +405,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
 *In 2025-2026 the Institutional Strengthening Fund team included:*
 
 #team-section(
+  photo: "../src/public/img/dariniai/ISF.jpg",
   members: get-persons-by-column(dariniai_data, "Darinys", "Institucinio stiprinimo fondas"),
   columns: 2,
   primaryColor: primaryColor,
@@ -413,7 +414,7 @@ VU SR Parliament was chaired by Gabrielė Kasperaitė.
   showPadalinys: false,
 )
 
-#cmarker.render(read_file_lines("./src/en/vu-sa/isf.md", start: 16))
+#cmarker.render(read_file_lines("./src/en/vu-sa/isf.md", start: 17))
 
 #pagebreak()
 
