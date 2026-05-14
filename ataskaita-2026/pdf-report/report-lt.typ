@@ -36,10 +36,14 @@
 ) = {
   let content = read(file_path)
   let lines = content.split("\n")
-  
+
+  if start >= lines.len() {
+    return ""
+  }
+
   // If end is not specified, read until the end of the file
-  let end_line = if end == none { lines.len() } else { end }
-  
+  let end_line = if end == none or end > lines.len() { lines.len() } else { end }
+
   // Select the requested range and join back together
   return lines.slice(start, end_line).join("\n")
 }
