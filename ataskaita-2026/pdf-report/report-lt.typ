@@ -27,6 +27,12 @@
 // brandRed will be used explicitly where needed
 
 // Helper functions to read file content with more flexibility
+#let sanitize_markdown_for_pdf(content) = {
+  return content
+    .split("\n")
+    .filter(line => not line.contains("initiative-logo"))
+    .join("\n")
+}
 
 // Original line-based function (maintained for backwards compatibility)
 #let read_file_lines(
@@ -45,7 +51,7 @@
   let end_line = if end == none or end > lines.len() { lines.len() } else { end }
 
   // Select the requested range and join back together
-  return lines.slice(start, end_line).join("\n")
+  return sanitize_markdown_for_pdf(lines.slice(start, end_line).join("\n"))
 }
 
 // New section-based function that looks for section markers in markdown files
@@ -60,7 +66,7 @@
   
   // Return entire file if no filters specified
   if section_id == none and heading == none {
-    return content
+    return sanitize_markdown_for_pdf(content)
   }
 
   // Try section marker approach if section_id is provided
@@ -82,9 +88,9 @@
         
         // Extract section content with or without markers
         if include_markers {
-          return content.slice(start_pos, actual_end + end_marker.len())
+          return sanitize_markdown_for_pdf(content.slice(start_pos, actual_end + end_marker.len()))
         } else {
-          return content.slice(search_start, actual_end).trim()
+          return sanitize_markdown_for_pdf(content.slice(search_start, actual_end).trim())
         }
       }
     }
@@ -138,12 +144,12 @@
       }
       
       // Extract section content
-      return lines.slice(start_index, end_index).join("\n").trim()
+      return sanitize_markdown_for_pdf(lines.slice(start_index, end_index).join("\n").trim())
     }
   }
   
   // Fall back to returning entire file content if no matches found
-  return content
+  return sanitize_markdown_for_pdf(content)
 }
 
 // Store the actual build date (today's date)
