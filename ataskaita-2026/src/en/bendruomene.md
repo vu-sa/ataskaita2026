@@ -8,7 +8,7 @@ import teamPhotos from "../data/teamPhotos.json";
 import PhotoGrid from '@/PhotoGrid.vue'
 
 // Get all representatives coordinators from all units
-const atstovai = getPersonsByRole("Atstovų koordinator", "padaliniai");
+const atstovai = getPersonsByRole(["Atstovų koordinator", "Atstov(i)ų"], "padaliniai");
 
 // Get academic process coordinators  
 const akademiniai = getPersonsByRole("Akademinio proceso", "padaliniai");
@@ -31,7 +31,7 @@ const zmogiskieji = getPersonsByRole("Žmogiškųjų išteklių koordinator", "p
 // Get integration coordinators
 const integracija = getPersonsByRole("Integracijos proceso koordinator", "padaliniai");
 
-const isac = getPersonsByRole("Tarptautinių studentų reikalų koordinator", "padaliniai");
+const isac = getPersonsByRole(["Tarptautinių studentų reikalų koordinator", "Tarptautinių studentų (-čių) reikalų koordinator"], "padaliniai");
 
 // administratoriai
 

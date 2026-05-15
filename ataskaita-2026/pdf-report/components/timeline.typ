@@ -2,8 +2,8 @@
   content: "",
   index: 1,
   type: "default",
-  primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13"),
+  primaryColor: rgb("#bd2835"),
+  accentColor: rgb("#fbb01b"),
   is-last: false,
   english: false,
 ) = {
@@ -57,11 +57,11 @@
       place(
         top + left,
         dx: line-x,
-        dy: dot-y + dot-size, 
+        dy: dot-y + dot-size,
         box(
           height: 35pt,
           width: line-width,
-          fill: rgb("#d9d9d9")
+          fill: rgb(189, 40, 53, 41)  // brandHairline — visual continuity with web .dot-grid
         )
       )
     }
@@ -99,8 +99,8 @@
 
 #let goal-timeline(
   items: (),
-  primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13"),
+  primaryColor: rgb("#bd2835"),
+  accentColor: rgb("#fbb01b"),
   english: false
 ) = {
   // Timeline container with improved padding
@@ -124,24 +124,29 @@
 #let goal-results(
   content,
   header: none,
-  primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13"),
+  primaryColor: rgb("#bd2835"),
+  accentColor: rgb("#fbb01b"),
   english: false
 ) = {
-  // Set default header based on language
   let default-header = if english { "What was implemented?" } else { "Kas įgyvendinta?" }
   let display-header = if header == none { default-header } else { header }
-  
-  // A styled box for showing the goal results
+
+  // Mirrors .custom-block.tip: warm-band fill, red left edge, red header.
   block(
     width: 100%,
-    fill: accentColor.lighten(90%),
-    stroke: (left: 4pt + accentColor),
-    radius: 3pt,
+    fill: rgb("#fdf2e4"),
+    stroke: (left: 4pt + primaryColor),
+    radius: 0pt,
     inset: (x: 1.2em, y: 1em),
   )[
-    #text(weight: "bold", size: 1.1em)[☑️ #display-header]
-    
+    #grid(
+      columns: (auto, auto),
+      column-gutter: 0.5em,
+      align: horizon,
+      rect(width: 18pt, height: 3pt, fill: primaryColor, stroke: none),
+      text(weight: "bold", size: 1.1em, fill: primaryColor)[#display-header],
+    )
+    #v(0.4em)
     #content
   ]
 }

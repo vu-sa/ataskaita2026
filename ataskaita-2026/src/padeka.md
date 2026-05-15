@@ -20,6 +20,7 @@ VU SA 2025-2026 m. ataskaitos projektą koordinavo: **Samanta Valiušaitytė**
 
 - WEB maketą rengė: **Martynas Matijošius**
 - Lietuvišką tekstą redagavo: **Austėja Simonaitytė, Mila Mašauskaitė**
+- Tekstą į anglų kalbą vertė ir redagavo: **Jokūbas Jurgaitis, Neitas St**
 - Vizualinį turinį atrinko ir ruošė: **Eivinas Zableckas**
 - Bendruomenės fotosesijos nuotraukų autorius: **Ugnius Bagdonavičius**  
 

@@ -1,43 +1,47 @@
+// Pull-quote — warm-band surface with a red left edge (callout pattern)
+// and yellow decorative quote marks. Together red + yellow balance the
+// brand identity in editorial breakouts.
+
 #let pull-quote(
   quote-text: "",
   author: none,
-  primaryColor: rgb("#fbad13"),
-  accentColor: rgb("#b5333e"),
+  primaryColor: rgb("#bd2835"),
+  accentColor: rgb("#fbb01b"),
 ) = {
   block(
-    fill: primaryColor.lighten(95%), // Very light primary fill
-    radius: 2pt, // Slightly smaller radius
+    fill: rgb("#fdf2e4"),
+    stroke: (left: 3pt + primaryColor),
+    radius: 0pt,
     width: 100%,
-    inset: (x: 1.5em, y: 1em), // Adjusted inset
-    // stroke: (bottom: 1pt + primaryColor.lighten(70%)) // Optional: very subtle bottom border
+    inset: (x: 1.5em, y: 1em),
   )[
     #align(center)[
       #text(
-        size: 2.5em, // Larger, more stylized quote marks
+        size: 2.5em,
         style: "italic",
-        fill: primaryColor.darken(10%)
-      )[“] // Using typographic quotes
-      #h(0.1em) // Less horizontal space
+        fill: accentColor.darken(10%),
+      )[“]
+      #h(0.1em)
       #text(
-        size: 1.15em, // Adjusted to new base font size
+        size: 1.15em,
         style: "italic",
-        fill: black.lighten(25%) // Softer text color
+        fill: rgb("#1c1517").lighten(15%),
       )[#quote-text]
       #h(0.1em)
       #text(
         size: 2.5em,
         style: "italic",
-        fill: primaryColor.darken(10%)
-      )[”] // Using typographic quotes
-      
+        fill: accentColor.darken(10%),
+      )[”]
+
       #if author != none [
-        #v(0.8em) // More space before author
+        #v(0.8em)
         #align(right)[
           #text(
             size: 0.9em,
-            weight: "semibold", // Semibold for author
-            style: "italic",    // Italic author
-            fill: accentColor.darken(15%) // Accent color for author
+            weight: "semibold",
+            style: "italic",
+            fill: primaryColor.darken(5%),
           )[— #author]
         ]
       ]

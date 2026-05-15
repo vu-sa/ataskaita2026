@@ -16,15 +16,20 @@
 #import "components/callout.typ": callout
 #import "components/timeline.typ": goal-timeline, goal-results
 
-// Define main colors from brand guidelines (New Scheme)
-#let brandBlack = rgb("#1A1A1A") // A very dark, almost black for primary text & elements
-#let brandGold = rgb("#fbad13")   // Amber/gold as a primary accent
-#let brandRed = rgb("#b5333e")    // Dark red as a secondary accent
+// Brand tokens — mirrored from .vitepress/theme/style.css (--vusa-* variables)
+#let brandRed = rgb("#bd2835")          // VU SA red — primary brand
+#let brandRedDeep = rgb("#8c1d27")      // Deep red for gradients / hover
+#let brandYellow = rgb("#fbb01b")       // VU SA yellow — accent
+#let brandYellowDeep = rgb("#de9503")   // Deep yellow for emphasis
+#let brandInk = rgb("#1c1517")          // Body text / hero title
+#let brandBand = rgb("#fdf2e4")         // Warm surface for callouts and bands
+#let brandHairline = rgb(189, 40, 53, 41) // Red @ ~16% — hairlines + dot-grid dots
 
-// Redefine theme colors for the project setup
-#let primaryColor = brandBlack   // Main operations will use black
-#let accentColor = brandGold     // Main accent will be gold
-// brandRed will be used explicitly where needed
+// Theme bindings — keep parameter names (primaryColor/accentColor/secondaryAccent)
+// stable so every component's public API works unchanged.
+#let primaryColor = brandRed     // Red is the new primary
+#let accentColor = brandYellow   // Yellow is the editorial accent
+#let secondaryAccent = brandInk  // Ink for dark text where red would be too loud
 
 // Helper functions to read file content with more flexibility
 #let sanitize_markdown_for_pdf(content) = {
@@ -167,20 +172,27 @@
   language: "lt",
   primaryColor: primaryColor,
   accentColor: accentColor,
-  secondaryAccent: brandRed,
+  secondaryAccent: secondaryAccent,
 )
 
 #title-page(
   title: "VU SA  Metų veiklos ataskaita",
   subtitle: "2025-2026 mokslo metai",
-  logo: "../src/public/img/logos/vusa-lt-w.png",
+  logo: "../src/public/img/logos/vusa-lt-b.png",
   primaryColor: primaryColor,
   accentColor: accentColor,
-  secondaryAccent: brandRed,
+  secondaryAccent: secondaryAccent,
   date: "2026 m. gegužė"
 )
 
 ///////
+
+#styled-toc(
+  primaryColor: primaryColor,
+  accentColor: accentColor
+)
+
+#pagebreak()
 
 #section-page(
   title: "Sveikinimo žodžiai",
@@ -195,13 +207,6 @@
 )
 
 #cmarker.render(read_file_section("./src/prezidentes-kalba.md", section_id: "presidents-letter"), h1-level: 2)
-
-#pagebreak()
-
-#styled-toc(
-  primaryColor: primaryColor,
-  accentColor: accentColor
-)
 
 #pagebreak()
 
@@ -1459,7 +1464,7 @@ VU SA Parlamentui pirmininkavo Gabrielė Kasperaitė.
 // --- End of main content ---
 #end-page(
   thanks-text: "Vieningai Už Studentų (-čių) Ateitį!",
-  logo: "../src/public/img/logos/vusa-lt-w.png",
+  logo: "../src/public/img/logos/vusa-lt-b.png",
   primaryColor: primaryColor,
   accentColor: accentColor,
 )

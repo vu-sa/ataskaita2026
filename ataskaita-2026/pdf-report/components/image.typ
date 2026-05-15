@@ -1,31 +1,33 @@
+// Styled image — clean yellow → red linear gradient border carries the
+// brand pair (.dot-grid + .notch-corner motifs from style.css) without
+// over-stating either color alone.
+
 #let styled-image(
   path,
   caption: none,
   width: 100%,
-  primaryColor: rgb("#fbad13"), // This color might be used for a subtle accent if needed
+  primaryColor: rgb("#bd2835"),    // VU SA red
+  accentColor: rgb("#fbb01b"),     // VU SA yellow
 ) = {
   figure(
     box(
       width: 100%,
-      inset: 0.2em, // Slightly reduced inset for a tighter border
+      inset: 0.2em,
       stroke: (
-        thickness: 1.5pt, // Thinner stroke
+        thickness: 1.5pt,
         paint: gradient.linear(
           angle: 90deg,
-          primaryColor.lighten(10%), // Darker start/end for more definition
-          primaryColor.lighten(40%), // Lighter middle
-          primaryColor.lighten(10%)
-        )
+          accentColor,
+          primaryColor,
+        ),
       ),
-      radius: 3pt, // Slightly larger radius for a softer look
+      radius: 3pt,
       clip: true,
       image(path, width: width)
     ),
     caption: if caption != none [
-      // Caption styling will be inherited from the `show figure` rule in layout.typ
-      // for consistency. We just pass the caption content.
       #caption
     ],
-    supplement: none // Explicitly keeping supplement as none, as is good practice
+    supplement: none
   )
 }

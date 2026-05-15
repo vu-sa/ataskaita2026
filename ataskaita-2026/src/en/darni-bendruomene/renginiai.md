@@ -78,7 +78,7 @@ This year, more than ever before, the organization stood out for the abundance o
 
 - Community Evening
 
-## VU SR FPhil Birthday
+- VU SR FPhil Birthday
 
 - “Food for Animals” Campaign
 

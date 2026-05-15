@@ -1,4 +1,5 @@
 // Template for VU SA Annual Report
+// Design tokens mirrored from .vitepress/theme/style.css
 
 // Template function for creating a styled project document
 #let project(
@@ -8,9 +9,9 @@
   description: none,
   keywords: (),
   language: "lt",
-  primaryColor: rgb("#1A1A1A"),  // Default to dark black
-  accentColor: rgb("#fbad13"),   // Default to amber-gold
-  secondaryAccent: rgb("#b5333e"), // Default to red
+  primaryColor: rgb("#bd2835"),    // VU SA red — primary brand
+  accentColor: rgb("#fbb01b"),     // VU SA yellow — editorial accent
+  secondaryAccent: rgb("#1c1517"), // Ink — for body / dark text
   body
 ) = {
   // Set the document's basic properties
@@ -28,22 +29,22 @@
   )
   
   // ---- Apply text styles
-  set text(font: "Atkinson Hyperlegible", size: 11.5pt) // Slightly smaller base font for a denser, modern feel
+  set text(font: "Atkinson Hyperlegible", size: 11.5pt, fill: secondaryAccent)
 
   // Paragraphs configuration
-  set par(justify: false, leading: 0.7em) // Adjusted leading
-  
-  // Link styling
+  set par(justify: false, leading: 0.7em)
+
+  // Link styling — red, semibold (web links are yellow but red is more legible on white)
   show link: it => [
-    #text(fill: accentColor.darken(10%), weight: "semibold")[#it] // Darker accent for links
+    #text(fill: primaryColor, weight: "semibold")[#it]
   ]
-  
-  // Block quote styling
+
+  // Block quote — warm band fill + red left edge, matches .custom-block.tip
   show quote: block.with(
-    fill: primaryColor.lighten(92%), // Lighter fill
-    radius: 3pt, // Slightly larger radius
-    inset: (x: 1.2em, y: 0.9em), // Adjusted inset
-    stroke: (left: 2.5pt + primaryColor.darken(5%)) // Thinner, slightly darker border
+    fill: rgb("#fdf2e4"),
+    radius: 0pt,
+    inset: (x: 1.2em, y: 0.9em),
+    stroke: (left: 3pt + primaryColor)
   )
   
   // Figure styling
@@ -86,42 +87,40 @@
     it
   }
   
-  // Apply heading styles
+  // Apply heading styles — echo the web index design language:
+  // ink-colored bold titles with short yellow accent bars (matches
+  // .vp-doc > div > h1:first-child::after in style.css).
   set heading(numbering: "1.1")
   show heading: it => [
-    #v(1.2em, weak: true) // Adjusted vertical spacing, weak to allow collapsing
+    #v(1.2em, weak: true)
     #block[
       #set text(weight: "bold")
       #if it.level == 1 [
-        #set text(size: 2em, fill: primaryColor.darken(15%)) // Larger, darker primary for H1
+        #set text(size: 2em, fill: secondaryAccent)
         #it.body
-        #line(
-          length: 100%,
-          stroke: 2.5pt + primaryColor.darken(5%) // Thicker line, slightly darker
-        )
-        #v(0.3em) // Space after line
+        #v(0.3em)
+        #line(length: 2.5em, stroke: 4pt + accentColor)
+        #v(0.2em)
       ] else if it.level == 2 [
-        #set text(size: 1.4em, fill: accentColor.darken(10%)) // Larger, darker accent for H2
+        #set text(size: 1.4em, fill: secondaryAccent)
         #it.body
-        #line(
-          length: 50%, // Slightly longer line
-          stroke: 2pt + accentColor // Thinner line for H2
-        )
-        #v(0.2em) // Space after line
-      ] else [ // H3 and below
-        #v(0.8em) // Space before text
+        #v(0.25em)
+        #line(length: 1.8em, stroke: 3pt + accentColor)
+        #v(0.1em)
+      ] else [
+        #v(0.8em)
         #box(
           fill: none,
-          stroke: (left: 2.5pt + primaryColor.lighten(20%)), // Slightly thicker, lighter border
-          inset: (left: 0.6em, top: 0.1em, bottom: 0.1em), // Adjusted inset
+          stroke: (left: 3pt + accentColor),
+          inset: (left: 0.6em, top: 0.1em, bottom: 0.1em),
         )[
-          #set text(size: 1.15em, weight: "semibold", fill: black.lighten(10%)) // Semibold, slightly lighter black
+          #set text(size: 1.15em, weight: "semibold", fill: secondaryAccent)
           #it.body
         ]
-        #v(0.8em) // Space after text
+        #v(0.8em)
       ]
     ]
-    #v(0.6em, weak: true) // Adjusted vertical spacing
+    #v(0.6em, weak: true)
   ]
   
   // Main body

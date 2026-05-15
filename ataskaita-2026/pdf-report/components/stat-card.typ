@@ -1,39 +1,39 @@
+// Stat card — yellow top edge (energy cue, matches the web period-underline
+// motif), red value, ink label, thin red hairline at the bottom.
+
 #let stat-card(
   value: "",
   label: "",
   icon: none,
-  primaryColor: rgb("#fbad13"),
-  accentColor: rgb("#b5333e"),
+  primaryColor: rgb("#bd2835"),    // VU SA red
+  accentColor: rgb("#fbb01b"),     // VU SA yellow
 ) = {
   box(
     width: 100%,
     fill: white,
     stroke: (
-      top: 2.5pt + primaryColor.darken(5%), // Slightly thinner, darker top stroke
-      // Optional: Add a very subtle full border for definition
-      // rest: 0.5pt + black.lighten(90%)
+      top: 3pt + accentColor,
+      bottom: 0.6pt + primaryColor,
     ),
-    radius: 2pt, // Slightly smaller radius for a sharper look
-    inset: (x: 0.8em, y: 1em), // Adjusted inset for better spacing
-    // Add a light shadow if desired and easily supported, for now using borders
+    radius: 0pt,
+    inset: (x: 0.8em, y: 1em),
   )[
     #align(center)[
       #if icon != none {
-        // Icon styling: Using accentColor for visual interest
-        align(center, image(icon, width: 2.3em)) // Slightly smaller icon
-        v(0.6em) // Adjusted spacing
+        align(center, image(icon, width: 2.3em))
+        v(0.6em)
       }
       #text(
-        size: 2.1em, // Slightly adjusted value size
+        size: 2.1em,
         weight: "bold",
-        fill: primaryColor.darken(10%) // Darker primary for better contrast
+        fill: primaryColor.darken(5%),
       )[#value]
-      
-      #v(0.4em) // Adjusted spacing
+
+      #v(0.4em)
       #text(
-        size: 1em, // Adjusted label size
-        weight: "regular", // Regular weight for a cleaner look than medium
-        fill: black.lighten(30%) // Softer label color
+        size: 1em,
+        weight: "regular",
+        fill: rgb("#1c1517").lighten(25%),
       )[#label]
     ]
   ]

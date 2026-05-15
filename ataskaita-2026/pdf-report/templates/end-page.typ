@@ -1,64 +1,90 @@
+// End page — mirrors the title page: light background with a dot-grid,
+// red eyebrow + yellow accent bar above ink-colored thanks text, and the
+// shared red+yellow two-band bottom stripe.
+
+#import "title-page.typ": dot-grid-bg
+
 #let end-page(
   thanks-text: "Ačiū",
   logo: none,
-  primaryColor: rgb("#1A1A1A"),  // Default to dark black
-  accentColor: rgb("#fbad13"),   // Default to amber-gold
-  secondaryAccent: rgb("#b5333e"), // Default to red
+  primaryColor: rgb("#bd2835"),    // VU SA red
+  accentColor: rgb("#fbb01b"),     // VU SA yellow
+  secondaryAccent: rgb("#1c1517"), // Ink
+  eyebrow: "VU SA",
 ) = {
   page(
     margin: (x: 0mm, y: 0mm),
-    fill: white, // Base fill, though parts will be covered
+    fill: white,
   )[
-    // --- Background Elements ---
-    // Dominant primary color block covering the entire page (same as title page)
-    #place(left + top, dx: 0pt, dy: 0pt)[
-      #rect(width: 100%, height: 100%, fill: primaryColor) // Full page background
-    ]
-    
-    // Thin accent strip at bottom for subtle branding (similar to section page)
-    #place(left + bottom, dx: 0pt, dy: 0pt)[
-      #rect(width: 100%, height: 5mm, fill: accentColor)
-    ]
+    // Dot-grid backdrop
+    #place(left + top, dx: 0pt, dy: 0pt, dot-grid-bg())
 
-    // --- Content Elements ---
-    // Logo: Small, positioned at top-left within margin (same as title page)
+    // Soft radial fade so dots concentrate behind the thanks text
+    #place(left + top, dx: 0pt, dy: 0pt,
+      rect(
+        width: 100%, height: 100%,
+        fill: gradient.radial(
+          white.transparentize(100%),
+          white.transparentize(60%),
+          white,
+          center: (50%, 50%),
+          radius: 75%,
+        ),
+        stroke: none,
+      )
+    )
+
+    // Logo, centered near the top
     #if logo != none {
-      place(left + top, dx: 13mm, dy: 20mm)[
-        #image(logo, width: 20%) // Same size as title page
+      place(center + top, dy: 30mm)[
+        #image(logo, height: 45mm)
       ]
     }
 
-    // "Thank You" Text: Large, bold, and contrasting (matching title page style)
-    #place(left + top, dx: 20mm, dy: 55%)[
-      #block(width: 70%)[
-        // Splitting text for potential multi-line effect if very long (like title page)
-        #let thanks_words = thanks-text.split(" ")
-        #let half = calc.ceil(thanks_words.len() / 2)
-        #let line1 = thanks_words.slice(0, half).join(" ")
-        #let line2 = thanks_words.slice(half).join(" ")
-
-        #set par(leading: 0.4em)
-
-        #text(
-          fill: white, // Contrast against primaryColor background
-          font: "Atkinson Hyperlegible", 
-          weight: "extrabold", // Very bold
-          size: 4.5em, // Same size as title page
-        )[#thanks-text]
-      ]
-    ]
-
-    // Small accent text at bottom (in place of the subtitle on title page)
-    #place(left + bottom, dx: 20mm, dy: -25mm)[
-      #block(width: 60%)[
-        #text(
-          fill: accentColor.lighten(10%), // Accent color for visual consistency
+    // Eyebrow with red tick
+    #place(center + top, dy: 110mm)[
+      #grid(
+        columns: (auto, auto),
+        column-gutter: 0.7em,
+        align: horizon,
+        rect(width: 24pt, height: 3pt, fill: primaryColor, stroke: none),
+        text(
           font: "Atkinson Hyperlegible",
-          weight: "semibold",
-          size: 1.8em, // Same size as subtitle on title page
-        )[VU SA]
+          size: 0.85em,
+          weight: "bold",
+          fill: primaryColor,
+          tracking: 0.18em,
+        )[#upper(eyebrow)]
+      )
+    ]
+
+    // Thanks text — ink-colored, extrabold, centered
+    #place(center + top, dy: 130mm)[
+      #block(width: 75%)[
+        #align(center)[
+          #set par(leading: 0.4em)
+          #text(
+            fill: secondaryAccent,
+            font: "Atkinson Hyperlegible",
+            weight: "extrabold",
+            size: 3.6em,
+            tracking: -0.01em,
+          )[#thanks-text]
+        ]
       ]
     ]
+
+    // Yellow accent bar under the thanks text
+    #place(center + top, dy: 200mm)[
+      #align(center)[
+        #rect(width: 2.5em, height: 4pt, fill: accentColor, stroke: none)
+      ]
+    ]
+
+    // Bottom red + yellow two-band stripe
+    #place(left + bottom, dx: 0pt, dy: -2mm,
+      rect(width: 100%, height: 2mm, fill: accentColor, stroke: none))
+    #place(left + bottom, dx: 0pt, dy: -5mm,
+      rect(width: 100%, height: 3mm, fill: primaryColor, stroke: none))
   ]
-  // No pagebreak here, as it's the final page.
 }

@@ -78,7 +78,7 @@ Kaip ir kasmet, 2025 m. naujus mokslo metus pradėjome tradicine viso Vilniaus u
 
 - Bendruomenės vakaras
 
-## VU SA FilF gimtadienis
+- VU SA FilF gimtadienis
 
 - Akcija “Maistas gyvūnams”
 

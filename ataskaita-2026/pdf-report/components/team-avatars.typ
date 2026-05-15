@@ -6,8 +6,8 @@
   // Required parameters
   person,
   // Design parameters
-  primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13"),
+  primaryColor: rgb("#bd2835"),
+  accentColor: rgb("#fbb01b"),
   avatarSize: "normal",
   showTitle: true,
   showPadalinys: true,
@@ -46,13 +46,13 @@
           )
         ] else [
           #circle(
-            radius: size / 2, 
-            stroke: none, 
-            fill: accentColor.lighten(70%)
+            radius: size / 2,
+            stroke: none,
+            fill: rgb("#fdf2e4")  // brandBand — warm fallback surface
           )[
             #align(center + horizon)[
               #text(
-                primaryColor.darken(20%),
+                primaryColor.darken(10%),
                 weight: "bold",
                 size: size * 0.4,
               )[#person.name.split(" ").map(word => word.at(0)).join("")]
@@ -70,7 +70,7 @@
           #text(
             size: 0.75em,
             weight: "regular",
-            fill: primaryColor.lighten(30%),
+            fill: primaryColor,
           )[#person.padalinys]
         ]
         
@@ -98,8 +98,8 @@
   members,
   // Optional parameters
   columns: 2,
-  primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13"),
+  primaryColor: rgb("#bd2835"),
+  accentColor: rgb("#fbb01b"),
   avatarSize: "normal",
   showTitle: true,
   showPadalinys: true,
@@ -181,8 +181,8 @@
   // Design parameters
   photo: none,
   photoCaption: none,
-  primaryColor: rgb("#1A1A1A"),
-  accentColor: rgb("#fbad13"),
+  primaryColor: rgb("#bd2835"),
+  accentColor: rgb("#fbb01b"),
   columns: 2,
   avatarSize: "normal",
   showTitle: true,
