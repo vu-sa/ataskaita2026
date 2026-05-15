@@ -14,4 +14,4 @@
 
 Buvo vykdomi parengiamieji darbai atnaujintam informaciniam leidiniui, atsižvelgiant į atnaujintą tvarkos aprašą, bei rengiamas vidiniam naudojimui skirtas duomenų apsaugos grupės dokumentas – incidentų valdymo žingsnių planas.
 
-Ataskaitiniu laikotarpiu įvyko 3 duomenų apsaugos grupės susirinkimai. Veikla buvo nuolat derinama bendrame narių ir Prezidentės susirašinėjime. Baigiantis ataskaitiniam laikotarpiui buvo parengti planai būsimam laikotarpiui.
+Ataskaitiniu laikotarpiu įvyko 3 duomenų apsaugos grupės susirinkimai. Baigiantis ataskaitiniam laikotarpiui buvo parengti planai būsimam laikotarpiui.

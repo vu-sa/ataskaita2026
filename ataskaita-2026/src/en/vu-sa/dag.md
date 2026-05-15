@@ -14,4 +14,4 @@ In 2025–2026, the Data Protection Group operated in accordance with the planne
 
 Preparatory work was carried out for an updated informational publication, taking into account the updated procedure description, and a document for the data protection group intended for internal use—an incident management step-by-step plan—was prepared.
 
-During the reporting period, three Data Protection Group meetings were held. Activities were continuously coordinated through communication between members and the President. By the end of the reporting period, plans for the upcoming period had been prepared.
+During the reporting period, three Data Protection Group meetings were held. By the end of the reporting period, plans for the upcoming period had been prepared.

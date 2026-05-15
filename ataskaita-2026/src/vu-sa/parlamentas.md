@@ -29,8 +29,8 @@ VU SA Parlamentui pirmininkavo Viktorija Amankavičiūtė.
 - **VU SA FilF:** Gabija Smailytė, Rugilė Zastarskytė, Sofija Vozniuk (iki gruodžio mėn.), Anelija Slabenko (nuo gruodžio mėn.)
 - **VU SA FsF:** Austėja Pupelytė, Aleksandra Vaskevičiūtė, Daniela Aželskaitė
 - **VU SA GMC:** Urtė Akulavičiūtė (iki gruodžio mėn.), Ada Putrytė (nuo gruodžio mėn.), Viktorija Amankavičiūtė, Urtė Vizgirdaitė
-- **VU SA IF:** Meda Andrulytė, Jokūnas Tvaska, Simonas Voroblievas
-- **VU SA KnF:** Evelina Martinkutė, Gertrūda Leonavičiūtė, Kristina Dabrišiūtė
+- **VU SA IF:** Meda Andrulytė, Jokūbas Tvaska, Simonas Voroblievas
+- **VU SA KnF:** Rimantė Kelpšaitė (iki liepos mėn.), Evelina Martinkutė, Gertrūda Leonavičiūtė, Kristina Dabrišiūtė
 - **VU SA KF:** Akvilė Banytė, Gerda Kapočiūtė, Austėja Stražinskaitė
 - **VU SA MF:** Agata Bruzgul, Roberta Kirkliauskaitė, Margharyta Sytaya
 - **VU SA MIF:** Gintarė Antulytė, Roberta Jurpalytė, Saulė Gylytė

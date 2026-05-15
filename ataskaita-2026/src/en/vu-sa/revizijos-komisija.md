@@ -18,4 +18,4 @@ During the meetings, an assessment was made of whether VU SR (U), the VU SR Parl
 
 The Revision Commission also provided clarifications on documents regulating activities and advised VU SR members on various issues — 5 clarifications were issued. During the reporting period, the Revision Commission presented an interim activity report at an open meeting of the VU SR Parliament.
 
-The Revision Commission submits the report on the evaluation of the organization’s activities during the VU SR reporting and election conference (the evaluation report is available [here](https://www.vusa.lt/lt/veiklos-ir-tyrimu-ataskaitos)).
+The Revision Commission submits the report on the evaluation of the organization’s activities during the VU SR reporting and election conference (the evaluation report is available [here](https://www.vusa.lt/lt/dokumentai?contentTypes%5B%5D=Veiklos+ataskaitos)).

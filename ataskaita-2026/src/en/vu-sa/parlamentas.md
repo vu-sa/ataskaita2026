@@ -24,8 +24,8 @@ VU SR Parliament was chaired by Viktorija Amankavičiūtė.
 - **VU SR FPhil:** Gabija Smailytė, Rugilė Zastarskytė, Sofija Vozniuk (until December), Anelija Slabenko (from December)
 - **VU SR FPhilos:** Austėja Pupelytė, Aleksandra Vaskevičiūtė, Daniela Azelskaitė
 - **VU SR LSC:** Urtė Akulavičiūtė (until December), Ada Putrytė (from December), Viktorija Amankavičiūtė, Urtė Vizgirdaitė
-- **VU SR FH:** Meda Andrulytė, Jokūnas Tvaska, Simonas Voroblievas
-- **VU SR KnF:** Evelina Martinkutė, Gertrūda Leonavičiūtė, Kristina Dabrišiūtė
+- **VU SR FH:** Meda Andrulytė, Jokūbas Tvaska, Simonas Voroblievas
+- **VU SR KnF:** Rimantė Kelpšaitė (until July), Evelina Martinkutė, Gertrūda Leonavičiūtė, Kristina Dabrišiūtė
 - **VU SR FC:** Akvilė Banytė, Gerda Kapočiūtė, Austėja Stražinskaitė
 - **VU SR FM:** Agata Bruzgul, Roberta Kirkliauskaitė, Margharyta Sytaya
 - **VU SR FMI:** Gintarė Antulytė, Roberta Jurpalytė, Saulė Gylytė

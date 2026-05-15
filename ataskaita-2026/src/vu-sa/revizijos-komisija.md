@@ -18,4 +18,4 @@ Susitikimų metu buvo vertinama, ar VU SA (P), VU SA Parlamentas, VU SA Taryba, 
 
 Revizijos komisija taip pat teikė veiklą reglamentuojančių dokumentų išaiškinimus ir konsultavo VU SA narius (-es) įvairiais klausimais – buvo pateikta 5 išaiškinimai. Revizijos komisija ataskaitiniu laikotarpiu atvirame VU SA Parlamento posėdyje pristatė tarpinę veiklos ataskaitą.
 
-Organizacijos veiklos vertinimo ataskaitą Revizijos komisija teikia VU SA ataskaitinės-rinkiminės konferencijos metu (su vertinimo ataskaita galima susipažinti [čia](https://www.vusa.lt/lt/veiklos-ir-tyrimu-ataskaitos)).
+Organizacijos veiklos vertinimo ataskaitą Revizijos komisija teikia VU SA ataskaitinės-rinkiminės konferencijos metu (su vertinimo ataskaita galima susipažinti [čia](https://www.vusa.lt/lt/dokumentai?contentTypes%5B%5D=Veiklos+ataskaitos)).
