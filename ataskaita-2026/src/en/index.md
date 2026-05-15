@@ -4,6 +4,7 @@ layout: home
 
 <script setup lang="ts">
 import { computed } from 'vue';
+import congrats from "../data/congrats.json"
 import stats from "../data/stats.json"
 import galleryImages from "../data/gallery.json"
 import timelineData from "../data/timeline.json"
@@ -15,6 +16,7 @@ import PersonAvatar from "@/PersonAvatar.vue";
 import EnhancedNumberStatistic from "@/EnhancedNumberStatistic.vue";
 import ImageMosaic from "@/ImageMosaic.vue";
 import InteractiveTimeline from "@/InteractiveTimeline.vue";
+import TestimonialCarousel from "@/TestimonialCarousel.vue";
 
 import { Building, Star, Lightbulb, Users, Turtle } from 'lucide-vue-next';
 
@@ -52,14 +54,14 @@ const timelineEvents = timelineData.en;
     <figure class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-8">
       <figcaption class="text-left order-2 md:order-1 flex flex-col border-l-4 border-[var(--vusa-red)] pl-6">
         <p class="text-md font-medium italic mb-4 leading-6!">
-          “We will enter the upcoming academic year with newly approved strategic projects that touch every member of our community.”
+          “For the 37th year now, we step forward united for the future of students. This year is no exception. Just as I did a year ago, I am proud of the Organization today—its growth and the quality of its activities—and I end my term by inviting you to pause, reflect, and look back at what we have managed to accomplish this year.”
         </p>
         <p class="font-bold mb-4 leading-6!">
-          I invite you to explore the work done throughout the year in the VU SR 2025-2026 report.
+          I invite you to explore all the work done throughout the year in the VU SR 2025–2026 annual report. Sincere thanks to you for this year, and let's continue working “United for the future of students!”
         </p>
         <PersonAvatar class="mt-4" :src="`/img/people/${people[0]['Nuotraukos pavadinimas']}`" size="small">
-          <p style="margin: 0" class="font-bold leading-5!">{{ people[0]['Vardas Pavardė'] }}</p>
-          <p style="margin: 0" class="opacity-80 text-sm">{{ people[0]['Pareigos'] }}</p>
+          <p style="margin: 0" class="font-bold leading-5!">Klėja Merčaitytė</p>
+          <p style="margin: 0" class="opacity-80 text-sm">President</p>
         </PersonAvatar>
       </figcaption>
       <video playsinline autoplay controls muted loop class="mx-auto order-1 md:order-2 z-20 shadow-lg notch-corner aspect-video w-full">
@@ -110,6 +112,15 @@ const timelineEvents = timelineData.en;
       title="VU SR moments"
       :images="galleryImages.en"
     />
+  </div>
+</section>
+
+<!-- Testimonials -->
+<section class="section-band lg:px-2 px-1.5 isolate py-16">
+  <div class="max-w-6xl mx-auto">
+    <span class="section-eyebrow"><span class="eyebrow-num">05</span> Congratulations</span>
+    <h2 class="text-center mb-12 mt-4">Congratulatory Words</h2>
+    <TestimonialCarousel :testimonials="congrats.en" link="/en/sveikinimai" button-text="Read greeting" />
   </div>
 </section>
 

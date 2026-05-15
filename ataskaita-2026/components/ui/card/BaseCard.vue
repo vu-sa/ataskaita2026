@@ -37,6 +37,10 @@ defineProps({
   transition: filter 0.3s ease, transform 0.3s ease;
 }
 
+.dark .vusa-card-wrap {
+  filter: none;
+}
+
 .vusa-card-wrap:hover {
   transform: translateY(-4px);
 }

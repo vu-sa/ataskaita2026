@@ -124,7 +124,7 @@ onMounted(async () => {
   position: absolute;
   top: 0.5rem;
   bottom: 0.5rem;
-  left: 1.25rem;
+  left: calc(1.25rem - 1.5px);
   width: 3px;
   background: linear-gradient(
     to bottom,
@@ -137,7 +137,7 @@ onMounted(async () => {
 
 @media (min-width: 768px) {
   .timeline-rail {
-    left: 1.75rem;
+    left: calc(1.75rem - 1.5px);
   }
 }
 
