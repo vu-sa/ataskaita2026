@@ -30,6 +30,11 @@ const goals = {
     { type: 'warning', content: 'Approved guidelines for the use of AI by the VU FPhis Council.' },
     { type: 'warning', content: 'VU FPhis students and lecturers are informed about the possibilities of using DI and the approved guidelines for using DI through at least 4 communication channels.' },
   ],
+  'gmc': [
+    { type: 'warning', content: 'The survey revealed that 10% of students found their internship through the internship website.' },
+    { type: 'warning', content: 'The improvement of the competencies of internship supervisors has been implemented.' },
+    { type: 'warning', content: 'At least 50% of respondents say they are aware of the internship process.' },
+  ],
   '6': [
     { type: 'warning', content: 'Students from 10 modules state that Virtual Learning Environment (VLE) is the main communication platform for lecturers and students and is used consistently.' },
     { type: 'warning', content: '40% of VU FH students complete a survey on feedback received from lecturers.' },
@@ -179,6 +184,26 @@ VU FPhis has prepared and approved guidelines for the use of DI, which have been
 - A preliminary draft of the guidelines was presented at the Study Board meeting. During the Study Board meeting, a decision was made to approve the guidelines separately in each VU FPhilos Studies Program Committee (SPC).
 
 - An event on the topic of AI use and academic literacy was held for students on April 16.
+
+:::
+
+## VU SR LSC
+
+VU LSC students are provided with resources for choosing and completing internships, ensuring a functioning internship system.
+
+<TimelineItemSection :items="goals['gmc']" :english="true" />
+
+::: tip ☑️ What has been implemented?
+
+- VU SR LSC prepared and conducted a survey aimed at determining whether the internship section on the VU LSC website helped students better understand the internship process and find an internship. A total of 176 students from the 2nd to 4th years, representing 7 different study programs, completed the survey. Of the students currently doing an internship, 70% indicated that it was easy to find an internship place, and as many as 97% of respondents stated that they were satisfied with their internship placement (LSC or another institution). 75% of students indicated that they did not know or were unsure where to look or whom to contact for help in finding an internship placement.
+
+- An additional analysis of the VU LSC internship page was carried out, and recommendations were made to the administration aimed at updating the information on the page to make it clearer and help students choose an internship place more easily.
+
+- Discussions were held with representatives of doctoral students, the doctoral school, and the Center for Didactics regarding internships and opportunities to enhance the competencies of internship supervisors. During the meetings, the idea was endorsed to organize training sessions involving a psychologist, an educator, or a didactics specialist, as well as a moderator, who could share their experiences on how to handle critical situations, how to prepare to supervise an internship, and what mistakes to avoid. It was agreed that doctoral students would receive 0.25 ECTS credits for participating in these training sessions.
+
+- A new section titled “Professional Internships” has been added to the VU SR LSC website, featuring detailed information about internships, how to complete them, and the key steps to take before starting an internship. The page was developed in collaboration with the VU LSC administration.
+
+- Students who had completed international internships were identified, and the vision for a communication campaign regarding the international internships offered by VU LSC not only within the unit but also with social partners in Lithuania and abroad was discussed.
 
 :::
 

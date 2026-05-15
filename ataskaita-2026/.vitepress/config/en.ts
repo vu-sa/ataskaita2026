@@ -74,6 +74,12 @@ export default {
                 ]
             },
             {
+                text: 'VU SR faculty reports',
+                items: [
+                    { text: 'VU SR faculty reports', link: '/en/padaliniu-ataskaitos' },
+                ]
+            },
+            {
                 text: 'We give our thanks',
                 items: [
                     { text: 'VU SR community', link: '/en/bendruomene' },

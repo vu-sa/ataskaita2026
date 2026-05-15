@@ -6,7 +6,7 @@ Reintegration Week attracted considerable student interest. There are plans to c
 
 ## Curator and Mentor Program
 
-In 2025, the Mentors Programme involved 275 curators, of whom X participated in mentor training sessions. The training sessions were conducted in three groups, one of which was held in English. During the training, particular emphasis was placed on communication skills, as well as knowledge about Vilnius University Students’ Representation and Vilnius University units.
+In 2025, the Mentors Programme involved 275 curators. The training sessions were conducted in three groups, one of which was held in English. During the training, particular emphasis was placed on communication skills, as well as knowledge about Vilnius University Students’ Representation and Vilnius University units.
 
 Mentors were also actively encouraged to contribute to the organization and promotion of Reintegration Week among first-year students. In some VU SA units mentors organized dedicated meetings and activities for first-year students during Reintegration Week.
 

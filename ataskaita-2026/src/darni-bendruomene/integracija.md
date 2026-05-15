@@ -6,7 +6,7 @@ Reintegracijos savaitė susilaukė studentų (-čių) susidomėjimo. Yra planuoj
 
 ## Kuratorių ir mentorių programa
 
-2025 m. kuratorių ir mentorių programoje veikė 275 kuratoriai (-ės) iš kurių X dalyvavo kuratorių ir mentorių mokymuose. Mokymai vyko trimis srautais, vienas jų - anglų kalba. Mokymų metu buvo akcentuojami kuratorių ir mentorių bendravimo įgūdžiai, žinios apie VU SA ir VU darinius.
+2025 m. kuratorių ir mentorių programoje veikė 275 kuratoriai (-ės). Mokymai vyko trimis srautais, vienas jų - anglų kalba. Mokymų metu buvo akcentuojami kuratorių ir mentorių bendravimo įgūdžiai, žinios apie VU SA ir VU darinius.
 
 Kuratoriai (-ės) ir mentoriai (-ės) buvo aktyviai kviečiami prisijungti prie reintegracijos savaitės organizavimo ir informacijos viešinimo pirmakursiams (-ėms). Kai kurių VU SA padalinių kuratoriai (-ės) ir mentoriai (-ės) organizavo kuratorių ir mentorių valandėles pirmakursiams (-ės) reintegracijos savaitės metu.
 
