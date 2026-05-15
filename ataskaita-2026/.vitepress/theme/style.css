@@ -217,6 +217,53 @@
 .section-band::after { bottom: 0; }
 
 /**
+ * Page title (content pages) — echoes the ReportHero motif:
+ * centered title sitting on a dot-grid backdrop with a soft radial fade
+ * and a yellow accent underline. No animation.
+ * -------------------------------------------------------------------------- */
+
+.vp-doc > div > h1:first-child {
+  position: relative;
+  isolation: isolate;
+  text-align: center;
+  font-size: clamp(2rem, 6vw, 3.25rem);
+  font-weight: 800;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  color: var(--vusa-ink);
+  margin: 0 0 2.5rem;
+  padding: 3.25rem 1.25rem 2.5rem;
+  border: 0;
+}
+
+.vp-doc > div > h1:first-child::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background-image: radial-gradient(var(--vusa-hairline) 1.4px, transparent 1.4px);
+  background-size: 22px 22px;
+  -webkit-mask-image: radial-gradient(ellipse 70% 65% at 50% 45%, #000 0%, transparent 78%);
+  mask-image: radial-gradient(ellipse 70% 65% at 50% 45%, #000 0%, transparent 78%);
+  opacity: 0.9;
+}
+
+.vp-doc > div > h1:first-child::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 1.25rem;
+  transform: translateX(-50%);
+  width: 2.5rem;
+  height: 4px;
+  background: var(--vusa-yellow);
+}
+
+.vp-doc > div > h1:first-child .header-anchor {
+  display: none;
+}
+
+/**
  * Component: Custom Block
  * -------------------------------------------------------------------------- */
 

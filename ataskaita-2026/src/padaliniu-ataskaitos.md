@@ -1,8 +1,8 @@
 ---
-title: "Padalinių ataskaitos"
+title: "VU SA padalinių ataskaitos"
 ---
 
-# Nuorodos į detalesnes padalinių ataskaitas
+# VU SA padalinių ataskaitos
 
 | Padalinys | Ataskaita |
 | --- | --- |

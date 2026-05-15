@@ -55,7 +55,34 @@ const dag = getPersonsByColumn("Darinys", "VU SA Duomenų apsaugos grupė", "dar
 
 const revizija = getPersonsByColumn("Darinys", "VU SA Revizijos komisija", "dariniai");
 
-const iniciatyvos = getPersonsByColumn("Padalinys", "Iniciatyvos", "padaliniai");
+const iniciatyvos = [
+  { name: "Justas Norkus", title: "Vilnius University Young Energy Professionals Club", avatar: "", src: "", fullTerm: true },
+  { name: "Loranas Vaitkus", title: "START FM", avatar: "", src: "", fullTerm: true },
+  { name: "Vytenis Almonaitis", title: "Kendo Club", avatar: "", src: "", fullTerm: true },
+  { name: "Ugnė Mazaliauskaitė", title: "VU Career Days", avatar: "", src: "", fullTerm: true },
+  { name: "Paulina Šalkauskaitė", title: "VU Debate Club", avatar: "", src: "", fullTerm: true },
+  { name: "Enrika Gurevičiūtė", title: "“Be etikečių” Program", avatar: "", src: "", fullTerm: true },
+  { name: "Guoda Giniotytė", title: "Vilnius University Student Investment Fund", avatar: "", src: "", fullTerm: true },
+  { name: "Miglė Kučinskaitė", title: "ESN Vilnius University", avatar: "", src: "", fullTerm: true },
+  { name: "Airina Mikulėnaitė", title: "VU Legal Clinic", avatar: "", src: "", fullTerm: true },
+  { name: "Domas Sakalauskas", title: "The COINS Conference", avatar: "", src: "", fullTerm: true },
+  { name: "Raminta Kučinskytė", title: "Young Journalists’ Association", avatar: "", src: "", fullTerm: true },
+  { name: "Gintarė Vaičekauskytė", title: "HEMA Martial Arts Club", avatar: "", src: "", fullTerm: true },
+  { name: "Toma Vilkaitė", title: "Sustainability Ambassadors Network", avatar: "", src: "", fullTerm: true },
+  { name: "Greta Tamkevičiūtė", title: "VU SR Program “Students for Schoolchildren, Schoolchildren for Students”", avatar: "", src: "", fullTerm: true },
+  { name: "Ugnė Gudaitytė", title: "Writers' Club", avatar: "", src: "", fullTerm: true },
+  { name: "Monika Petravičiūtė", title: "Photo Club", avatar: "", src: "", fullTerm: true },
+  { name: "Antanas Gražulis", title: "Latin Club", avatar: "", src: "", fullTerm: true },
+  { name: "Robert Berlin", title: "“Kauliukas” Leisure Society", avatar: "", src: "", fullTerm: true },
+  { name: "Kotryna Katinaitė", title: "Club “Artì”", avatar: "", src: "", fullTerm: true },
+  { name: "Agata Liachovič", title: "Student Research Society “(Un)discovered Asia”", avatar: "", src: "", fullTerm: true },
+  { name: "Gytis Oškelis", title: "Student Committee for Civil Resistance", avatar: "", src: "", fullTerm: true },
+  { name: "Žygimantas Mazėtis", title: "Aurora Basket Basketball Club", avatar: "", src: "", fullTerm: true },
+  { name: "Mykolas Radziukynas", title: "Astronomy Club", avatar: "", src: "", fullTerm: true },
+  { name: "Vytautas Gricius", title: "Vilnius University Boxing Club “Perkūnas”", avatar: "", src: "", fullTerm: true },
+  { name: "Daniela Žagunytė-Totilaitė", title: "Hip Hop Dance Club “Anarchy”", avatar: "", src: "", fullTerm: true },
+  { name: "Brigita Kavaliauskaitė", title: "Criminology Student Research Society", avatar: "", src: "", fullTerm: true },
+];
 
 </script>
 
@@ -173,4 +200,4 @@ More on ISF [here](/en/stipri-organizacija/isf.md).
 
 ![Iniciatyvų vadovai](</img/dariniai/PKP vadovai.jpg>)
 
-<TeamAvatarLayout :showAvatar="false" :members="iniciatyvos" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="iniciatyvos" :showTitle="true" :showPadalinys="false" :sortByPadalinys="false" />

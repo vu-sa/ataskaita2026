@@ -90,10 +90,15 @@ const ltConfig: LocaleSpecificConfig<DefaultTheme.Config> = {
                 ]
             },
             {
+                text: 'VU SA padalinių ataskaitos',
+                items: [
+                    { text: 'VU SA padalinių ataskaitos', link: '/padaliniu-ataskaitos' },
+                ]
+            },
+            {
                 text: 'Dėkojame',
                 items: [
                     { text: 'VU SA bendruomenė', link: '/bendruomene' },
-                    { text: 'Padalinių ataskaitos', link: '/padaliniu-ataskaitos' },
                     { text: 'Draugai ir ataskaitos projekto rengėjai', link: '/padeka' },
                 ]
             }

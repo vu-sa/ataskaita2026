@@ -55,7 +55,34 @@ const dag = getPersonsByColumn("Darinys", "VU SA Duomenų apsaugos grupė", "dar
 
 const revizija = getPersonsByColumn("Darinys", "VU SA Revizijos komisija", "dariniai");
 
-const iniciatyvos = getPersonsByColumn("Padalinys", "Iniciatyvos", "padaliniai");
+const iniciatyvos = [
+  { name: "Justas Norkus", title: "VU JEK", avatar: "", src: "", fullTerm: true },
+  { name: "Loranas Vaitkus", title: "START FM", avatar: "", src: "", fullTerm: true },
+  { name: "Vytenis Almonaitis", title: "Kendo klubas", avatar: "", src: "", fullTerm: true },
+  { name: "Ugnė Mazaliauskaitė", title: "VU Karjeros dienos", avatar: "", src: "", fullTerm: true },
+  { name: "Paulina Šalkauskaitė", title: "VU Debatų klubas", avatar: "", src: "", fullTerm: true },
+  { name: "Enrika Gurevičiūtė", title: "VU SA programa „Be etikečių“", avatar: "", src: "", fullTerm: true },
+  { name: "Guoda Giniotytė", title: "VU Studentų Investicinis fondas", avatar: "", src: "", fullTerm: true },
+  { name: "Miglė Kučinskaitė", title: "ESN Vilnius University", avatar: "", src: "", fullTerm: true },
+  { name: "Airina Mikulėnaitė", title: "VU Teisės klinika", avatar: "", src: "", fullTerm: true },
+  { name: "Domas Sakalauskas", title: "The COINS konferencija", avatar: "", src: "", fullTerm: true },
+  { name: "Raminta Kučinskytė", title: "Jaunųjų žurnalistų draugija", avatar: "", src: "", fullTerm: true },
+  { name: "Gintarė Vaičekauskytė", title: "HEMA kovos menų klubas", avatar: "", src: "", fullTerm: true },
+  { name: "Toma Vilkaitė", title: "Tvarumo ambasadorių tinklas", avatar: "", src: "", fullTerm: true },
+  { name: "Greta Tamkevičiūtė", title: "VU SA programa „Studentai - moksleiviams, moksleiviai - studentams“", avatar: "", src: "", fullTerm: true },
+  { name: "Ugnė Gudaitytė", title: "Rašytojų klubas", avatar: "", src: "", fullTerm: true },
+  { name: "Monika Petravičiūtė", title: "Fotoklubas", avatar: "", src: "", fullTerm: true },
+  { name: "Antanas Gražulis", title: "Lotynistų klubas", avatar: "", src: "", fullTerm: true },
+  { name: "Robert Berlin", title: "Laisvalaikio draugija „Kauliukas“", avatar: "", src: "", fullTerm: true },
+  { name: "Kotryna Katinaitė", title: "Klubas „Artì“", avatar: "", src: "", fullTerm: true },
+  { name: "Agata Liachovič", title: "Studentų mokslinė draugija „(Un)discovered Asia“", avatar: "", src: "", fullTerm: true },
+  { name: "Gytis Oškelis", title: "Studentų pilietinio pasipriešinimo komitetas", avatar: "", src: "", fullTerm: true },
+  { name: "Žygimantas Mazėtis", title: "Krepšinio klubas „Aurora Basket“", avatar: "", src: "", fullTerm: true },
+  { name: "Mykolas Radziukynas", title: "Astronomų klubas", avatar: "", src: "", fullTerm: true },
+  { name: "Vytautas Gricius", title: "VU Bokso klubas „Perkūnas“", avatar: "", src: "", fullTerm: true },
+  { name: "Daniela Žagunytė-Totilaitė", title: "Hip Hoppo šokių klubas „Anarchy“", avatar: "", src: "", fullTerm: true },
+  { name: "Brigita Kavaliauskaitė", title: "Kriminologų SMD", avatar: "", src: "", fullTerm: true },
+];
 
 </script>
 
@@ -175,4 +202,4 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 ![Iniciatyvų vadovai](</img/dariniai/PKP vadovai.jpg>)
 
-<TeamAvatarLayout :showAvatar="false" :members="iniciatyvos" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="iniciatyvos" :showTitle="true" :showPadalinys="false" :sortByPadalinys="false" />
