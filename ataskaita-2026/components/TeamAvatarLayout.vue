@@ -6,6 +6,7 @@
       :size="avatarSize" 
       :src="member.avatar" 
       :alt="member.name"
+      :showAvatar="showAvatar"
     >
       <div class="flex flex-col leading-5">
         <strong class="text-md/4">{{ member.name ? member.name : getName(member.avatar) }}</strong>
@@ -32,6 +33,7 @@ const props = defineProps<{
   showPadalinys?: boolean;
   sortByPadalinys?: boolean;
   avatarSize?: 'tiny' | 'small' | 'normal';
+  showAvatar?: boolean;
 }>();
 
 // Default props
@@ -39,6 +41,7 @@ const showTitle = props.showTitle !== false; // Default to true
 const showPadalinys = props.showPadalinys !== false; // Default to true
 const sortByPadalinys = props.sortByPadalinys !== false; // Default to true
 const avatarSize = props.avatarSize || 'normal'; // Default to normal size
+const showAvatar = props.showAvatar !== false; // Default to true
 
 // Sort members by padalinys if requested
 const sortedMembers = computed(() => {

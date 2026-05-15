@@ -1,6 +1,6 @@
 <template>
-  <div class="grid grid-cols-[auto_1fr] gap-4 items-center">
-    <Avatar :class="{
+  <div :class="showAvatar ? 'grid grid-cols-[auto_1fr] gap-4 items-center' : 'grid grid-cols-1 gap-1 items-center'">
+    <Avatar v-if="showAvatar" :class="{
       'size-8': size === 'tiny',
       'size-12': size === 'small',
       'size-16': size === 'normal',
@@ -24,9 +24,11 @@ const props = defineProps<{
   alt: string;
   src: string;
   size?: 'tiny' | 'small' | 'normal';
+  showAvatar?: boolean;
 }>();
 
 const size = props.size ?? 'normal';
+const showAvatar = props.showAvatar !== false;
 
 /**
  * Get initials from a name for the avatar fallback

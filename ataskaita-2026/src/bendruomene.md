@@ -71,13 +71,13 @@ const iniciatyvos = getPersonsByColumn("Padalinys", "Iniciatyvos", "padaliniai")
 
 ![Centrinis biuras](</img/dariniai/CB.jpg>)
 
-<TeamAvatarLayout :members="cb" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="cb" :showTitle="true" :showPadalinys="false" />
 
 ## VU SA Taryba
 
 ![Taryba](</img/dariniai/Taryba.jpg>)
 
-<TeamAvatarLayout :members="taryba" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="taryba" :showTitle="false" :showPadalinys="true" />
 
 Daugiau apie Tarybą [skaitykite čia](/vu-sa/taryba.md).
 
@@ -91,7 +91,7 @@ Daugiau apie Parlamentą [skaitykite čia](/vu-sa/parlamentas.md).
 
 ![Revizijos komisija](</img/dariniai/Revizija.jpg>)
 
-<TeamAvatarLayout :members="revizija" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="revizija" :showTitle="true" :showPadalinys="false" />
 
 Daugiau apie Revizijos komisiją [skaitykite čia](/vu-sa/revizijos-komisija.md).
 
@@ -99,7 +99,7 @@ Daugiau apie Revizijos komisiją [skaitykite čia](/vu-sa/revizijos-komisija.md)
 
 ![ISF](</img/dariniai/ISF.jpg>)
 
-<TeamAvatarLayout :members="isf" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="isf" :showTitle="true" :showPadalinys="false" />
 
 Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
@@ -107,37 +107,37 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 ![DAG](</img/dariniai/DAG.jpg>)
 
-<TeamAvatarLayout :members="dag" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="dag" :showTitle="true" :showPadalinys="false" />
 
 ## Atstovų koordinatoriai (-ės)
 
 ![Atstovai](</img/dariniai/Atstovai.jpg>)
 
-<TeamAvatarLayout :members="atstovai" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="atstovai" :showTitle="false" :showPadalinys="true" />
 
 ## Akademinio proceso reikalų koordinatoriai (-ės)
 
 ![Akad](</img/dariniai/Akad.jpg>)
 
-<TeamAvatarLayout :members="akademiniai" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="akademiniai" :showTitle="false" :showPadalinys="true" />
 
 ## Socialinio proceso reikalų koordinatoriai (-ės)
 
 ![Soc](</img/dariniai/Soc.jpg>)
 
-<TeamAvatarLayout :members="socialiniai" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="socialiniai" :showTitle="false" :showPadalinys="true" />
 
 ## Komunikacijos koordinatoriai (-ės)
 
 ![Kom](</img/dariniai/Kom.jpg>)
 
-<TeamAvatarLayout :members="komunikaciniai" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="komunikaciniai" :showTitle="false" :showPadalinys="true" />
 
 ## Marketingo koordinatoriai (-ės)
 
 ![Marketingas](</img/dariniai/Mark.jpg>)
 
-<TeamAvatarLayout :members="marketinginiai" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="marketinginiai" :showTitle="false" :showPadalinys="true" />
 
 ## Organizacinės srities koordinatoriai (-ės)
 
@@ -145,34 +145,34 @@ Daugiau apie ISF [skaitykite čia](/stipri-organizacija/isf.md).
 
 <!-- Organizacinės srities koordinatoriai rūpinasi studentų socialine gerove, sprendžia gyvenimo bendrabučiuose, stipendijų ir kitus socialinės dimensijos klausimus. -->
 
-<TeamAvatarLayout :members="organizaciniai" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="organizaciniai" :showTitle="false" :showPadalinys="true" />
 
 ## Žmogiškųjų išteklių koordinatoriai (-ės)
 
 ![Žmogiškieji](</img/dariniai/HR.jpg>)
 
-<TeamAvatarLayout :members="zmogiskieji" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="zmogiskieji" :showTitle="false" :showPadalinys="true" />
 
 ## Integracijos proceso koordinatoriai (-ės)
 
 ![Integracija](</img/dariniai/Integr.jpg>)
 
-<TeamAvatarLayout :members="integracija" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="integracija" :showTitle="false" :showPadalinys="true" />
 
 ## Tarptautinių studentų reikalų koordinatoriai (-ės)
 
 ![Tarptautiniai](</img/dariniai/ISAC.jpg>)
 
-<TeamAvatarLayout :members="isac" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="isac" :showTitle="false" :showPadalinys="true" />
 
 ## Administratoriai (-ės)
 
 ![Administratoriai](</img/dariniai/Admin.jpg>)
 
-<TeamAvatarLayout :members="administratoriai" :showTitle="false" :showPadalinys="true" />
+<TeamAvatarLayout :showAvatar="false" :members="administratoriai" :showTitle="false" :showPadalinys="true" />
 
 ## Iniciatyvų vadovai (-ės)
 
 ![Iniciatyvų vadovai](</img/dariniai/PKP vadovai.jpg>)
 
-<TeamAvatarLayout :members="iniciatyvos" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="iniciatyvos" :showTitle="true" :showPadalinys="false" />

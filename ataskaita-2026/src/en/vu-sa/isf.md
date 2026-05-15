@@ -9,7 +9,7 @@ const isf = getPersonsByColumn("Darinys", "VU SA Institucinio stiprinimo fondas"
 
 ![VU SR Institutional Strengthening Fund](/img/dariniai/ISF.jpg){.rounded-sm}
 
-<TeamAvatarLayout :members="isf" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="isf" :showTitle="true" :showPadalinys="false" />
 
 ::: tip 📖 The Institutional Strengthening Fund (ISF)...
 is one of the structures of VU SR, functioning as a body that ensures the development of competencies and the quality of human resource management. The Fund reports to the President of VU SR but operates independently, making decisions related to member development and organizational strengthening. The Fund consists of 5–7 members for a one-year term, who are approved by the VU SR Council upon the President’s recommendation.

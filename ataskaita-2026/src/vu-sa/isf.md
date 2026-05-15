@@ -9,7 +9,7 @@ const isf = getPersonsByColumn("Darinys", "VU SA Institucinio stiprinimo fondas"
 
 ![VU SA Institucinio stiprinimo fondas](/img/dariniai/ISF.jpg){.rounded-sm}
 
-<TeamAvatarLayout :members="isf" :showTitle="true" :showPadalinys="false" />
+<TeamAvatarLayout :showAvatar="false" :members="isf" :showTitle="true" :showPadalinys="false" />
 
 ::: tip 📖 Institucinio stiprinimo fondas...
 yra viena iš VU SA struktūrų, veikianti kaip kompetencijų ugdymą ir žmogiškųjų išteklių valdymo kokybę užtikrinantis darinys. Fondas pavaldus VU SA Prezidentui (-ei), tačiau veikia savarankiškai priimdamas sprendimus, susijusius su narių ugdymu ir organizacijos stiprinimu. Fondą vienerių metų kadencijai sudaro 5–7 nariai (-ės), kuriuos (-ias) Prezidento teikimu tvirtina VU SA Taryba.
