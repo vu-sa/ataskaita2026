@@ -85,7 +85,7 @@ function onSelect() {
 // Helper function to scroll thumbnail into view
 function scrollThumbnailIntoView(index: number) {
   // Find the thumbnail element and scroll it into view if needed
-  const thumbnailsContainer = document.querySelector('.overflow-x-auto')
+  const thumbnailsContainer = document.querySelector('.testimonial-thumbnails-scroll')
   const thumbnailElements = thumbnailsContainer?.querySelectorAll('.flex-shrink-0')
   
   if (thumbnailsContainer && thumbnailElements && thumbnailElements[index]) {
@@ -157,7 +157,7 @@ watchOnce(emblaMainApi, (api) => {
     </Carousel>
 
     <!-- Use a simple grid layout for thumbnails instead of carousel -->
-    <div class="w-full mt-4 sm:mt-6 md:mt-8 px-4 sm:px-8 md:px-12 overflow-x-auto">
+    <div class="testimonial-thumbnails-scroll w-full mt-4 sm:mt-6 md:mt-8 px-4 sm:px-8 md:px-12 overflow-x-auto">
       <div class="flex flex-nowrap">
         <div 
           v-for="(testimonial, index) in props.testimonials" 

@@ -185,6 +185,15 @@
   );
 }
 
+.testimonial-thumbnails-scroll {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.testimonial-thumbnails-scroll::-webkit-scrollbar {
+  display: none;
+}
+
 /* Overline / eyebrow label with a red tick */
 .section-eyebrow {
   display: inline-flex;
