@@ -167,6 +167,24 @@
   );
 }
 
+.vp-doc .initiative-logo {
+  display: block;
+  width: min(180px, 55vw);
+  max-height: 120px;
+  object-fit: contain;
+  margin: -0.3rem 0 1rem;
+  padding: 0.7rem;
+  background: #fff;
+  border: 1px solid var(--vusa-hairline);
+  clip-path: polygon(
+    0 0,
+    calc(100% - 16px) 0,
+    100% 16px,
+    100% 100%,
+    0 100%
+  );
+}
+
 /* Overline / eyebrow label with a red tick */
 .section-eyebrow {
   display: inline-flex;
