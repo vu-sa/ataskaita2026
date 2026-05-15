@@ -1,6 +1,6 @@
 # VU SR Parliament
 
-![VU SR Parliament](/img/dariniai/Parlamentas.jpg){.rounded-sm}
+![VU SR Parliament](/img/dariniai/Parlamentas.webp){.rounded-sm}
 
 ::: tip 📖 VU SR Parliament is...
 a VU SR governing body, which considers the most important social and academic, student-related or other VU SR strategic issues.

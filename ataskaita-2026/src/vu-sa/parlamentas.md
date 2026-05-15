@@ -1,6 +1,6 @@
 # VU SA Parlamentas
 
-![VU SA Parlamentas](/img/dariniai/Parlamentas.jpg){.rounded-sm}
+![VU SA Parlamentas](/img/dariniai/Parlamentas.webp){.rounded-sm}
 
 ::: tip 📖 VU SA Parlamentas – tai...
 VU SA valdymo organas, svarstantis svarbiausius

@@ -1,6 +1,6 @@
 # VU SR DPG (Data Protection Group)
 
-![VU SR Data Protection Group](/img/dariniai/DAG.jpg){.rounded-sm}
+![VU SR Data Protection Group](/img/dariniai/DAG.webp){.rounded-sm}
 
 ::: details In 2025–2026, the Data Protection Group consisted of...
 

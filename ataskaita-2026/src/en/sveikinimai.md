@@ -20,7 +20,7 @@ const sveikintojai = congrats.en.map((item) => {
 
 ## Minister of Education, Science, and Sports Raminta Popovienė
 
-![Minister of Education, Science, and Sports Raminta Popovienė](/img/congrats/smsm.png)
+![Minister of Education, Science, and Sports Raminta Popovienė](/img/congrats/smsm.webp)
 
 <!-- SECTION:smsm:START -->
 
@@ -46,7 +46,7 @@ Minister of Education, Science, and Sports
 
 ## Rector of Vilnius University Prof. Rimvydas Petrauskas
 
-![Rector of Vilnius University Prof. Rimvydas Petrauskas](/img/congrats/rimvydas-petrauskas.jpg)
+![Rector of Vilnius University Prof. Rimvydas Petrauskas](/img/congrats/rimvydas-petrauskas.webp)
 
 <!-- SECTION:rektorius:START -->
 
@@ -76,7 +76,7 @@ Rector of Vilnius University
 
 ## Chair of the Senate of Vilnius University Prof. Eglė Lastauskienė
 
-![Chair of the Senate of Vilnius University Prof. Eglė Lastauskienė](/img/congrats/egle-lastauskiene.jpg)
+![Chair of the Senate of Vilnius University Prof. Eglė Lastauskienė](/img/congrats/egle-lastauskiene.webp)
 
 <!-- SECTION:senatas:START -->
 
@@ -98,7 +98,7 @@ Chair of the Senate of Vilnius University
 
 ## Chair of the Seimas Committee on Education and Science Jurgita Šukevičienė
 
-![Chair of the Seimas Committee on Education and Science Jurgita Šukevičienė](/img/congrats/jurgita-sukeviciene.jpg)
+![Chair of the Seimas Committee on Education and Science Jurgita Šukevičienė](/img/congrats/jurgita-sukeviciene.webp)
 
 <!-- SECTION:seimas:START -->
 
@@ -124,7 +124,7 @@ Chair of the Seimas Committee on Education and Science
 
 ## Ombudswoman for Academic Ethics and Procedures Dr. Reda Cimmperman
 
-![Ombudswoman for Academic Ethics and Procedures Dr. Reda Cimmperman](/img/congrats/reda-cimmperman.jpg)
+![Ombudswoman for Academic Ethics and Procedures Dr. Reda Cimmperman](/img/congrats/reda-cimmperman.webp)
 
 <!-- SECTION:aekpk:START -->
 
@@ -148,7 +148,7 @@ Ombudswoman for Academic Ethics and Procedures
 
 ## Director of The Centre for Quality Assessment in Higher Education Zinaida Manžuch
 
-![Director of The Centre for Quality Assessment in Higher Education Zinaida Manžuch](/img/congrats/zinaida-manzuch.jpg)
+![Director of The Centre for Quality Assessment in Higher Education Zinaida Manžuch](/img/congrats/zinaida-manzuch.webp)
 
 <!-- SECTION:skvc:START -->
 
@@ -160,7 +160,7 @@ The Centre for Quality Assessment in Higher Education warmly congratulates the V
 
 ## Director General of Vilnius University Library Irena Krivienė
 
-![Director General of Vilnius University Library Irena Krivienė](/img/congrats/irena-kriviene.png)
+![Director General of Vilnius University Library Irena Krivienė](/img/congrats/irena-kriviene.webp)
 
 <!-- SECTION:biblioteka:START -->
 
@@ -184,7 +184,7 @@ Director General of Vilnius University Library
 
 ## Arqus Student Council
 
-![Arqus Student Council](/img/congrats/arqus-studentu-taryba.png)
+![Arqus Student Council](/img/congrats/arqus-studentu-taryba.webp)
 
 <!-- SECTION:arqus:START -->
 

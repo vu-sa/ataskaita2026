@@ -1,6 +1,6 @@
 # Revizijos komisija
 
-![VU SA Revizijos komisija](/img/dariniai/Revizija.jpg){.rounded-sm}
+![VU SA Revizijos komisija](/img/dariniai/Revizija.webp){.rounded-sm}
 
 Revizijos komisija yra VU SA struktūrinių darinių finansinį ir veiklos patikrinimą atliekantis kontrolės organas. Komisiją sudaro penki nariai (-ės), renkami (-os) VU SA ataskaitinėje-rinkiminėje konferencijoje.
 

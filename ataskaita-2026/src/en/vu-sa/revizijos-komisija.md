@@ -1,6 +1,6 @@
 # VU SR Revision Commission
 
-![VU SR Revision Commission](/img/dariniai/Revizija.jpg){.rounded-sm}
+![VU SR Revision Commission](/img/dariniai/Revizija.webp){.rounded-sm}
 
 The Revision Commission is a supervisory body responsible for auditing the finances and operations of VU SR’s structural units. The Commission consists of five members, elected at the VU SR Annual Reporting-Electing Conference.
 

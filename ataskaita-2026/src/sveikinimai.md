@@ -20,7 +20,7 @@ const sveikintojai = congrats.lt.map((item) => {
 
 ## Švietimo, mokslo ir sporto ministrė Raminta Popovienė
 
-![Švietimo, mokslo ir sporto ministrė Raminta Popovienė](/img/congrats/smsm.png)
+![Švietimo, mokslo ir sporto ministrė Raminta Popovienė](/img/congrats/smsm.webp)
 
 <!-- SECTION:smsm:START -->
 
@@ -46,7 +46,7 @@ Sėkmės ir įkvėpimo tęsiant prasmingus darbus!
 
 ## Vilniaus universiteto rektorius prof. Rimvydas Petrauskas
 
-![Vilniaus universiteto rektorius prof. Rimvydas Petrauskas](/img/congrats/rimvydas-petrauskas.jpg)
+![Vilniaus universiteto rektorius prof. Rimvydas Petrauskas](/img/congrats/rimvydas-petrauskas.webp)
 
 <!-- SECTION:rektorius:START -->
 
@@ -76,7 +76,7 @@ Vilniaus universiteto rektorius
 
 ## Vilniaus universiteto Senato pirmininkė prof. Eglė Lastauskienė
 
-![Vilniaus universiteto Senato pirmininkė prof. Eglė Lastauskienė](/img/congrats/egle-lastauskiene.jpg)
+![Vilniaus universiteto Senato pirmininkė prof. Eglė Lastauskienė](/img/congrats/egle-lastauskiene.webp)
 
 <!-- SECTION:senatas:START -->
 
@@ -98,7 +98,7 @@ Vilniaus universiteto Senato pirmininkė
 
 ## Lietuvos Respublikos Seimo Švietimo ir mokslo komiteto pirmininkė Jurgita Šukevičienė
 
-![Lietuvos Respublikos Seimo Švietimo ir mokslo komiteto pirmininkė Jurgita Šukevičienė](/img/congrats/jurgita-sukeviciene.jpg)
+![Lietuvos Respublikos Seimo Švietimo ir mokslo komiteto pirmininkė Jurgita Šukevičienė](/img/congrats/jurgita-sukeviciene.webp)
 
 <!-- SECTION:seimas:START -->
 
@@ -126,7 +126,7 @@ Lietuvos Respublikos Seimo
 
 ## Akademinės etikos ir procedūrų kontrolierė dr. Reda Cimmperman
 
-![Akademinės etikos ir procedūrų kontrolierė dr. Reda Cimmperman](/img/congrats/reda-cimmperman.jpg)
+![Akademinės etikos ir procedūrų kontrolierė dr. Reda Cimmperman](/img/congrats/reda-cimmperman.webp)
 
 <!-- SECTION:aekpk:START -->
 
@@ -150,7 +150,7 @@ Akademinės etikos ir procedūrų kontrolierė
 
 ## Studijų kokybės vertinimo centro direktorė Zinaida Manžuch
 
-![Studijų kokybės vertinimo centro direktorė Zinaida Manžuch](/img/congrats/zinaida-manzuch.jpg)
+![Studijų kokybės vertinimo centro direktorė Zinaida Manžuch](/img/congrats/zinaida-manzuch.webp)
 
 <!-- SECTION:skvc:START -->
 
@@ -162,7 +162,7 @@ Studijų kokybės vertinimo centras nuoširdžiai sveikina Vilniaus universiteto
 
 ## VU bibliotekos generalinė direktorė Irena Krivienė
 
-![VU bibliotekos generalinė direktorė Irena Krivienė](/img/congrats/irena-kriviene.png)
+![VU bibliotekos generalinė direktorė Irena Krivienė](/img/congrats/irena-kriviene.webp)
 
 <!-- SECTION:biblioteka:START -->
 
@@ -186,7 +186,7 @@ VU bibliotekos generalinė direktorė
 
 ## Arqus studentų taryba
 
-![Arqus studentų taryba](/img/congrats/arqus-studentu-taryba.png)
+![Arqus studentų taryba](/img/congrats/arqus-studentu-taryba.webp)
 
 <!-- SECTION:arqus:START -->
 

@@ -1,6 +1,6 @@
 # VU SR Council
 
-![VU SR Council](/img/dariniai/Taryba.jpg){.rounded-sm}
+![VU SR Council](/img/dariniai/Taryba.webp){.rounded-sm}
 
 ::: tip **VU SR Council** is...
 a governing body of VU SR responsible for matters relating to cooperation and the internal affairs of the organisation. This governing body consists of the heads (chairs) of the organisational units carrying out representative functions and the President, who coordinates the work of this governing body.

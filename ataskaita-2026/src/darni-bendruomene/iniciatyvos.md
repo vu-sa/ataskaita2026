@@ -12,7 +12,7 @@ Vilniaus universiteto Jaunųjų energetikų klubas (VU JEK) – organizacija, vi
 
 ## START FM
 
-<img class="initiative-logo" src="/img/iniciatyvos/start-fm.png" alt="START FM logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/start-fm.webp" alt="START FM logotipas">
 
 *Vadovas - Loranas Vaitkus*
 
@@ -24,7 +24,7 @@ Ataskaitiniu laikotarpiu buvo rengtos ir transliuotos kultūrinio, šviečiamojo
 
 ## Kendo klubas
 
-<img class="initiative-logo" src="/img/iniciatyvos/kendo-klubas.jpg" alt="Kendo klubo logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/kendo-klubas.webp" alt="Kendo klubo logotipas">
 
 *Vadovas – Vytenis Almonaitis*
 
@@ -36,7 +36,7 @@ VU Kendo klubo treniruotės vyksta tris kartus per savaitę.
 
 ## VU Karjeros dienos
 
-<img class="initiative-logo" src="/img/iniciatyvos/vu-karjeros-dienos.png" alt="VU Karjeros dienų logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/vu-karjeros-dienos.webp" alt="VU Karjeros dienų logotipas">
 
 *Vadovė - Ugnė Mazaliauskaitė*
 
@@ -46,7 +46,7 @@ Jau tradicija tapęs kasmet organizuojamas renginys – vienintelis tokio tipo s
 
 ## VU Debatų klubas
 
-<img class="initiative-logo" src="/img/iniciatyvos/vu-debatu-klubas.png" alt="VU Debatų klubo logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/vu-debatu-klubas.webp" alt="VU Debatų klubo logotipas">
 
 *Vadovė – Paulina Šalkauskaitė*
 
@@ -54,7 +54,7 @@ VU Debatų klubas – klubas, vienijantis žmones iš įvairių Vilniaus univers
 
 ## VU SA programa „Be etikečių“
 
-<img class="initiative-logo" src="/img/iniciatyvos/be-etikeciu.png" alt="Be etikečių logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/be-etikeciu.webp" alt="Be etikečių logotipas">
 
 *Vadovė - Enrika Gurevičiūtė*
 
@@ -76,7 +76,7 @@ Pagrindiniai tikslai – supažindinti Lietuvos aukštosiose mokyklose studijuoj
 
 ## ESN Vilnius University
 
-<img class="initiative-logo" src="/img/iniciatyvos/esn-vilnius-university.png" alt="ESN Vilnius University logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/esn-vilnius-university.webp" alt="ESN Vilnius University logotipas">
 
 *Prezidentė - Miglė Kučinskaitė*
 
@@ -90,7 +90,7 @@ Be vietinių renginių ESN Vilnius University daug bendradarbiavo su kitomis ESN
 
 ## VU Teisės klinika
 
-<img class="initiative-logo" src="/img/iniciatyvos/vu-teises-klinika.png" alt="VU Teisės klinikos logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/vu-teises-klinika.webp" alt="VU Teisės klinikos logotipas">
 
 *Vadovė - Airina Mikulėnaitė*
 
@@ -100,7 +100,7 @@ VU TK vizija – pačių geriausių teisės studentų (-čių) praktikos vieta, 
 
 ## The COINS konferencija
 
-<img class="initiative-logo" src="/img/iniciatyvos/the-coins.png" alt="The COINS logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/the-coins.webp" alt="The COINS logotipas">
 
 *Vadovas – Domas Sakalauskas*
 
@@ -108,7 +108,7 @@ VU TK vizija – pačių geriausių teisės studentų (-čių) praktikos vieta, 
 
 ## Jaunųjų žurnalistų draugija
 
-<img class="initiative-logo" src="/img/iniciatyvos/jaunuju-zurnalistu-draugija.jpg" alt="Jaunųjų žurnalistų draugijos logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/jaunuju-zurnalistu-draugija.webp" alt="Jaunųjų žurnalistų draugijos logotipas">
 
 *Prezidentė - Raminta Kučinskytė*
 
@@ -116,7 +116,7 @@ Vilniaus universiteto Jaunųjų žurnalistų draugija (VU JŽD) – moksleivius 
 
 ## HEMA kovos menų klubas
 
-<img class="initiative-logo" src="/img/iniciatyvos/hema.jpg" alt="HEMA kovos menų klubo logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/hema.webp" alt="HEMA kovos menų klubo logotipas">
 
 *Vadovė - Gintarė Vaičekauskytė*
 
@@ -124,7 +124,7 @@ Istorinių Europos kovos menų (HEMA) klubas, kuriame treniruojamasi ilgaisiais 
 
 ## Tvarumo ambasadorių tinklas
 
-<img class="initiative-logo" src="/img/iniciatyvos/tvarumo-ambasadoriu-tinklas.jpg" alt="Tvarumo ambasadorių tinklo logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/tvarumo-ambasadoriu-tinklas.webp" alt="Tvarumo ambasadorių tinklo logotipas">
 
 *Vadovė - Toma Vilkaitė*
 
@@ -139,7 +139,7 @@ TAT organizuoja įvairias dirbtuves, paskaitas ir diskusijas, viktorinas, prista
 
 ## VU SA programa „Studentai - moksleiviams, moksleiviai - studentams“
 
-<img class="initiative-logo" src="/img/iniciatyvos/smms.png" alt="SMMS logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/smms.webp" alt="SMMS logotipas">
 
 *Vadovė - Greta Tamkevičiūtė*
 
@@ -157,7 +157,7 @@ VU Rašytojų klubas 2025–2026 m. rudenio ir pavasario semestrų metu toliau b
 
 ## Fotoklubas
 
-<img class="initiative-logo" src="/img/iniciatyvos/fotoklubas.png" alt="Fotoklubo logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/fotoklubas.webp" alt="Fotoklubo logotipas">
 
 *Vadovė - Monika Petravičiūtė*
 
@@ -171,7 +171,7 @@ Po jais prisijungė veikti dar vienas teatras (lietuvių k.), dabar klubas turi 
 
 ## Laisvalaikio draugija „Kauliukas“
 
-<img class="initiative-logo" src="/img/iniciatyvos/kauliukas.jpg" alt="Laisvalaikio draugijos Kauliukas logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/kauliukas.webp" alt="Laisvalaikio draugijos Kauliukas logotipas">
 
 *Vadovas – Robert Berlin*
 
@@ -179,7 +179,7 @@ Draugija organizuoja įvairius renginius (žaidimų vakarus, memų konkursus, D&
 
 ## Ukrainian youth group in Lithuania
 
-<img class="initiative-logo" src="/img/iniciatyvos/uygl.jpg" alt="Ukrainian Youth Group in Lithuania logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/uygl.webp" alt="Ukrainian Youth Group in Lithuania logotipas">
 
 UYGL – pirmoji ir vienintelė ukrainiečių jaunimo organizacija Lietuvoje, aktyviai dalyvaujanti visuomeniniame gyvenime.
 
@@ -187,7 +187,7 @@ Nuo 2025 m. liepos mėn. Organizacija išsaugo ir įsteigė atskirą juridinį a
 
 ## Klubas „Artì“
 
-<img class="initiative-logo" src="/img/iniciatyvos/arti.jpg" alt="Klubo Arti logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/arti.webp" alt="Klubo Arti logotipas">
 
 *Vadovė - Kotryna Katinaitė*
 
@@ -197,7 +197,7 @@ Taip pat prie šio klubo šiemet prisijungė Nėrimo klubo nariai (-ės).
 
 ## Studentų mokslinė draugija „(Un)discovered Asia“
 
-<img class="initiative-logo" src="/img/iniciatyvos/undiscovered-asia.jpg" alt="(Un)discovered Asia logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/undiscovered-asia.webp" alt="(Un)discovered Asia logotipas">
 
 *Vadovė - Agata Liachovič*
 
@@ -205,7 +205,7 @@ Taip pat prie šio klubo šiemet prisijungė Nėrimo klubo nariai (-ės).
 
 ## Studentų pilietinio pasipriešinimo komitetas
 
-<img class="initiative-logo" src="/img/iniciatyvos/sppk.png" alt="Studentų pilietinio pasipriešinimo komiteto logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/sppk.webp" alt="Studentų pilietinio pasipriešinimo komiteto logotipas">
 
 *Vadovas – Gytis Oškelis.*
 
@@ -225,7 +225,7 @@ Svarbiausi metų darbai pagal kryptis:
 
 ## Krepšinio klubas "Aurora Basket"
 
-<img class="initiative-logo" src="/img/iniciatyvos/aurora-basket.jpg" alt="Aurora Basket logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/aurora-basket.webp" alt="Aurora Basket logotipas">
 
 *Vadovas - Žygimantas Mazėtis*
 
@@ -233,7 +233,7 @@ Svarbiausi metų darbai pagal kryptis:
 
 ## Astronomų klubas
 
-<img class="initiative-logo" src="/img/iniciatyvos/astronomu-klubas.jpg" alt="Astronomų klubo logotipas">
+<img class="initiative-logo" src="/img/iniciatyvos/astronomu-klubas.webp" alt="Astronomų klubo logotipas">
 
 *Vadovas – Mykolas Radziukynas*
 

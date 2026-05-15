@@ -88,7 +88,7 @@ const iniciatyvos = [
 
 # Thank you for being part of our community!
 
-![VU SA](</img/dariniai/VU SA.jpg>)
+![VU SA](</img/dariniai/VU SA.webp>)
 
 ## Fields
 
@@ -96,25 +96,25 @@ const iniciatyvos = [
 
 ## Central Office
 
-![Centrinis biuras](</img/dariniai/CB.jpg>)
+![Centrinis biuras](</img/dariniai/CB.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="cb" :showTitle="true" :showPadalinys="false" />
 
 ## VU SR Board
 
-![Taryba](</img/dariniai/Taryba.jpg>)
+![Taryba](</img/dariniai/Taryba.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="taryba" :showTitle="false" :showPadalinys="true" />
 
 
 ## VU SR Parliament
 
-![Parlamentas](</img/dariniai/Parlamentas.jpg>)
+![Parlamentas](</img/dariniai/Parlamentas.webp>)
 
 
 ## VU SR Revision Commission
 
-![Revision Commission](</img/dariniai/Revizija.jpg>)
+![Revision Commission](</img/dariniai/Revizija.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="revizija" :showTitle="true" :showPadalinys="false" />
 
@@ -122,7 +122,7 @@ More on the Revision Commission [here](/en/vu-sa/revizijos-komisija.md).
 
 ## ISF
 
-![ISF](</img/dariniai/ISF.jpg>)
+![ISF](</img/dariniai/ISF.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="isf" :showTitle="true" :showPadalinys="false" />
 
@@ -130,43 +130,43 @@ More on ISF [here](/en/stipri-organizacija/isf.md).
 
 ## Data Security Group
 
-![DAG](</img/dariniai/DAG.jpg>)
+![DAG](</img/dariniai/DAG.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="dag" :showTitle="true" :showPadalinys="false" />
 
 ## Representatives coordinators
 
-![Atstovai](</img/dariniai/Atstovai.jpg>)
+![Atstovai](</img/dariniai/Atstovai.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="atstovai" :showTitle="false" :showPadalinys="true" />
 
 ## Academic process coordinators
 
-![Akad](</img/dariniai/Akad.jpg>)
+![Akad](</img/dariniai/Akad.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="akademiniai" :showTitle="false" :showPadalinys="true" />
 
 ## Social process coordinators
 
-![Soc](</img/dariniai/Soc.jpg>)
+![Soc](</img/dariniai/Soc.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="socialiniai" :showTitle="false" :showPadalinys="true" />
 
 ## Communication coordinators
 
-![Kom](</img/dariniai/Kom.jpg>)
+![Kom](</img/dariniai/Kom.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="komunikaciniai" :showTitle="false" :showPadalinys="true" />
 
 ## Marketing coordinators
 
-![Marketingas](</img/dariniai/Mark.jpg>)
+![Marketingas](</img/dariniai/Mark.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="marketinginiai" :showTitle="false" :showPadalinys="true" />
 
 ## Organisational coordinators
 
-![Organizaciniai](</img/dariniai/Org.jpg>)
+![Organizaciniai](</img/dariniai/Org.webp>)
 
 <!-- Organizacinės srities koordinatoriai rūpinasi studentų socialine gerove, sprendžia gyvenimo bendrabučiuose, stipendijų ir kitus socialinės dimensijos klausimus. -->
 
@@ -174,30 +174,30 @@ More on ISF [here](/en/stipri-organizacija/isf.md).
 
 ## Human Resources coordinators
 
-![Žmogiškieji](</img/dariniai/HR.jpg>)
+![Žmogiškieji](</img/dariniai/HR.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="zmogiskieji" :showTitle="false" :showPadalinys="true" />
 
 ## Cooridinators of the Integration Process
 
-![Integracija](</img/dariniai/Integr.jpg>)
+![Integracija](</img/dariniai/Integr.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="integracija" :showTitle="false" :showPadalinys="true" />
 
 ## International Student Affairs Coordinators
 
-![Tarptautiniai](</img/dariniai/ISAC.jpg>)
+![Tarptautiniai](</img/dariniai/ISAC.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="isac" :showTitle="false" :showPadalinys="true" />
 
 ## Administrators
 
-![Administratoriai](</img/dariniai/Admin.jpg>)
+![Administratoriai](</img/dariniai/Admin.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="administratoriai" :showTitle="false" :showPadalinys="true" />
 
 ## Managers of Initiatives
 
-![Iniciatyvų vadovai](</img/dariniai/PKP vadovai.jpg>)
+![Iniciatyvų vadovai](</img/dariniai/PKP vadovai.webp>)
 
 <TeamAvatarLayout :showAvatar="false" :members="iniciatyvos" :showTitle="true" :showPadalinys="false" :sortByPadalinys="false" />

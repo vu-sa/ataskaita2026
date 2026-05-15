@@ -1,6 +1,6 @@
 # Duomenų apsaugos grupė (DAG)
 
-![VU SA Duomenų apsaugos grupė](/img/dariniai/DAG.jpg){.rounded-sm}
+![VU SA Duomenų apsaugos grupė](/img/dariniai/DAG.webp){.rounded-sm}
 
 ::: details 2025–2026 m. Duomenų apsaugos grupę sudarė...
 

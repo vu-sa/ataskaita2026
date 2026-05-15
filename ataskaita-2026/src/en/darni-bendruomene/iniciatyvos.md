@@ -12,7 +12,7 @@ In 2025, the Young Energy Professionals Club visited schools to organize quizzes
 
 ## START FM
 
-<img class="initiative-logo" src="/img/iniciatyvos/start-fm.png" alt="START FM logo">
+<img class="initiative-logo" src="/img/iniciatyvos/start-fm.webp" alt="START FM logo">
 
 *Director – Loranas Vaitkus*
 
@@ -24,7 +24,7 @@ During the reporting period, cultural, educational, and informational programs w
 
 ## Kendo Club
 
-<img class="initiative-logo" src="/img/iniciatyvos/kendo-klubas.jpg" alt="Kendo Club logo">
+<img class="initiative-logo" src="/img/iniciatyvos/kendo-klubas.webp" alt="Kendo Club logo">
 
 *Leader – Vytenis Almonaitis*
 
@@ -36,7 +36,7 @@ VU Kendo Club practices are held three times a week.
 
 ## VU Career Days
 
-<img class="initiative-logo" src="/img/iniciatyvos/vu-karjeros-dienos.png" alt="VU Career Days logo">
+<img class="initiative-logo" src="/img/iniciatyvos/vu-karjeros-dienos.webp" alt="VU Career Days logo">
 
 *Leader – Ugnė Mazaliauskaitė*
 
@@ -46,7 +46,7 @@ This annual event, which has become a tradition, is the only gathering of its ki
 
 ## VU Debate Club
 
-<img class="initiative-logo" src="/img/iniciatyvos/vu-debatu-klubas.png" alt="VU Debate Club logo">
+<img class="initiative-logo" src="/img/iniciatyvos/vu-debatu-klubas.webp" alt="VU Debate Club logo">
 
 *Leader – Paulina Šalkauskaitė*
 
@@ -54,7 +54,7 @@ The VU Debate Club is a club that brings together people from various faculties 
 
 ## “Be etikečių” Program
 
-<img class="initiative-logo" src="/img/iniciatyvos/be-etikeciu.png" alt="Be etikečių logo">
+<img class="initiative-logo" src="/img/iniciatyvos/be-etikeciu.webp" alt="Be etikečių logo">
 
 *Leader – Enrika Gurevičiūtė*
 
@@ -76,7 +76,7 @@ Our main goals are to introduce young people studying at Lithuanian universities
 
 ## ESN Vilnius University
 
-<img class="initiative-logo" src="/img/iniciatyvos/esn-vilnius-university.png" alt="ESN Vilnius University logo">
+<img class="initiative-logo" src="/img/iniciatyvos/esn-vilnius-university.webp" alt="ESN Vilnius University logo">
 
 *President – Miglė Kučinskaitė*
 
@@ -90,7 +90,7 @@ In addition to local events, ESN Vilnius University collaborated extensively wit
 
 ## VU Legal Clinic
 
-<img class="initiative-logo" src="/img/iniciatyvos/vu-teises-klinika.png" alt="VU Legal Clinic logo">
+<img class="initiative-logo" src="/img/iniciatyvos/vu-teises-klinika.webp" alt="VU Legal Clinic logo">
 
 *Leader – Airina Mikulėnaitė*
 
@@ -100,7 +100,7 @@ The vision of VU LC is to be a place of practice for the very best law students,
 
 ## The COINS Conference
 
-<img class="initiative-logo" src="/img/iniciatyvos/the-coins.png" alt="The COINS logo">
+<img class="initiative-logo" src="/img/iniciatyvos/the-coins.webp" alt="The COINS logo">
 
 *Leader – Domas Sakalauskas*
 
@@ -108,7 +108,7 @@ The vision of VU LC is to be a place of practice for the very best law students,
 
 ## Young Journalists’ Association
 
-<img class="initiative-logo" src="/img/iniciatyvos/jaunuju-zurnalistu-draugija.jpg" alt="Young Journalists’ Association logo">
+<img class="initiative-logo" src="/img/iniciatyvos/jaunuju-zurnalistu-draugija.webp" alt="Young Journalists’ Association logo">
 
 *President – Raminta Kučinskytė*
 
@@ -116,7 +116,7 @@ The Vilnius University Young Journalists’ Society (VU YJS) is an initiative th
 
 ## HEMA Martial Arts Club
 
-<img class="initiative-logo" src="/img/iniciatyvos/hema.jpg" alt="HEMA Martial Arts Club logo">
+<img class="initiative-logo" src="/img/iniciatyvos/hema.webp" alt="HEMA Martial Arts Club logo">
 
 *Leader - Gintarė Vaičekauskytė*
 
@@ -124,7 +124,7 @@ A Historical European Martial Arts (HEMA) club where members train with long swo
 
 ## Sustainability Ambassadors Network
 
-<img class="initiative-logo" src="/img/iniciatyvos/tvarumo-ambasadoriu-tinklas.jpg" alt="Sustainability Ambassadors Network logo">
+<img class="initiative-logo" src="/img/iniciatyvos/tvarumo-ambasadoriu-tinklas.webp" alt="Sustainability Ambassadors Network logo">
 
 *Leader – Toma Vilkaitė*
 
@@ -140,7 +140,7 @@ SAN organizes various workshops, lectures, and discussions, quizzes, presentatio
 
 ## VU SR Program “Students for Schoolchildren, Schoolchildren for Students”
 
-<img class="initiative-logo" src="/img/iniciatyvos/smms.png" alt="SMMS logo">
+<img class="initiative-logo" src="/img/iniciatyvos/smms.webp" alt="SMMS logo">
 
 *Leader – Greta Tamkevičiūtė*
 
@@ -158,7 +158,7 @@ This year, we tried out new activities—we organized an evening of reading old,
 
 ## Photo Club
 
-<img class="initiative-logo" src="/img/iniciatyvos/fotoklubas.png" alt="Photo Club logo">
+<img class="initiative-logo" src="/img/iniciatyvos/fotoklubas.webp" alt="Photo Club logo">
 
 The VU Photo Club is a club that brings together photographers at Vilnius University—a community united by a passion for photography and a desire to share this art with others. The club views every challenge as an opportunity to grow, improve, and once again build a strong, active community of photographers at Vilnius University.
 
@@ -170,7 +170,7 @@ Another theater group (in Lithuanian) joined them, so the club now has three are
 
 ## “Kauliukas” Leisure Society
 
-<img class="initiative-logo" src="/img/iniciatyvos/kauliukas.jpg" alt="Kauliukas Leisure Society logo">
+<img class="initiative-logo" src="/img/iniciatyvos/kauliukas.webp" alt="Kauliukas Leisure Society logo">
 
 *Leader – Robert Berlin*
 
@@ -178,7 +178,7 @@ The society organizes various events (game nights, meme contests, D&D) every wee
 
 ## Ukrainian Youth Group in Lithuania
 
-<img class="initiative-logo" src="/img/iniciatyvos/uygl.jpg" alt="Ukrainian Youth Group in Lithuania logo">
+<img class="initiative-logo" src="/img/iniciatyvos/uygl.webp" alt="Ukrainian Youth Group in Lithuania logo">
 
 UYGL is the first and only Ukrainian youth organization in Lithuania that actively participates in public life.
 
@@ -186,7 +186,7 @@ Since July 2025, the organization has maintained and established a separate lega
 
 ## Club “Artì”
 
-<img class="initiative-logo" src="/img/iniciatyvos/arti.jpg" alt="Club Arti logo">
+<img class="initiative-logo" src="/img/iniciatyvos/arti.webp" alt="Club Arti logo">
 
 *Leader – Kotryna Katinaitė*
 
@@ -196,7 +196,7 @@ Members of the Knitting Club also joined this club this year.
 
 ## Student Research Society “(Un)discovered Asia”
 
-<img class="initiative-logo" src="/img/iniciatyvos/undiscovered-asia.jpg" alt="(Un)discovered Asia logo">
+<img class="initiative-logo" src="/img/iniciatyvos/undiscovered-asia.webp" alt="(Un)discovered Asia logo">
 
 *Leader - Agata Liachovič*
 
@@ -204,7 +204,7 @@ In 2025–2026, “(Un)discovered Asia” participated in the Vilnius University
 
 ## Student Committee for Civil Resistance
 
-<img class="initiative-logo" src="/img/iniciatyvos/sppk.png" alt="Student Committee for Civil Resistance logo">
+<img class="initiative-logo" src="/img/iniciatyvos/sppk.webp" alt="Student Committee for Civil Resistance logo">
 
 *Leader – Gytis Oškelis.*
 
@@ -224,7 +224,7 @@ Key annual tasks by area:
 
 ## Aurora Basket Basketball Club
 
-<img class="initiative-logo" src="/img/iniciatyvos/aurora-basket.jpg" alt="Aurora Basket logo">
+<img class="initiative-logo" src="/img/iniciatyvos/aurora-basket.webp" alt="Aurora Basket logo">
 
 *Leader – Žygimantas Mazėtis*
 
@@ -232,7 +232,7 @@ Aurora Basket is an amateur basketball club that brings together basketball enth
 
 ## Astronomy Club
 
-<img class="initiative-logo" src="/img/iniciatyvos/astronomu-klubas.jpg" alt="Astronomy Club logo">
+<img class="initiative-logo" src="/img/iniciatyvos/astronomu-klubas.webp" alt="Astronomy Club logo">
 
 *Leader – Mykolas Radziukynas*
 

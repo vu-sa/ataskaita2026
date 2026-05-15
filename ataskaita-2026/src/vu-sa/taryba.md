@@ -1,6 +1,6 @@
 # VU SA Taryba
 
-![VU SA Taryba](/img/dariniai/Taryba.jpg){.rounded-sm}
+![VU SA Taryba](/img/dariniai/Taryba.webp){.rounded-sm}
 
 ::: tip **VU SA Taryba** – tai...
 VU SA valdymo organas, sprendžiantis
