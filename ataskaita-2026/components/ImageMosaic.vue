@@ -18,12 +18,9 @@
 
 
           <!-- Hover overlay with caption -->
-          <div
+          <div v-if="image.caption"
             class="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex flex-col justify-end p-4">
-            <span v-if="image.name" class="text-white text-2xl font-semibold">
-              {{ image.name }}
-            </span>
-            <p v-if="image.caption" class="text-white/90 text-sm">
+            <p class="text-white/90 text-sm">
               {{ image.caption }}
             </p>
           </div>

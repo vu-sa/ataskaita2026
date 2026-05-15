@@ -1,6 +1,14 @@
 {
   "lt": [
     {
+      "img": "/img/congrats/smsm.png",
+      "name": "Raminta Popovienė",
+      "position": "Švietimo, mokslo ir sporto ministrė",
+      "anchor": "#smsm",
+      "quotePreview": "Jūsų iniciatyvumas ir įsitraukimas į švietimo politiką yra ryškus pilietiškumo pavyzdys.",
+      "objectPosition": "45% 30%"
+    },
+    {
       "img": "/img/congrats/rimvydas-petrauskas.jpg",
       "name": "prof. Rimvydas Petrauskas",
       "position": "Vilniaus universiteto rektorius",
@@ -57,6 +65,14 @@
     }
   ],
   "en": [
+    {
+      "img": "/img/congrats/smsm.png",
+      "name": "Raminta Popovienė",
+      "position": "Minister of Education, Science, and Sports",
+      "anchor": "#smsm",
+      "quotePreview": "Your initiative and engagement in education policy are a shining example of civic-mindedness.",
+      "objectPosition": "45% 30%"
+    },
     {
       "img": "/img/congrats/rimvydas-petrauskas.jpg",
       "name": "Prof. Rimvydas Petrauskas",

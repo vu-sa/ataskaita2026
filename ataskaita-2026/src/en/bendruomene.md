@@ -53,6 +53,8 @@ const isf = getPersonsByColumn("Darinys", "VU SA Institucinio stiprinimo fondas"
 
 const dag = getPersonsByColumn("Darinys", "VU SA Duomenų apsaugos grupė", "dariniai");
 
+const revizija = getPersonsByColumn("Darinys", "VU SA Revizijos komisija", "dariniai");
+
 const iniciatyvos = getPersonsByColumn("Padalinys", "Iniciatyvos", "padaliniai");
 
 </script>
@@ -82,6 +84,14 @@ const iniciatyvos = getPersonsByColumn("Padalinys", "Iniciatyvos", "padaliniai")
 
 ![Parlamentas](</img/dariniai/Parlamentas.jpg>)
 
+
+## VU SR Revision Commission
+
+![Revision Commission](</img/dariniai/Revizija.jpg>)
+
+<TeamAvatarLayout :members="revizija" :showTitle="true" :showPadalinys="false" />
+
+More on the Revision Commission [here](/en/vu-sa/revizijos-komisija.md).
 
 ## ISF
 

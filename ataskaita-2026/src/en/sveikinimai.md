@@ -16,6 +16,32 @@ const sveikintojai = congrats.en.map((item) => {
 
 <PhotoGrid :photos="sveikintojai" />
 
+<a id="smsm"></a>
+
+## Minister of Education, Science, and Sports Raminta Popovienė
+
+![Minister of Education, Science, and Sports Raminta Popovienė](/img/congrats/smsm.png)
+
+<!-- SECTION:smsm:START -->
+
+Dear students,
+
+I sincerely congratulate you on the successful results of another year’s work!
+
+The student body is an extremely important part of Lithuania’s education system, one that requires a strong and responsible voice to represent it. We appreciate your efforts in improving the quality of higher education, ensuring the accessibility and internationalization of studies, and striving for the best solutions for all students in Lithuania.
+
+Your initiative and engagement in education policy are a shining example of civic-mindedness. It is heartening that Lithuanian students are sensitive, civic-minded, and concerned about the well-being of society and the future of higher education.
+
+I thank you for your long-standing constructive cooperation with the Ministry of Education, Science, and Sports, and I sincerely hope that it will remain strong in the future.
+
+Good luck and inspiration as you continue your meaningful work!
+
+Minister of Education, Science, and Sports
+
+**Raminta Popovienė**
+
+<!-- SECTION:smsm:END -->
+
 <a id="rektorius"></a>
 
 ## Rector of Vilnius University Prof. Rimvydas Petrauskas

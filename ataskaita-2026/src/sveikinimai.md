@@ -16,6 +16,32 @@ const sveikintojai = congrats.lt.map((item) => {
 
 <PhotoGrid :photos="sveikintojai" />
 
+<a id="smsm"></a>
+
+## Švietimo, mokslo ir sporto ministrė Raminta Popovienė
+
+![Švietimo, mokslo ir sporto ministrė Raminta Popovienė](/img/congrats/smsm.png)
+
+<!-- SECTION:smsm:START -->
+
+Mieli studentai ir studentės,
+
+nuoširdžiai sveikinu su sėkmingais dar vienų metų darbo rezultatais!
+
+Studentija yra itin svarbi Lietuvos švietimo sistemos dalis, kuriai reikalingas stiprus ir atsakingas jai atstovaujantis balsas. Vertiname jūsų įdirbį tobulinant aukštojo mokslo kokybę, užtikrinant studijų prieinamumą ir tarptautiškumą bei siekiant geriausių sprendimų visiems Lietuvos studentams ir studentėms.
+
+Jūsų iniciatyvumas ir įsitraukimas į švietimo politiką yra ryškus pilietiškumo pavyzdys. Džiugu, kad Lietuvos studentai yra jautrūs, pilietiški ir neabejingi visuomenės gerovei bei aukštojo mokslo ateičiai.
+
+Dėkoju už ilgametį konstruktyvų bendradarbiavimą su Švietimo, mokslo ir sporto ministerija ir nuoširdžiai tikiuosi, kad jis išliks tvirtas ir ateityje.
+
+Sėkmės ir įkvėpimo tęsiant prasmingus darbus!
+
+Švietimo, mokslo ir sporto ministrė
+
+**Raminta Popovienė**
+
+<!-- SECTION:smsm:END -->
+
 <a id="rektorius"></a>
 
 ## Vilniaus universiteto rektorius prof. Rimvydas Petrauskas

@@ -26,10 +26,12 @@ const iconMap = {
   Turtle,
 };
 
+const pdfDownloadsVisible = false;
+
 const heroActions = [
   { theme: 'brand', text: 'Learn about this year!', link: '/en/mvp/strateginiai' },
   { theme: 'alt', text: 'Download PDF Report', link: '/VU_SR_Report_2025_2026.pdf' },
-];
+].filter((action) => pdfDownloadsVisible || !action.link.endsWith('.pdf'));
 
 const timelineEvents = timelineData.en;
 </script>
@@ -121,7 +123,7 @@ const timelineEvents = timelineData.en;
       <p class="text-lg mb-8 md:px-12">Every VU student can join VU SR.</p>
       <div class="flex flex-wrap justify-center gap-4 mt-8">
         <VPButton href="https://vusa.lt/tapk-nariu" text="Become a member" />
-        <VPButton href="/VU_SR_Report_2025_2026.pdf" text="Download PDF" theme="brand" />
+        <VPButton v-if="pdfDownloadsVisible" href="/VU_SR_Report_2025_2026.pdf" text="Download PDF" theme="brand" />
         <VPButton href="https://vusa.lt/lt/kontaktai/centrinis-biuras" text="Contact" theme="alt" />
       </div>
     </div>

@@ -53,10 +53,12 @@ const iconMap = {
 };
 
 // Hero actions
+const pdfDownloadsVisible = false;
+
 const heroActions = [
   { theme: 'brand', text: 'Sužinok apie šių metų veiklą!', link: '/strategija' },
   { theme: 'alt', text: 'Atsisiųsk PDF ataskaitą', link: '/VU_SA_Ataskaita_2025_2026.pdf' },
-];
+].filter((action) => pdfDownloadsVisible || !action.link.endsWith('.pdf'));
 
 // Import person utility functions
 import { getPersonByName, getPersonsByDepartment } from '@/lib/personUtils';
@@ -99,7 +101,7 @@ const logoSrc = computed(() => {
     <span class="section-eyebrow"><span class="eyebrow-num">01</span> Įžanga</span>
     <figure class="grid grid-cols-1 md:grid-cols-2 gap-8 items-center mt-8">
       <figcaption class="text-left order-2 md:order-1 flex flex-col border-l-4 border-[var(--vusa-red)] pl-6">
-        <p class="text-md font-medium italic mb-4 leading-6!">„Žengsime į būsimus studijų metus su jau patvirtintais naujais Organizacijos strateginiais projektais, liečiančiais kiekvieną mūsų bendruomenės narį ir narę. Didžiuojuosi Organizacija, mūsų visų įsitraukimu bei stipriomis partnerystėmis.  
+        <p class="text-md font-medium italic mb-4 leading-6!">„Jau 37-us metus žengiame vieningai už studentų ir studenčių ateitį. Ne išimtis ir šie metai. Kaip ir prieš metus, taip ir dabar - didžiuojuosi Organizacija, jos tobulėjimu, veiklos kokybe ir kadenciją baigiu kviesdama sustoti, pareflektuoti ir pažvelgti į tai, ką pavyko nuveikti šiemet.“  
         </p>
         <p class="font-bold mb-4 leading-6!">
           Kviečiu susipažinti su visais metuose nuveiktais darbais VU SA 2025–2026 metų ataskaitoje. Nuoširdžiai ačiū Jums už šiuos metus ir toliau dirbkime „Vieningai už studentų (-čių) ateitį!“
@@ -182,7 +184,8 @@ const logoSrc = computed(() => {
           href="https://vusa.lt/tapk-nariu" 
           text="Tapk nariu (-e)"
         />
-        <VPButton 
+        <VPButton
+          v-if="pdfDownloadsVisible"
           href="/VU_SA_Ataskaita_2025_2026.pdf" 
           text="Atsisiųsk ataskaitą" 
           theme="brand"
