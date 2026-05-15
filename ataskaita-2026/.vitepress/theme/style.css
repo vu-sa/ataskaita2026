@@ -97,6 +97,13 @@
   --vp-c-danger-soft: var(--vp-c-red-soft);
 }
 
+html,
+body,
+#app {
+  max-width: 100%;
+  overflow-x: clip;
+}
+
 /**
  * Component: Button
  * -------------------------------------------------------------------------- */
@@ -224,10 +231,15 @@
 .section-band {
   position: relative;
   background: var(--vusa-band);
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-  padding-left: calc(50vw - 50%);
-  padding-right: calc(50vw - 50%);
+  left: 50%;
+  width: 100%;
+  inline-size: 100dvw;
+  max-inline-size: 100dvw;
+  margin-left: -50dvw;
+  margin-right: 0;
+  padding-left: max(1.5rem, calc(50dvw - 50%));
+  padding-right: max(1.5rem, calc(50dvw - 50%));
+  overflow-x: clip;
 }
 
 .section-band::before,

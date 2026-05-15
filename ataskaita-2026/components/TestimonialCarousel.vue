@@ -152,8 +152,8 @@ watchOnce(emblaMainApi, (api) => {
           </TestimonialElement>
         </CarouselItem>
       </CarouselContent>
-      <CarouselPrevious class="hidden sm:flex absolute left-2 sm:left-4 bg-white/80 dark:bg-gray-800/80 hover:bg-white dark:hover:bg-gray-800 border border-amber-500/30" />
-      <CarouselNext class="hidden sm:flex absolute right-2 sm:right-4 bg-white/80 dark:bg-gray-800/80 hover:bg-white dark:hover:bg-gray-800 border border-amber-500/30" />
+      <CarouselPrevious class="hidden sm:flex absolute !left-2 sm:!left-4 bg-white/80 dark:bg-gray-800/80 hover:bg-white dark:hover:bg-gray-800 border border-amber-500/30" />
+      <CarouselNext class="hidden sm:flex absolute !right-2 sm:!right-4 bg-white/80 dark:bg-gray-800/80 hover:bg-white dark:hover:bg-gray-800 border border-amber-500/30" />
     </Carousel>
 
     <!-- Use a simple grid layout for thumbnails instead of carousel -->
